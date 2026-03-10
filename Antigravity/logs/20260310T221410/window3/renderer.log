@@ -93,3 +93,21 @@ Reparsing as ES module because module syntax was detected. This incurs a perform
 To eliminate this warning, add "type": "module" to /usr/lib/antigravity/extensions/chrome-devtools-mcp/package.json.
 (Use `exe --trace-warnings ...` to show where the warning was created)
 2026-03-11 00:12:23.551 [warning] [File Watcher ('parcel')] Watcher shutdown because watched path got deleted (path: /home/jerdan/.config/neofetch)
+2026-03-11 00:27:50.091 [error] [createInstance] xoe depends on UNKNOWN service agentSessions.: Error: [createInstance] xoe depends on UNKNOWN service agentSessions.
+    at Cos.y (vscode-file://vscode-app/usr/lib/antigravity/out/vs/workbench/workbench.desktop.main.js:5779:4186)
+    at Cos.o (vscode-file://vscode-app/usr/lib/antigravity/out/vs/workbench/workbench.desktop.main.js:5779:1360)
+    at Cos.createInstance (vscode-file://vscode-app/usr/lib/antigravity/out/vs/workbench/workbench.desktop.main.js:5779:1207)
+    at new gti (vscode-file://vscode-app/usr/lib/antigravity/out/vs/workbench/workbench.desktop.main.js:6448:8181)
+    at new u6n (vscode-file://vscode-app/usr/lib/antigravity/out/vs/workbench/workbench.desktop.main.js:6448:15815)
+    at Cos.o (vscode-file://vscode-app/usr/lib/antigravity/out/vs/workbench/workbench.desktop.main.js:5779:1710)
+    at Cos.createInstance (vscode-file://vscode-app/usr/lib/antigravity/out/vs/workbench/workbench.desktop.main.js:5779:1207)
+    at new pti (vscode-file://vscode-app/usr/lib/antigravity/out/vs/workbench/workbench.desktop.main.js:6448:18528)
+    at Cos.o (vscode-file://vscode-app/usr/lib/antigravity/out/vs/workbench/workbench.desktop.main.js:5779:1710)
+    at Cos.createInstance (vscode-file://vscode-app/usr/lib/antigravity/out/vs/workbench/workbench.desktop.main.js:5779:1207)
+2026-03-11 00:27:51.800 [error] Model is disposed!
+2026-03-11 00:27:52.677 [error] [Extension Host] (node:430158) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-03-11 00:27:57.175 [error] Model is disposed!
+2026-03-11 00:31:40.079 [error] Cannot read properties of null (reading 'getValue'): TypeError: Cannot read properties of null (reading 'getValue')
+    at CF.s (vscode-file://vscode-app/usr/lib/antigravity/out/vs/workbench/workbench.desktop.main.js:4913:3165)
+2026-03-11 00:33:46.547 [warning] [File Watcher ('parcel')] Watcher shutdown because watched path got deleted (path: /home/jerdan/.config/neofetch)

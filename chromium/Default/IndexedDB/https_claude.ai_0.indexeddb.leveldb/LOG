@@ -1,7 +1,0 @@
-2026/03/10-23:03:10.037 b73 Reusing MANIFEST /home/jerdan/.config/chromium/Default/IndexedDB/https_claude.ai_0.indexeddb.leveldb/MANIFEST-000001
-2026/03/10-23:03:10.038 b73 Recovering log #3
-2026/03/10-23:03:10.038 b73 Reusing old log /home/jerdan/.config/chromium/Default/IndexedDB/https_claude.ai_0.indexeddb.leveldb/000003.log 
-2026/03/10-23:18:35.416 b74 Level-0 table #5: started
-2026/03/10-23:18:35.417 b74 Level-0 table #5: 19149 bytes OK
-2026/03/10-23:18:35.418 b74 Delete type=0 #3
-2026/03/10-23:18:35.418 b74 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

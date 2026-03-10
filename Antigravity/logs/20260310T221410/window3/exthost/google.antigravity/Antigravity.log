@@ -67,3 +67,6 @@
 2026-03-11 00:21:28.193 [info] E0311 00:21:28.193134 430212 log.go:398] UNAVAILABLE (code 503): No capacity available for model claude-opus-4-6-thinking on the server: UNAVAILABLE (code 503): No capacity available for model claude-opus-4-6-thinking on the server
 2026-03-11 00:21:28.197 [info] I0311 00:21:28.196832 430212 planner_generator.go:285] Requesting planner with 49 chat messages at model retry attempt 1 and API retry attempt 2
 2026-03-11 00:21:29.337 [info] E0311 00:21:29.337006 430212 log.go:398] agent executor error: RESOURCE_EXHAUSTED (code 429): You have exhausted your capacity on this model. Your quota will reset after 3h6m14s.: RESOURCE_EXHAUSTED (code 429): You have exhausted your capacity on this model. Your quota will reset after 3h6m14s.
+2026-03-11 00:27:52.139 [info] I0311 00:27:52.139015 430212 http_helpers.go:123] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse Trace: 0xd469e2e349baa5d4
+2026-03-11 00:27:53.231 [info] I0311 00:27:53.231598 430212 http_helpers.go:123] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse Trace: 0x236bbcac068b2feb
+2026-03-11 00:27:57.738 [info] I0311 00:27:57.737828 430212 http_helpers.go:123] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse Trace: 0xb893aafa39e7dfda

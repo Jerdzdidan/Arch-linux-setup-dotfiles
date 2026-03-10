@@ -1,2 +1,3 @@
-2026/03/10-15:50:28.250 16a3 Creating DB /home/jerdan/.config/Typora/Session Storage since it was missing.
-2026/03/10-15:50:28.259 16a3 Reusing MANIFEST /home/jerdan/.config/Typora/Session Storage/MANIFEST-000001
+2026/03/11-00:27:02.874 6ecef Reusing MANIFEST /home/jerdan/.config/Typora/Session Storage/MANIFEST-000001
+2026/03/11-00:27:02.874 6ecef Recovering log #3
+2026/03/11-00:27:02.874 6ecef Reusing old log /home/jerdan/.config/Typora/Session Storage/000003.log 

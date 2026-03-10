@@ -26,3 +26,39 @@
 2026-03-11 00:12:56.295 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
 2026-03-11 00:12:56.309 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
 2026-03-11 00:12:56.429 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-03-11 00:27:51.794 [error] Error: Model is disposed!
+    at PS.lb (vscode-file://vscode-app/usr/lib/antigravity/out/vs/workbench/workbench.desktop.main.js:3040:304)
+    at PS.getVersionId (vscode-file://vscode-app/usr/lib/antigravity/out/vs/workbench/workbench.desktop.main.js:3042:2487)
+    at Ten.fetch (vscode-file://vscode-app/usr/lib/antigravity/out/vs/workbench/workbench.desktop.main.js:3243:15087)
+    at cT._computeFn (vscode-file://vscode-app/usr/lib/antigravity/out/vs/workbench/workbench.desktop.main.js:3243:34252)
+    at cT.get (vscode-file://vscode-app/usr/lib/antigravity/out/vs/workbench/workbench.desktop.main.js:2793:9669)
+    at cT.reportChanges (vscode-file://vscode-app/usr/lib/antigravity/out/vs/workbench/workbench.desktop.main.js:2793:576)
+    at pkr.endUpdate (vscode-file://vscode-app/usr/lib/antigravity/out/vs/workbench/workbench.desktop.main.js:2793:17819)
+    at cT.endUpdate (vscode-file://vscode-app/usr/lib/antigravity/out/vs/workbench/workbench.desktop.main.js:2793:11059)
+    at C6e.finish (vscode-file://vscode-app/usr/lib/antigravity/out/vs/workbench/workbench.desktop.main.js:2792:104244)
+    at gDl (vscode-file://vscode-app/usr/lib/antigravity/out/vs/workbench/workbench.desktop.main.js:2792:103731)
+2026-03-11 00:27:52.677 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2026-03-11 00:27:57.174 [error] Error: Model is disposed!
+    at PS.lb (vscode-file://vscode-app/usr/lib/antigravity/out/vs/workbench/workbench.desktop.main.js:3040:304)
+    at PS.getVersionId (vscode-file://vscode-app/usr/lib/antigravity/out/vs/workbench/workbench.desktop.main.js:3042:2487)
+    at Ten.fetch (vscode-file://vscode-app/usr/lib/antigravity/out/vs/workbench/workbench.desktop.main.js:3243:15087)
+    at cT._computeFn (vscode-file://vscode-app/usr/lib/antigravity/out/vs/workbench/workbench.desktop.main.js:3243:34252)
+    at cT.get (vscode-file://vscode-app/usr/lib/antigravity/out/vs/workbench/workbench.desktop.main.js:2793:9669)
+    at cT.reportChanges (vscode-file://vscode-app/usr/lib/antigravity/out/vs/workbench/workbench.desktop.main.js:2793:576)
+    at pkr.endUpdate (vscode-file://vscode-app/usr/lib/antigravity/out/vs/workbench/workbench.desktop.main.js:2793:17819)
+    at cT.endUpdate (vscode-file://vscode-app/usr/lib/antigravity/out/vs/workbench/workbench.desktop.main.js:2793:11059)
+    at C6e.finish (vscode-file://vscode-app/usr/lib/antigravity/out/vs/workbench/workbench.desktop.main.js:2792:104244)
+    at gDl (vscode-file://vscode-app/usr/lib/antigravity/out/vs/workbench/workbench.desktop.main.js:2792:103731)
+2026-03-11 00:27:57.812 [error] Error: Model is disposed!
+    at PS.lb (vscode-file://vscode-app/usr/lib/antigravity/out/vs/workbench/workbench.desktop.main.js:3040:304)
+    at PS.getVersionId (vscode-file://vscode-app/usr/lib/antigravity/out/vs/workbench/workbench.desktop.main.js:3042:2487)
+    at Ten.fetch (vscode-file://vscode-app/usr/lib/antigravity/out/vs/workbench/workbench.desktop.main.js:3243:15087)
+    at cT._computeFn (vscode-file://vscode-app/usr/lib/antigravity/out/vs/workbench/workbench.desktop.main.js:3243:34252)
+    at cT.get (vscode-file://vscode-app/usr/lib/antigravity/out/vs/workbench/workbench.desktop.main.js:2793:9669)
+    at cT.reportChanges (vscode-file://vscode-app/usr/lib/antigravity/out/vs/workbench/workbench.desktop.main.js:2793:576)
+    at pkr.endUpdate (vscode-file://vscode-app/usr/lib/antigravity/out/vs/workbench/workbench.desktop.main.js:2793:17819)
+    at cT.endUpdate (vscode-file://vscode-app/usr/lib/antigravity/out/vs/workbench/workbench.desktop.main.js:2793:11059)
+    at C6e.finish (vscode-file://vscode-app/usr/lib/antigravity/out/vs/workbench/workbench.desktop.main.js:2792:104244)
+    at gDl (vscode-file://vscode-app/usr/lib/antigravity/out/vs/workbench/workbench.desktop.main.js:2792:103731)
+2026-03-11 00:35:47.075 [info] Extension host terminating: renderer closed the MessagePort
+2026-03-11 00:35:47.106 [info] Extension host with pid 430158 exiting with code 0

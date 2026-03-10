@@ -1,6 +1,0 @@
-2026/03/10-19:52:39.983 b9c Reusing MANIFEST /home/jerdan/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
-2026/03/10-19:52:39.983 b9c Recovering log #7
-2026/03/10-19:52:39.985 b9c Reusing old log /home/jerdan/.config/chromium/Default/Sync Data/LevelDB/000007.log 
-2026/03/10-20:04:55.886 b9e Level-0 table #11: started
-2026/03/10-20:04:55.892 b9e Level-0 table #11: 103232 bytes OK
-2026/03/10-20:04:55.899 b9e Delete type=0 #7

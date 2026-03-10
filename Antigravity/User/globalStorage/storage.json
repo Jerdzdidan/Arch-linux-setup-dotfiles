@@ -118,7 +118,7 @@
             "titleBarHeight": 35,
             "activityBarWidth": 42,
             "sideBarWidth": 170,
-            "auxiliaryBarWidth": 509,
+            "auxiliaryBarWidth": 309,
             "statusBarHeight": 0,
             "windowBorder": false
         }
@@ -126,7 +126,7 @@
     "windowSplashWorkspaceOverride": {
         "layoutInfo": {
             "sideBarWidth": 170,
-            "auxiliaryBarWidth": 509,
+            "auxiliaryBarWidth": 309,
             "workspaces": {
                 "18ca98f7de3627148ed6c211a2a63793": {
                     "sideBarVisible": true,

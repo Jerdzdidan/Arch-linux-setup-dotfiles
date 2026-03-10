@@ -1,7 +1,0 @@
-2026/03/10-18:19:44.934 56a7 Creating DB /home/jerdan/.config/chromium/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb since it was missing.
-2026/03/10-18:19:44.937 56a7 Reusing MANIFEST /home/jerdan/.config/chromium/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/MANIFEST-000001
-2026/03/10-18:19:44.974 56a9 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
-2026/03/10-18:19:47.742 56b6 Level-0 table #5: started
-2026/03/10-18:19:47.744 56b6 Level-0 table #5: 3257 bytes OK
-2026/03/10-18:19:47.745 56b6 Delete type=0 #3
-2026/03/10-18:19:47.746 56a6 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
