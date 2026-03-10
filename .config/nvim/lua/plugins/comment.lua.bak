@@ -1,0 +1,28 @@
+return {
+  {
+    'numToStr/Comment.nvim',
+    dependencies = {
+      'JoosepAlviste/nvim-ts-context-commentstring',
+    },
+    config = function()
+      -- 1. Setup the context string helper
+      require('ts_context_commentstring').setup({
+        enable_autocmd = false,
+      })
+
+      -- 2. Setup Comment.nvim with the pre-hook
+      require('Comment').setup({
+        pre_hook = require('ts_context_commentstring.integrations.comment_nvim').create_pre_hook(),
+      })
+
+      -- 3. The "Emergency Fix": Manually define Blade's comment string
+      -- This stops the "Invalid commentstring" error
+      vim.api.nvim_create_autocmd("FileType", {
+        pattern = "blade",
+        callback = function()
+          vim.bo.commentstring = "{{-- %s --}}"
+        end,
+      })
+    end,
+  },
+}

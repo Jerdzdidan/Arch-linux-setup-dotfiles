@@ -1,0 +1,542 @@
+{
+   "app_description": {
+      "description": "",
+      "message": "Növeli a böngésződ sebességét és csökkenti memória igényét amikor sok lap van nyitva."
+   },
+   "bg_msg_1": {
+      "description": "",
+      "message": "Az automatikus altatás letiltva ennél a lapnál"
+   },
+   "bg_msg_2": {
+      "description": "",
+      "message": "Az automatikus altatás letiltva"
+   },
+   "bg_no_active_tab": {
+      "description": "",
+      "message": "Nincs aktív lap"
+   },
+   "blank_header": {
+      "description": "",
+      "message": "(Altatott ablak)"
+   },
+   "blank_msg": {
+      "description": "",
+      "message": "Az összes lap altatva van ebben az ablakban. Kattints bárhol ennek a lapnak a bezárásához és az utolsó aktív lapra váltáshoz."
+   },
+   "cmd_close": {
+      "description": "",
+      "message": "Lap bezárása"
+   },
+   "cmd_discard_lefts": {
+      "description": "",
+      "message": "Discard Tabs to the Left"
+   },
+   "cmd_discard_other_windows": {
+      "description": "",
+      "message": "Többi ablak lapjainak altatása"
+   },
+   "cmd_discard_rights": {
+      "description": "",
+      "message": "Discard Tabs to the Right"
+   },
+   "cmd_discard_tab": {
+      "description": "",
+      "message": "Lap altatása"
+   },
+   "cmd_discard_tabs": {
+      "description": "",
+      "message": "Minden más lap altatása"
+   },
+   "cmd_discard_tree": {
+      "description": "",
+      "message": "Lapcsoport altatása"
+   },
+   "cmd_discard_window": {
+      "description": "",
+      "message": "Minden más lap altatása ebben az ablakban"
+   },
+   "cmd_move_next": {
+      "description": "",
+      "message": "Ugrás a jobboldali lapra"
+   },
+   "cmd_move_previous": {
+      "description": "",
+      "message": "Ugrás a baloldali lapra"
+   },
+   "cmd_whitelist_domain": {
+      "description": "",
+      "message": "Sose altassa a weboldal lapjait"
+   },
+   "menu_close": {
+      "description": "",
+      "message": "Lap bezárása"
+   },
+   "menu_discard_lefts": {
+      "description": "",
+      "message": "Balra lévő lapok altatása"
+   },
+   "menu_discard_menu": {
+      "description": "",
+      "message": "Lapok altatása ebben az ablakban"
+   },
+   "menu_discard_other_windows": {
+      "description": "",
+      "message": "Lapok altatása a többi ablakban"
+   },
+   "menu_discard_rights": {
+      "description": "",
+      "message": "Jobbra lévő lapok altatása"
+   },
+   "menu_discard_tab": {
+      "description": "",
+      "message": "Lap altatása"
+   },
+   "menu_discard_tabs": {
+      "description": "",
+      "message": "Minden más lap altatása"
+   },
+   "menu_discard_tree": {
+      "description": "",
+      "message": "Lapcsoport altatása"
+   },
+   "menu_discard_window": {
+      "description": "",
+      "message": "Minden más lap altatása"
+   },
+   "menu_extra": {
+      "description": "",
+      "message": "Lapok figyelmen kívül hagyása"
+   },
+   "menu_move_next": {
+      "description": "",
+      "message": "Ugrás a jobboldali lapra"
+   },
+   "menu_move_previous": {
+      "description": "",
+      "message": "Ugrás a baloldali lapra"
+   },
+   "menu_msg1": {
+      "description": "",
+      "message": "hozzáadva az állandó kivételek listájához"
+   },
+   "menu_msg2": {
+      "description": "",
+      "message": "A protokol nem támogatott"
+   },
+   "menu_msg3": {
+      "description": "",
+      "message": "Nem lehet altatni az utolsó nem alvó lapot ebben az ablakban"
+   },
+   "menu_msg4": {
+      "description": "",
+      "message": "hozzáadva a munkamenet kizárásaiból"
+   },
+   "menu_msg5": {
+      "description": "",
+      "message": "eltávolítva az állandó kivételek listájáról"
+   },
+   "menu_msg6": {
+      "description": "",
+      "message": "eltávolítva a munkamenet kizárásaiból"
+   },
+   "menu_open_tab_then_discard": {
+      "description": "",
+      "message": "Megnyitás új alvó lapon"
+   },
+   "menu_whitelist_domain": {
+      "description": "",
+      "message": "Sose altassa a weboldal lapjait"
+   },
+   "options_audio": {
+      "description": "",
+      "message": "Ne altassa a lapot, ha médialejátszás van folyamatban"
+   },
+   "options_battery": {
+      "description": "",
+      "message": "Ne altassa a lapokat, ha a számítógép áramforrásról üzemel."
+   },
+   "options_click_discard_other_windows": {
+      "description": "",
+      "message": "Lapok altatása a többi ablakban"
+   },
+   "options_click_discard_tab": {
+      "description": "",
+      "message": "Lap altatása"
+   },
+   "options_click_discard_tabs": {
+      "description": "",
+      "message": "Minden más lap altatása"
+   },
+   "options_click_discard_window": {
+      "description": "",
+      "message": "Minden más lap altatása ebben az ablakban"
+   },
+   "options_click_popup": {
+      "description": "",
+      "message": "Felugró menü megjelenítése"
+   },
+   "options_click_release_other_windows": {
+      "description": "",
+      "message": "Lapok visszaállítása a többi ablakban"
+   },
+   "options_click_release_tabs": {
+      "description": "",
+      "message": "Minden más lap visszaállítása"
+   },
+   "options_click_release_window": {
+      "description": "",
+      "message": "Minden más lap visszaállítása ebben az ablakban"
+   },
+   "options_click_toggle_allowed": {
+      "description": "",
+      "message": "\"Ne altassa ezt a lapot ebben a munkamenetben\" kapcsolása"
+   },
+   "options_discarding_conditions": {
+      "description": "",
+      "message": "Altatási feltételek"
+   },
+   "options_discarding_options": {
+      "description": "",
+      "message": "Altatási beállítások"
+   },
+   "options_exceptions": {
+      "description": "",
+      "message": "Kivételek"
+   },
+   "options_export": {
+      "description": "",
+      "message": "Beállítások exportálása"
+   },
+   "options_faqs": {
+      "description": "",
+      "message": "GyIK megnyitása frissítések után"
+   },
+   "options_favicon": {
+      "description": "",
+      "message": "Favicon mentése az altatott lapokhoz (ha lehetséges)"
+   },
+   "options_favicon_delay": {
+      "description": "",
+      "message": "Favicon megváltoztatásának késleltetése (milliszekundumban)"
+   },
+   "options_form": {
+      "description": "",
+      "message": "Ne altassa a lapot, ha elküldetlen űrlap van kitöltve"
+   },
+   "options_go_hidden": {
+      "description": "",
+      "message": "Rejtett lap altatása"
+   },
+   "options_idle": {
+      "description": "",
+      "message": "Csak akkor altassa a lapokat, ha a számítógép \"üresjáratban\" van."
+   },
+   "options_idle_timeout": {
+      "description": "",
+      "message": "Tétlenségi intervallum az üresjárati állapot megállapításához (percben)"
+   },
+   "options_import": {
+      "description": "",
+      "message": "Beállítások importálása"
+   },
+   "options_left_click": {
+      "description": "",
+      "message": "Eszköztár bal kattintás művelete"
+   },
+   "options_link_context": {
+      "description": "",
+      "message": "Jelenjen meg a \"Megnyitás új alvó lapon\" lehetőség a linkek környezeti menüjében."
+   },
+   "options_list": {
+      "description": "",
+      "message": "Hostnevek vesszővel elválasztva"
+   },
+   "options_list_trash": {
+      "description": "",
+      "message": "Hostnevek vesszővel elválasztva, hagyd üresen, ha mindenre alkalmaznád"
+   },
+   "options_log": {
+      "description": "",
+      "message": "Naplók megjelenítése (hibakereséshez)"
+   },
+   "options_managed_1": {
+      "description": "",
+      "message": "Ez a kiegészítő kezeli a tárfiókokat, melynek segítségével a domain adminisztrátorok előre tudják konfigurálni a beállításokat."
+   },
+   "options_managed_2": {
+      "description": "",
+      "message": "További információ"
+   },
+   "options_memory": {
+      "description": "",
+      "message": "Háttérben lévő lap altatása, ha a memóriahasználata (totalJSHeapSize) több, mint (MByte)"
+   },
+   "options_misc": {
+      "description": "",
+      "message": "Egyebek"
+   },
+   "options_notification_permission": {
+      "description": "",
+      "message": "Ne altassa a lapokat, ha értesítéseket jeleníthet meg"
+   },
+   "options_online": {
+      "description": "",
+      "message": "Ne altassa a lapokat, ha nincs internetkapcsolat és a lap nincs az átmeneti tárban."
+   },
+   "options_page_context": {
+      "description": "",
+      "message": "Jelenítse meg az altatási lehetőségeket az oldal környezeti menüjében (ha támogatott)"
+   },
+   "options_paused": {
+      "description": "",
+      "message": "Ne altassa a lapot, ha szüneteltetett médialejátszás van folyamatban"
+   },
+   "options_period01_a": {
+      "description": "",
+      "message": "Inaktív lapok altatása"
+   },
+   "options_period02": {
+      "description": "",
+      "message": "perc elteltével (0 = tiltás), ha az inaktív lapok száma több, mint"
+   },
+   "options_period04": {
+      "description": "",
+      "message": "Altatás során ellenőrzött lapok maximális száma az automatikus altatás kérés során"
+   },
+   "options_pinned": {
+      "description": "",
+      "message": "Ne altassa a rögzített lapokat"
+   },
+   "options_plugin_blank": {
+      "description": "",
+      "message": "Nyisson meg egy átmeneti üres oldalt, amikor egy inaktív ablakban a lapok altatása történik annak érdekében, hogy az aktív fület is altatni lehessen az ablakban."
+   },
+   "options_plugin_dummy": {
+      "description": "",
+      "message": "Altatásnál az oldal tárolt képe legyen megjelenítve a fülön (béta)"
+   },
+   "options_plugin_focus": {
+      "description": "",
+      "message": "Altatás visszavonása az összes lapon az aktív ablakban. Ha engedélyezed, akkor az aktív ablakban egyetlen lap sem lesz altatva"
+   },
+   "options_plugin_force": {
+      "description": "",
+      "message": "Azonnal altassa az alábbi hostneveket, amikor a lap nem aktív"
+   },
+   "options_plugin_new": {
+      "description": "",
+      "message": "Minden új megnyitott lap altatása a betöltését követően"
+   },
+   "options_plugin_trash01": {
+      "description": "",
+      "message": "Törölje a régi alvó lapokat, ha inaktívak több, mint (óráig)"
+   },
+   "options_plugin_trash02": {
+      "description": "",
+      "message": "óra"
+   },
+   "options_plugin_trash_unloaded": {
+      "description": "",
+      "message": "A régi betöltetlen lapokra is legyen érvényes"
+   },
+   "options_plugin_trash_whitelist": {
+      "description": "",
+      "message": "Csak az alábbi URL mintákkal egyező lapokat törölje"
+   },
+   "options_plugin_unloaded": {
+      "description": "",
+      "message": "Altassa az összes nem betöltött lapot a böngésző indulásánál. Ezáltal az összes inaktív lap altatva lesz."
+   },
+   "options_plugin_youtube": {
+      "description": "",
+      "message": "Youtube időbélyeg eltárolása mielőtt az altatás bekövetkezik"
+   },
+   "options_plugins": {
+      "description": "",
+      "message": "Pluginek"
+   },
+   "options_prepends": {
+      "description": "",
+      "message": "Szimbólum megjelenítése az alvó lapokon (pl. 💤 vagy ⏻︎) (ha lehetséges)"
+   },
+   "options_rate_btn": {
+      "description": "",
+      "message": "Értékelés"
+   },
+   "options_rate_desc": {
+      "description": "",
+      "message": "Ha szeretnéd értékelni a bővítményt kattints"
+   },
+   "options_read_more": {
+      "description": "",
+      "message": "(további információ)"
+   },
+   "options_release_next_tab": {
+      "description": "",
+      "message": "A következő lap visszaállítása (az aktív laptól jobbra lévőt)"
+   },
+   "options_release_previous_tab": {
+      "description": "",
+      "message": "Az előző lap visszaállítása (az aktív laptól balra lévőt)"
+   },
+   "options_reset": {
+      "description": "",
+      "message": "Gyári visszaállítás"
+   },
+   "options_save": {
+      "description": "",
+      "message": "Beállítások mentése"
+   },
+   "options_save_msg": {
+      "description": "",
+      "message": "Beállítások elmentve"
+   },
+   "options_save_notice": {
+      "description": "",
+      "message": "Kattints a \"Beállítások mentése\" gombra az oldal alján, ha minden szükséges beállítást módosítottál!"
+   },
+   "options_simultaneous_jobs": {
+      "description": "",
+      "message": "Engedélyezett egyidejű altatási műveletek száma"
+   },
+   "options_startup_pinned": {
+      "description": "",
+      "message": "Összes rögzített lap altatása a böngésző vagy bővítmény elindulásakor"
+   },
+   "options_startup_release_pinned": {
+      "description": "",
+      "message": "Összes rögzített lap visszaállítása a böngésző vagy bővítmény elindulásakor"
+   },
+   "options_startup_unpinned": {
+      "description": "",
+      "message": "Összes nem rögzített lap altatása a böngésző vagy bővítmény elindulásakor"
+   },
+   "options_support": {
+      "description": "",
+      "message": "Fejlesztés támogatása"
+   },
+   "options_tab_context": {
+      "description": "",
+      "message": "Altatási lehetőségek megjelenítése a lap környezeti menüjében (jelenleg csak Firefox támogatja)"
+   },
+   "options_title": {
+      "description": "",
+      "message": "Beállítások :: Auto Tab Discard"
+   },
+   "options_url_based": {
+      "description": "",
+      "message": "Csak a következő inaktív hostneveket és reguálris kifejezések altatása"
+   },
+   "options_whitelist": {
+      "description": "",
+      "message": "Az alábbi hostnevek és reguáris kifejezések nem lesznek altatva. Ajánlott a környezeti menüből módosítani ezt a listát. Használd a \"Shift\" gombot amikor a környezeti menüben szabályt állítasz be, hogy reguláris kifejezés jöjjön létre."
+   },
+   "popup_allowed": {
+      "description": "",
+      "message": "Keep Selected Tabs for This Session"
+   },
+   "popup_close": {
+      "description": "",
+      "message": "Lap bezárása"
+   },
+   "popup_close_title": {
+      "description": "",
+      "message": "Jelenlegi lap bezárása és váltás az előző aktív lapra"
+   },
+   "popup_discard_lefts": {
+      "description": "",
+      "message": "Balra lévő lapok altatása"
+   },
+   "popup_discard_other_windows": {
+      "description": "",
+      "message": "Lapok altatása minden más ablakban"
+   },
+   "popup_discard_rights": {
+      "description": "",
+      "message": "Jobbra lévő lapok altatása"
+   },
+   "popup_discard_tab": {
+      "description": "",
+      "message": "Lap altatása"
+   },
+   "popup_discard_tabs": {
+      "description": "",
+      "message": "Minden más fül altatása"
+   },
+   "popup_discard_tree": {
+      "description": "",
+      "message": "Lapcsoport altatása"
+   },
+   "popup_discard_window": {
+      "description": "",
+      "message": "Minden más lap altatása ebben az ablakban"
+   },
+   "popup_move_next": {
+      "description": "",
+      "message": "Jobboldali lap"
+   },
+   "popup_move_next_title": {
+      "description": "",
+      "message": "Ugrás a következő aktív lapra"
+   },
+   "popup_move_previous": {
+      "description": "",
+      "message": "Baloldali lap"
+   },
+   "popup_move_previous_title": {
+      "description": "",
+      "message": "Ugrás az előző aktív lapra"
+   },
+   "popup_open_options": {
+      "description": "",
+      "message": "Beállítások"
+   },
+   "popup_release": {
+      "description": "",
+      "message": "Altatás visszavonása. A tárolt tartalom felülírásához Shift+bal kattintás"
+   },
+   "popup_shift_hint": {
+      "description": "",
+      "message": "Használd a Shift billentyűt az automatikus altatási szabályok kihagyásához."
+   },
+   "popup_tmp_0": {
+      "description": "",
+      "message": "Ki"
+   },
+   "popup_tmp_1": {
+      "description": "",
+      "message": "1 óráig"
+   },
+   "popup_tmp_12": {
+      "description": "",
+      "message": "12 óráig"
+   },
+   "popup_tmp_24": {
+      "description": "",
+      "message": "1 napig"
+   },
+   "popup_tmp_6": {
+      "description": "",
+      "message": "6 óráig"
+   },
+   "popup_tmp_disable": {
+      "description": "",
+      "message": "Altatás kikapcsolása globálisan (percig)"
+   },
+   "popup_whitelist_always": {
+      "description": "",
+      "message": "Sose altassa"
+   },
+   "popup_whitelist_always_title": {
+      "description": "",
+      "message": "Kattints ide a hostnév kivételekhez adásához. Shift+kattintás a teljes URL-t adja hozzá a listához"
+   },
+   "popup_whitelist_desc": {
+      "description": "",
+      "message": "Ne altassa ezt az oldalt"
+   },
+   "popup_whitelist_session": {
+      "description": "",
+      "message": "Munkamenetben"
+   }
+}

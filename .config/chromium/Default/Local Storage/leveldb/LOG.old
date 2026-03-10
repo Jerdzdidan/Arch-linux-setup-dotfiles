@@ -1,0 +1,45 @@
+2026/03/10-19:52:39.988 5 Reusing MANIFEST /home/jerdan/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2026/03/10-19:52:39.994 5 Recovering log #74
+2026/03/10-19:52:39.994 5 Reusing old log /home/jerdan/.config/chromium/Default/Local Storage/leveldb/000074.log 
+2026/03/10-19:53:39.997 5 Level-0 table #78: started
+2026/03/10-19:53:40.007 5 Level-0 table #78: 349244 bytes OK
+2026/03/10-19:53:40.009 5 Delete type=0 #74
+2026/03/10-19:53:40.009 5 Compacting 4@0 + 1@1 files
+2026/03/10-19:53:40.018 5 Generated table #79@0: 550 keys, 488817 bytes
+2026/03/10-19:53:40.018 5 Compacted 4@0 + 1@1 files => 488817 bytes
+2026/03/10-19:53:40.019 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/10-19:53:40.019 5 Delete type=2 #66
+2026/03/10-19:53:40.019 5 Delete type=2 #69
+2026/03/10-19:53:40.019 5 Delete type=2 #72
+2026/03/10-19:53:40.020 5 Delete type=2 #75
+2026/03/10-19:53:40.020 5 Delete type=2 #78
+2026/03/10-20:01:34.704 5 Level-0 table #81: started
+2026/03/10-20:01:34.707 5 Level-0 table #81: 30532 bytes OK
+2026/03/10-20:01:34.710 5 Delete type=0 #77
+2026/03/10-20:02:15.667 7 Level-0 table #83: started
+2026/03/10-20:02:15.674 7 Level-0 table #83: 25984 bytes OK
+2026/03/10-20:02:15.676 7 Delete type=0 #80
+2026/03/10-20:02:58.520 7 Level-0 table #85: started
+2026/03/10-20:02:58.527 7 Level-0 table #85: 26987 bytes OK
+2026/03/10-20:02:58.528 7 Delete type=0 #82
+2026/03/10-20:03:59.986 5 Level-0 table #87: started
+2026/03/10-20:03:59.993 5 Level-0 table #87: 27373 bytes OK
+2026/03/10-20:03:59.995 5 Delete type=0 #84
+2026/03/10-20:03:59.995 5 Compacting 4@0 + 1@1 files
+2026/03/10-20:04:00.003 5 Generated table #88@0: 550 keys, 495716 bytes
+2026/03/10-20:04:00.003 5 Compacted 4@0 + 1@1 files => 495716 bytes
+2026/03/10-20:04:00.004 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/10-20:04:00.004 5 Delete type=2 #79
+2026/03/10-20:04:00.004 5 Delete type=2 #81
+2026/03/10-20:04:00.004 5 Delete type=2 #83
+2026/03/10-20:04:00.004 5 Delete type=2 #85
+2026/03/10-20:04:00.004 5 Delete type=2 #87
+2026/03/10-20:09:02.556 7 Level-0 table #90: started
+2026/03/10-20:09:02.563 7 Level-0 table #90: 30229 bytes OK
+2026/03/10-20:09:02.566 7 Delete type=0 #86
+2026/03/10-20:09:51.527 7 Level-0 table #92: started
+2026/03/10-20:09:51.534 7 Level-0 table #92: 29128 bytes OK
+2026/03/10-20:09:51.536 7 Delete type=0 #89
+2026/03/10-20:10:25.143 5 Level-0 table #94: started
+2026/03/10-20:10:25.150 5 Level-0 table #94: 30321 bytes OK
+2026/03/10-20:10:25.154 5 Delete type=0 #91

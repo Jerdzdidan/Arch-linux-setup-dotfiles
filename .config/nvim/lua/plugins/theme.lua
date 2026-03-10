@@ -1,0 +1,1 @@
+/home/jerdan/.config/omarchy/current/theme/neovim.lua

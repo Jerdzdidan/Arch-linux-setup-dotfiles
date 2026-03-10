@@ -1,0 +1,28 @@
+2026-03-10 22:34:45.877 [info] Launching browser...
+2026-03-10 22:34:45.877 [info] Not in remote SSH session. Skipping reverse proxy initialization.
+2026-03-10 22:34:45.880 [info] No Chrome with CDP found on port 9222.
+2026-03-10 22:34:45.890 [info] Launching browser with command: "/usr/bin/chromium" --remote-debugging-port=9222 --user-data-dir=/home/jerdan/.gemini/antigravity-browser-profile --disable-fre --no-default-browser-check --no-first-run --auto-accept-browser-signin-for-tests --ash-no-nudges --disable-features=OfferMigrationToDiceUsers,OptGuideOnDeviceModel
+2026-03-10 22:34:45.901 [info] No Chrome with CDP found on port 9222.
+2026-03-10 22:34:46.441 [info] Chrome with CDP is already running on port 9222.
+2026-03-10 22:34:46.473 [info] Browser ready on port 9222 after 604.3110360000283ms
+2026-03-10 22:35:08.566 [info] Launching browser...
+2026-03-10 22:35:08.570 [info] Not in remote SSH session. Skipping reverse proxy initialization.
+2026-03-10 22:35:08.576 [info] No Chrome with CDP found on port 9222.
+2026-03-10 22:35:08.579 [info] Launching browser with command: "/usr/bin/chromium" --remote-debugging-port=9222 --user-data-dir=/home/jerdan/.gemini/antigravity-browser-profile --disable-fre --no-default-browser-check --no-first-run --auto-accept-browser-signin-for-tests --ash-no-nudges --disable-features=OfferMigrationToDiceUsers,OptGuideOnDeviceModel
+2026-03-10 22:35:08.588 [info] No Chrome with CDP found on port 9222.
+2026-03-10 22:35:09.114 [info] Chrome with CDP is already running on port 9222.
+2026-03-10 22:35:09.144 [info] Browser ready on port 9222 after 576.9947929999325ms
+2026-03-10 22:35:39.693 [info] Launching browser...
+2026-03-10 22:35:39.697 [info] Not in remote SSH session. Skipping reverse proxy initialization.
+2026-03-10 22:35:39.703 [info] No Chrome with CDP found on port 9222.
+2026-03-10 22:35:39.713 [info] Launching browser with command: "/usr/bin/chromium" --remote-debugging-port=9222 --user-data-dir=/home/jerdan/.gemini/antigravity-browser-profile --disable-fre --no-default-browser-check --no-first-run --auto-accept-browser-signin-for-tests --ash-no-nudges --disable-features=OfferMigrationToDiceUsers,OptGuideOnDeviceModel
+2026-03-10 22:35:39.728 [info] No Chrome with CDP found on port 9222.
+2026-03-10 22:35:40.313 [info] Chrome with CDP is already running on port 9222.
+2026-03-10 22:35:40.338 [info] Browser ready on port 9222 after 644.5068520000204ms
+2026-03-10 22:36:08.348 [info] Launching browser...
+2026-03-10 22:36:08.358 [info] Not in remote SSH session. Skipping reverse proxy initialization.
+2026-03-10 22:36:08.372 [info] No Chrome with CDP found on port 9222.
+2026-03-10 22:36:08.375 [info] Launching browser with command: "/usr/bin/chromium" --remote-debugging-port=9222 --user-data-dir=/home/jerdan/.gemini/antigravity-browser-profile --disable-fre --no-default-browser-check --no-first-run --auto-accept-browser-signin-for-tests --ash-no-nudges --disable-features=OfferMigrationToDiceUsers,OptGuideOnDeviceModel
+2026-03-10 22:36:08.389 [info] No Chrome with CDP found on port 9222.
+2026-03-10 22:36:08.912 [info] Chrome with CDP is already running on port 9222.
+2026-03-10 22:36:08.945 [info] Browser ready on port 9222 after 596.493004999822ms

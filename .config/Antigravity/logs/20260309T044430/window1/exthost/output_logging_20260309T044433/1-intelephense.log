@@ -1,0 +1,12 @@
+[Info  - 4:44:34 AM] Initialising intelephense 1.16.5
+[Info  - 4:44:34 AM] Reading state from /home/jerdan/.config/Antigravity/User/workspaceStorage/18ca98f7de3627148ed6c211a2a63793/bmewburn.vscode-intelephense-client/2d7c1c5d.
+[Info  - 4:44:35 AM] Initialised in 565 ms
+[Info  - 4:44:35 AM] Searching file:///home/jerdan/.antigravity/extensions/bmewburn.vscode-intelephense-client-1.16.5-universal/node_modules/intelephense/lib/stub for files to index.
+[Info  - 4:44:35 AM] Searching file:///opt/lampp/htdocs/AU-AIS for files to index.
+[Warn  - 4:44:35 AM] file:///opt/lampp/htdocs/AU-AIS/vendor/composer/autoload_classmap.php is over the maximum file size of 1000000 bytes.
+[Warn  - 4:44:35 AM] file:///opt/lampp/htdocs/AU-AIS/vendor/composer/autoload_static.php is over the maximum file size of 1000000 bytes.
+[Warn  - 4:44:35 AM] file:///opt/lampp/htdocs/AU-AIS/vendor/fakerphp/faker/src/Faker/Provider/nl_BE/Text.php is over the maximum file size of 1000000 bytes.
+[Info  - 4:44:35 AM] Indexing started.
+[Info  - 4:44:36 AM] Indexing ended. 5 files indexed in 0s.
+[Info  - 4:44:36 AM] Writing state to /home/jerdan/.config/Antigravity/User/workspaceStorage/18ca98f7de3627148ed6c211a2a63793/bmewburn.vscode-intelephense-client/2d7c1c5d.
+[Info  - 4:44:36 AM] Wrote state in 0.5s.

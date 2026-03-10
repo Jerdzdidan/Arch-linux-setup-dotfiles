@@ -1,0 +1,304 @@
+{"level":30,"time":"2026-03-10T10:22:05.465Z","msg":"[startup_config] Set Windows Application User Model ID (AUMID) {\"AUMID\":\"org.whispersystems.signal-desktop\"}"}
+{"level":30,"time":"2026-03-10T10:22:05.481Z","msg":"[base_config] config/start: Did not find user config file (or it was empty), cache is now empty object"}
+{"level":30,"time":"2026-03-10T10:22:05.559Z","msg":"[base_config] config/start: Did not find ephemeral config file (or it was empty), cache is now empty object"}
+{"level":30,"time":"2026-03-10T10:22:05.618Z","msg":"[app/main] making app single instance"}
+{"level":30,"time":"2026-03-10T10:22:06.084Z","msg":"[base_config] config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2026-03-10T10:22:06.087Z","msg":"[base_config] config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2026-03-10T10:22:06.087Z","msg":"[app/main] initializing localeOverride setting null"}
+{"level":30,"time":"2026-03-10T10:22:06.087Z","msg":"[app/main] app.ready: hour cycle preference: UnknownPreference"}
+{"level":30,"time":"2026-03-10T10:22:06.087Z","msg":"[app/main] app.ready: preferred system locales: [\"en-US\",\"en\"]"}
+{"level":30,"time":"2026-03-10T10:22:06.087Z","msg":"[app/main] locale: Supported locales: af-ZA, ar, az-AZ, bg-BG, bn-BD, bs-BA, ca, cs, da, de, el, en, es, et-EE, eu, fa-IR, fi, fr, ga-IE, gl-ES, gu-IN, he, hi-IN, hr-HR, hu, id, it, ja, ka-GE, kk-KZ, km-KH, kn-IN, ko, ky-KG, lt-LT, lv-LV, mk-MK, ml-IN, mr-IN, ms, my, nb, nl, pa-IN, pl, pt-BR, pt-PT, ro-RO, ru, sk-SK, sl-SI, sq-AL, sr, sv, sw, ta-IN, te-IN, th, tl-PH, tr, ug, uk-UA, ur, vi, yue, zh-CN, zh-HK, zh-Hant"}
+{"level":30,"time":"2026-03-10T10:22:06.087Z","msg":"[app/main] locale: Preferred locales: en-US, en"}
+{"level":30,"time":"2026-03-10T10:22:06.087Z","msg":"[app/main] locale: Locale Override: null"}
+{"level":30,"time":"2026-03-10T10:22:06.088Z","msg":"[app/main] locale: Matched locale: en"}
+{"level":40,"time":"2026-03-10T10:22:06.109Z","msg":"[setupI18nMain] intl.onWarn [@formatjs/intl] \"defaultRichTextElements\" was specified but \"message\" was not pre-compiled. \nPlease consider using \"@formatjs/cli\" to pre-compile your messages for performance.\nFor more details see https://formatjs.github.io/docs/getting-started/message-distribution"}
+{"level":30,"time":"2026-03-10T10:22:06.110Z","msg":"[app/main] locale: Text info direction for en: ltr"}
+{"level":40,"time":"2026-03-10T10:22:06.110Z","msg":"[app/main] getSQLKey: got key from config, but it wasn't a string"}
+{"level":30,"time":"2026-03-10T10:22:06.110Z","msg":"[app/main] key/initialize: Generating new encryption key, since we did not find it on disk"}
+{"level":30,"time":"2026-03-10T10:22:06.110Z","msg":"[app/main] getSQLKey: updating plaintext key in the config"}
+{"level":30,"time":"2026-03-10T10:22:06.110Z","msg":"[base_config] config/set: Saving user config to disk"}
+{"level":30,"time":"2026-03-10T10:22:06.111Z","msg":"[base_config] config/set: Saved user config to disk"}
+{"level":30,"time":"2026-03-10T10:22:06.112Z","msg":"[SystemTraySettingCache] getSystemTraySetting got no value, returning Uninitialized"}
+{"level":30,"time":"2026-03-10T10:22:06.112Z","msg":"[base_config] config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2026-03-10T10:22:06.113Z","msg":"[base_config] config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2026-03-10T10:22:06.113Z","msg":"[app/main] app.ready: setting system-tray-setting to DoNotUseSystemTray"}
+{"level":30,"time":"2026-03-10T10:22:06.113Z","msg":"[base_config] config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2026-03-10T10:22:06.114Z","msg":"[base_config] config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2026-03-10T10:22:06.115Z","msg":"[app/main] app ready"}
+{"level":30,"time":"2026-03-10T10:22:06.115Z","msg":"[app/main] starting version 8.1.0"}
+{"level":30,"time":"2026-03-10T10:22:06.115Z","msg":"[app/main] media access status [object Undefined] [object Undefined] [object Undefined]"}
+{"level":30,"time":"2026-03-10T10:22:06.117Z","msg":"[app/main] MainSQL: migrateSchemaVersion: Migrating from schema_version 0 to user_version 0"}
+{"level":30,"time":"2026-03-10T10:22:06.122Z","msg":"[app/main] MainSQL: updateSchema:\n  Current user_version: 0;\n  Most recent db schema: 1660;\n  SQLite version: 3.50.4;\n  SQLCipher version: 4.10.0 community;\n  (deprecated) schema_version: 0;\n"}
+{"level":30,"time":"2026-03-10T10:22:06.122Z","msg":"[app/main] MainSQL: [updateSchema(1)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.122Z","msg":"[app/main] MainSQL: [updateSchema(2)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.122Z","msg":"[app/main] MainSQL: [updateSchema(3)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.122Z","msg":"[app/main] MainSQL: [updateSchema(4)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.122Z","msg":"[app/main] MainSQL: [updateSchema(6)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.122Z","msg":"[app/main] MainSQL: [updateSchema(7)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.122Z","msg":"[app/main] MainSQL: [updateSchema(8)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.122Z","msg":"[app/main] MainSQL: [updateSchema(9)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.122Z","msg":"[app/main] MainSQL: [updateSchema(10)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.122Z","msg":"[app/main] MainSQL: [updateSchema(11)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.122Z","msg":"[app/main] MainSQL: [updateSchema(12)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.124Z","msg":"[base_config] config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2026-03-10T10:22:06.125Z","msg":"[base_config] config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2026-03-10T10:22:06.125Z","msg":"[app/main] initializing spellcheck setting true"}
+{"level":30,"time":"2026-03-10T10:22:06.125Z","msg":"[base_config] config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2026-03-10T10:22:06.126Z","msg":"[base_config] config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2026-03-10T10:22:06.126Z","msg":"[app/main] saving theme-setting value system"}
+{"level":30,"time":"2026-03-10T10:22:06.127Z","msg":"[app/main] got fast spellcheck setting true"}
+{"level":30,"time":"2026-03-10T10:22:06.127Z","msg":"[app/main] Initializing BrowserWindow config: {\"show\":false,\"width\":800,\"height\":610,\"minWidth\":300,\"minHeight\":200,\"autoHideMenuBar\":false,\"titleBarStyle\":\"default\",\"backgroundColor\":\"#121212\",\"webPreferences\":{\"devTools\":false,\"spellcheck\":true,\"nodeIntegration\":false,\"nodeIntegrationInWorker\":false,\"sandbox\":false,\"contextIsolation\":true,\"preload\":\"[REDACTED]/preload.wrapper.js\"},\"icon\":\"[REDACTED]/images/signal-logo-desktop-linux.png\"}"}
+{"level":30,"time":"2026-03-10T10:22:06.150Z","msg":"[spell_check] spellcheck: user locales: [\"en-US\",\"en\"]"}
+{"level":30,"time":"2026-03-10T10:22:06.151Z","msg":"[spell_check] spellcheck: available spellchecker languages: [\"af\",\"bg\",\"ca\",\"cs\",\"cy\",\"da\",\"de\",\"de-DE\",\"el\",\"en\",\"en-AU\",\"en-CA\",\"en-GB\",\"en-GB-oxendict\",\"en-US\",\"es\",\"es-419\",\"es-AR\",\"es-ES\",\"es-MX\",\"es-US\",\"et\",\"fa\",\"fo\",\"fr\",\"fr-FR\",\"gl\",\"he\",\"hi\",\"hr\",\"hu\",\"hy\",\"id\",\"it\",\"it-IT\",\"ko\",\"lt\",\"lv\",\"nb\",\"nl\",\"pl\",\"pt\",\"pt-BR\",\"pt-PT\",\"ro\",\"ru\",\"sh\",\"sk\",\"sl\",\"sq\",\"sr\",\"sv\",\"ta\",\"tg\",\"tr\",\"uk\",\"vi\"]"}
+{"level":30,"time":"2026-03-10T10:22:06.151Z","msg":"[spell_check] spellcheck: setting languages to: [\"en-US\",\"en\"]"}
+{"level":30,"time":"2026-03-10T10:22:06.151Z","msg":"[app/main] MainSQL: [updateSchema(13)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.151Z","msg":"[app/main] MainSQL: [updateSchema(14)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.151Z","msg":"[app/main] MainSQL: [updateSchema(15)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.151Z","msg":"[app/main] MainSQL: [updateSchema(16)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.151Z","msg":"[app/main] MainSQL: [updateSchema(17)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.151Z","msg":"[app/main] MainSQL: [updateSchema(18)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.151Z","msg":"[app/main] MainSQL: [updateSchema(19)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.151Z","msg":"[app/main] MainSQL: [updateSchema(20)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.151Z","msg":"[app/main] MainSQL: [updateSchema(21)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.151Z","msg":"[app/main] MainSQL: [updateSchema(22)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.151Z","msg":"[app/main] MainSQL: [updateSchema(23)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.151Z","msg":"[app/main] MainSQL: [updateSchema(24)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.151Z","msg":"[app/main] MainSQL: [updateSchema(25)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.151Z","msg":"[app/main] MainSQL: [updateSchema(26)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.151Z","msg":"[app/main] MainSQL: [updateSchema(27)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.151Z","msg":"[app/main] MainSQL: [updateSchema(28)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.151Z","msg":"[app/main] MainSQL: [updateSchema(29)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.152Z","msg":"[app/main] MainSQL: [updateSchema(30)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.152Z","msg":"[app/main] MainSQL: [updateSchema(31)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.152Z","msg":"[app/main] MainSQL: [updateSchema(32)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.152Z","msg":"[app/main] MainSQL: [updateSchema(33)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.152Z","msg":"[app/main] MainSQL: [updateSchema(34)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.152Z","msg":"[app/main] MainSQL: [updateSchema(35)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.152Z","msg":"[app/main] MainSQL: [updateSchema(36)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.152Z","msg":"[app/main] MainSQL: [updateSchema(37)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.152Z","msg":"[app/main] MainSQL: [updateSchema(38)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.152Z","msg":"[app/main] MainSQL: [updateSchema(39)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.152Z","msg":"[app/main] MainSQL: [updateSchema(40)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.152Z","msg":"[app/main] MainSQL: [updateSchema(41)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.152Z","msg":"[app/main] MainSQL: [updateSchema(42)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.152Z","msg":"[app/main] MainSQL: [updateSchema(43)] About to iterate through 0 conversations"}
+{"level":30,"time":"2026-03-10T10:22:06.152Z","msg":"[app/main] MainSQL: [updateSchema(43)] About to iterate through 0 messages"}
+{"level":30,"time":"2026-03-10T10:22:06.152Z","msg":"[app/main] MainSQL: [updateSchema(43)] Updated 0 messages"}
+{"level":30,"time":"2026-03-10T10:22:06.152Z","msg":"[app/main] MainSQL: [updateSchema(43)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.152Z","msg":"[app/main] MainSQL: [updateSchema(44)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.152Z","msg":"[app/main] MainSQL: [updateSchema(45)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.152Z","msg":"[app/main] MainSQL: [updateSchema(46)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.152Z","msg":"[app/main] MainSQL: [updateSchema(47)] our UUID not found"}
+{"level":30,"time":"2026-03-10T10:22:06.152Z","msg":"[app/main] MainSQL: [updateSchema(47)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.152Z","msg":"[app/main] MainSQL: [updateSchema(48)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.152Z","msg":"[app/main] MainSQL: [updateSchema(49)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.152Z","msg":"[app/main] MainSQL: [updateSchema(50)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.152Z","msg":"[app/main] MainSQL: [updateSchema(51)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.152Z","msg":"[app/main] MainSQL: [updateSchema(52)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.152Z","msg":"[app/main] MainSQL: [updateSchema(53)] About to iterate through 0 conversations"}
+{"level":30,"time":"2026-03-10T10:22:06.152Z","msg":"[app/main] MainSQL: [updateSchema(53)] Updated 0 conversations"}
+{"level":30,"time":"2026-03-10T10:22:06.152Z","msg":"[app/main] MainSQL: [updateSchema(53)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.152Z","msg":"[app/main] MainSQL: [updateSchema(54)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.152Z","msg":"[app/main] MainSQL: [updateSchema(55)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.152Z","msg":"[app/main] MainSQL: [updateSchema(56)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.152Z","msg":"[app/main] MainSQL: [updateSchema(57)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.152Z","msg":"[app/main] MainSQL: [updateSchema(58)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.152Z","msg":"[app/main] MainSQL: [updateSchema(59)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.152Z","msg":"[app/main] MainSQL: [updateSchema(60)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.154Z","msg":"[app/main] spellcheck: dictionary download begin: en"}
+{"level":30,"time":"2026-03-10T10:22:06.155Z","msg":"[app/main] spellcheck: dictionary download begin: en-US"}
+{"level":30,"time":"2026-03-10T10:22:06.155Z","msg":"[app/main] MainSQL: [updateSchema(61)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.155Z","msg":"[app/main] MainSQL: [updateSchema(62)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.156Z","msg":"[app/main] MainSQL: [updateSchema(63)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.156Z","msg":"[app/main] MainSQL: [updateSchema(64)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.159Z","msg":"[app/main] MainSQL: [updateSchema(65)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.159Z","msg":"[app/main] MainSQL: [updateSchema(66)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.160Z","msg":"[app/main] MainSQL: [updateSchema(67)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.163Z","msg":"[app/main] MainSQL: [updateSchema(68)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.163Z","msg":"[app/main] MainSQL: [updateSchema(69)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.163Z","msg":"[app/main] MainSQL: [updateSchema(70)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.168Z","msg":"[app/main] MainSQL: [updateSchema(71)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.169Z","msg":"[app/main] MainSQL: [updateSchema(72)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.175Z","msg":"[app/main] MainSQL: [updateSchema(73)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.175Z","msg":"[app/main] MainSQL: [updateSchema(74)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.175Z","msg":"[app/main] MainSQL: [updateSchema(75)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.177Z","msg":"[app/main] MainSQL: [updateSchema(76)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.178Z","msg":"[app/main] MainSQL: [updateSchema(77)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.178Z","msg":"[app/main] MainSQL: [updateSchema(78)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.178Z","msg":"[app/main] MainSQL: [updateSchema(79)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.178Z","msg":"[app/main] MainSQL: [updateSchema(80)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.184Z","msg":"[app/main] MainSQL: [updateSchema(81)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.186Z","msg":"[app/main] MainSQL: [updateSchema(82)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.187Z","msg":"[app/main] MainSQL: [updateSchema(83)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.187Z","msg":"[app/main] MainSQL: [updateSchema(84)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.187Z","msg":"[app/main] MainSQL: [updateSchema(85)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.187Z","msg":"[app/main] MainSQL: [updateSchema(86)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.188Z","msg":"[app/main] MainSQL: [updateSchema(87)] (cleanup)/kyberPreKeys: Our PNI not found"}
+{"level":30,"time":"2026-03-10T10:22:06.188Z","msg":"[app/main] MainSQL: [updateSchema(87)] (cleanup)/preKeys: Our PNI not found"}
+{"level":30,"time":"2026-03-10T10:22:06.188Z","msg":"[app/main] MainSQL: [updateSchema(87)] (cleanup)/signedPreKeys: Our PNI not found"}
+{"level":30,"time":"2026-03-10T10:22:06.188Z","msg":"[app/main] MainSQL: [updateSchema(87)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.217Z","msg":"[app/main] MainSQL: [updateSchema(88)] updating 0 conversations"}
+{"level":30,"time":"2026-03-10T10:22:06.217Z","msg":"[app/main] MainSQL: [updateSchema(88)] Our UUID not found"}
+{"level":30,"time":"2026-03-10T10:22:06.217Z","msg":"[app/main] MainSQL: [updateSchema(88)] Our PNI not found"}
+{"level":30,"time":"2026-03-10T10:22:06.217Z","msg":"[app/main] MainSQL: [updateSchema(88)] updating 0 sessions"}
+{"level":30,"time":"2026-03-10T10:22:06.217Z","msg":"[app/main] MainSQL: [updateSchema(88)] updating messages"}
+{"level":30,"time":"2026-03-10T10:22:06.217Z","msg":"[app/main] MainSQL: [updateSchema(88)] updated 0 messages"}
+{"level":30,"time":"2026-03-10T10:22:06.217Z","msg":"[app/main] MainSQL: [updateSchema(88)] updating 0 preKeys"}
+{"level":30,"time":"2026-03-10T10:22:06.217Z","msg":"[app/main] MainSQL: [updateSchema(88)] updating 0 signedPreKeys"}
+{"level":30,"time":"2026-03-10T10:22:06.217Z","msg":"[app/main] MainSQL: [updateSchema(88)] updating 0 kyberPreKeys"}
+{"level":30,"time":"2026-03-10T10:22:06.217Z","msg":"[app/main] MainSQL: [updateSchema(88)] updated 0 jobs"}
+{"level":30,"time":"2026-03-10T10:22:06.218Z","msg":"[app/main] MainSQL: [updateSchema(88)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.222Z","msg":"[app/main] MainSQL: [updateSchema(89)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.223Z","msg":"[app/main] MainSQL: [updateSchema(90)] removed screenshotData from 0 message"}
+{"level":30,"time":"2026-03-10T10:22:06.223Z","msg":"[app/main] MainSQL: [updateSchema(90)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.230Z","msg":"[app/main] MainSQL: [updateSchema(91)] Found 0 keys"}
+{"level":30,"time":"2026-03-10T10:22:06.230Z","msg":"[app/main] MainSQL: [updateSchema(91)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.230Z","msg":"[app/main] MainSQL: [updateSchema(920)] kyberPreKeys: Our PNI not found"}
+{"level":30,"time":"2026-03-10T10:22:06.230Z","msg":"[app/main] MainSQL: [updateSchema(920)] signedPreKeys: Our PNI not found"}
+{"level":30,"time":"2026-03-10T10:22:06.230Z","msg":"[app/main] MainSQL: [updateSchema(920)] Done with deletions, starting vacuum..."}
+{"level":30,"time":"2026-03-10T10:22:06.230Z","msg":"[app/main] MainSQL: [updateSchema(920)] success, needs vacuum"}
+{"level":30,"time":"2026-03-10T10:22:06.234Z","msg":"[app/main] MainSQL: running vacuum"}
+{"level":30,"time":"2026-03-10T10:22:06.241Z","msg":"[app/main] MainSQL: done running vacuum"}
+{"level":30,"time":"2026-03-10T10:22:06.241Z","msg":"[app/main] MainSQL: [updateSchema(930)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.241Z","msg":"[app/main] MainSQL: [updateSchema(940)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.241Z","msg":"[app/main] MainSQL: [updateSchema(950)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.242Z","msg":"[app/main] MainSQL: [updateSchema(960)] Our ACI not found"}
+{"level":30,"time":"2026-03-10T10:22:06.242Z","msg":"[app/main] MainSQL: [updateSchema(960)] not running, pni is normalized"}
+{"level":30,"time":"2026-03-10T10:22:06.242Z","msg":"[app/main] MainSQL: [updateSchema(960)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.242Z","msg":"[app/main] MainSQL: [updateSchema(970)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.242Z","msg":"[app/main] MainSQL: [updateSchema(980)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.242Z","msg":"[app/main] MainSQL: [updateSchema(990)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.242Z","msg":"[app/main] MainSQL: [updateSchema(1000)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.242Z","msg":"[app/main] MainSQL: [updateSchema(1010)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.242Z","msg":"[app/main] MainSQL: [updateSchema(1020)] not linked"}
+{"level":30,"time":"2026-03-10T10:22:06.242Z","msg":"[app/main] MainSQL: [updateSchema(1020)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.248Z","msg":"[app/main] MainSQL: [updateSchema(1030)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.249Z","msg":"[app/main] MainSQL: [updateSchema(1040)] loaded 0 existing jobs"}
+{"level":30,"time":"2026-03-10T10:22:06.250Z","msg":"[app/main] MainSQL: [updateSchema(1040)] transferred 0 rows, removed 0"}
+{"level":30,"time":"2026-03-10T10:22:06.250Z","msg":"[app/main] MainSQL: [updateSchema(1040)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.250Z","msg":"[app/main] MainSQL: [updateSchema(1050)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.251Z","msg":"[app/main] MainSQL: [updateSchema(1060)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.251Z","msg":"[app/main] MainSQL: [updateSchema(1070)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.252Z","msg":"[app/main] MainSQL: [updateSchema(1080)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.252Z","msg":"[app/main] MainSQL: [updateSchema(1090)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.252Z","msg":"[app/main] MainSQL: [updateSchema(1100)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.253Z","msg":"[app/main] MainSQL: [updateSchema(1110)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.253Z","msg":"[app/main] MainSQL: [updateSchema(1120)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.254Z","msg":"[app/main] MainSQL: [updateSchema(1130)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.254Z","msg":"[app/main] MainSQL: [updateSchema(1140)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.255Z","msg":"[app/main] MainSQL: [updateSchema(1150)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.255Z","msg":"[app/main] MainSQL: [updateSchema(1160)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.255Z","msg":"[app/main] MainSQL: [updateSchema(1170)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.256Z","msg":"[app/main] MainSQL: [updateSchema(1180)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.259Z","msg":"[app/main] MainSQL: [updateSchema(1190)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.259Z","msg":"[app/main] MainSQL: [updateSchema(1200)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.260Z","msg":"[app/main] MainSQL: [updateSchema(1210)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.262Z","msg":"[app/main] MainSQL: [updateSchema(1220)] no identity/registration id"}
+{"level":30,"time":"2026-03-10T10:22:06.262Z","msg":"[app/main] MainSQL: [updateSchema(1220)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.262Z","msg":"[app/main] MainSQL: [updateSchema(1230)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.262Z","msg":"[app/main] MainSQL: [updateSchema(1240)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.264Z","msg":"[app/main] MainSQL: [updateSchema(1250)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.264Z","msg":"[app/main] MainSQL: [updateSchema(1260)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.272Z","msg":"[app/main] MainSQL: [updateSchema(1270)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.272Z","msg":"[app/main] MainSQL: [updateSchema(1280)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.278Z","msg":"[app/main] MainSQL: [updateSchema(1290)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.279Z","msg":"[app/main] MainSQL: [updateSchema(1300)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.279Z","msg":"[app/main] MainSQL: [updateSchema(1310)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.280Z","msg":"[app/main] MainSQL: [updateSchema(1320)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.280Z","msg":"[app/main] MainSQL: [updateSchema(1330)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.280Z","msg":"[app/main] MainSQL: [updateSchema(1340)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.280Z","msg":"[app/main] MainSQL: [updateSchema(1350)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.280Z","msg":"[app/main] MainSQL: [updateSchema(1360)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.280Z","msg":"[app/main] MainSQL: [updateSchema(1370)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.280Z","msg":"[app/main] MainSQL: [updateSchema(1380)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.297Z","msg":"[app/main] MainSQL: [updateSchema(1390)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.302Z","msg":"[app/main] MainSQL: [updateSchema(1400)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.302Z","msg":"[app/main] MainSQL: [updateSchema(1410)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.303Z","msg":"[app/main] MainSQL: [updateSchema(1420)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.304Z","msg":"[app/main] MainSQL: [updateSchema(1430)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.304Z","msg":"[app/main] MainSQL: [updateSchema(1440)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.307Z","msg":"[app/main] MainSQL: [updateSchema(1450)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.308Z","msg":"[app/main] MainSQL: [updateSchema(1460)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.308Z","msg":"[app/main] MainSQL: [updateSchema(1470)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.308Z","msg":"[app/main] MainSQL: [updateSchema(1480)] Removed 0 duplicate all chats chat folders"}
+{"level":30,"time":"2026-03-10T10:22:06.308Z","msg":"[app/main] MainSQL: [updateSchema(1480)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.308Z","msg":"[app/main] MainSQL: [updateSchema(1490)] Removed 0 notification profiles with non-lowercase ids"}
+{"level":30,"time":"2026-03-10T10:22:06.308Z","msg":"[app/main] MainSQL: [updateSchema(1490)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.310Z","msg":"[app/main] MainSQL: [updateSchema(1500)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.310Z","msg":"[app/main] MainSQL: [updateSchema(1510)] Updated 0 all chats chat folders"}
+{"level":30,"time":"2026-03-10T10:22:06.310Z","msg":"[app/main] MainSQL: [updateSchema(1510)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.311Z","msg":"[app/main] MainSQL: [updateSchema(1520)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.312Z","msg":"[app/main] MainSQL: [updateSchema(1530)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.312Z","msg":"[app/main] MainSQL: [updateSchema(1540)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.313Z","msg":"[app/main] MainSQL: [updateSchema(1550)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.313Z","msg":"[app/main] MainSQL: [updateSchema(1560)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.313Z","msg":"[app/main] MainSQL: [updateSchema(1561)] Updated 0 poll messages"}
+{"level":30,"time":"2026-03-10T10:22:06.313Z","msg":"[app/main] MainSQL: [updateSchema(1561)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.321Z","msg":"[app/main] MainSQL: [updateSchema(1570)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.321Z","msg":"[app/main] MainSQL: [updateSchema(1580)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.322Z","msg":"[app/main] MainSQL: [updateSchema(1590)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.322Z","msg":"[app/main] MainSQL: [updateSchema(1600)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.323Z","msg":"[app/main] MainSQL: [updateSchema(1610)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.323Z","msg":"[app/main] MainSQL: [updateSchema(1620)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.323Z","msg":"[app/main] MainSQL: [updateSchema(1630)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.323Z","msg":"[app/main] MainSQL: [updateSchema(1640)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.323Z","msg":"[app/main] MainSQL: [updateSchema(1650)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.324Z","msg":"[app/main] MainSQL: [updateSchema(1660)] success"}
+{"level":30,"time":"2026-03-10T10:22:06.327Z","msg":"[app/main] MainSQL: enableFTS5SecureDelete: enabling"}
+{"level":30,"time":"2026-03-10T10:22:06.329Z","msg":"[app/main] MainSQL: updateSchema: optimize took 1ms"}
+{"level":30,"time":"2026-03-10T10:22:06.358Z","msg":"[app/main] spellcheck: dictionary download success: en"}
+{"level":30,"time":"2026-03-10T10:22:06.358Z","msg":"[app/main] spellcheck: dictionary download success: en-US"}
+{"level":30,"time":"2026-03-10T10:22:06.359Z","msg":"[app/main] spellcheck: dictionary initialized: en"}
+{"level":30,"time":"2026-03-10T10:22:06.359Z","msg":"[app/main] spellcheck: dictionary initialized: en-US"}
+{"level":30,"time":"2026-03-10T10:22:06.705Z","msg":"[app/main] got fast theme-setting value system"}
+{"level":30,"time":"2026-03-10T10:22:07.248Z","msg":"[app/main] main window webContents did-finish-load"}
+{"level":30,"time":"2026-03-10T10:22:07.248Z","msg":"[app/main] showing main window"}
+{"level":30,"time":"2026-03-10T10:22:07.254Z","msg":"[SystemTrayService] System tray service: created"}
+{"level":30,"time":"2026-03-10T10:22:07.254Z","msg":"[SystemTrayService] System tray service: updating main window. Previously, there was not a window, and now there is"}
+{"level":30,"time":"2026-03-10T10:22:07.254Z","msg":"[SystemTrayService] System tray service: rendering no tray"}
+{"level":30,"time":"2026-03-10T10:22:07.254Z","msg":"[app/main] Begin ensuring permissions"}
+{"level":30,"time":"2026-03-10T10:22:07.255Z","msg":"[app/main] Ensuring file permissions for 4 files"}
+{"level":30,"time":"2026-03-10T10:22:07.256Z","msg":"[app/main] Finish ensuring permissions in 2ms"}
+{"level":30,"time":"2026-03-10T10:22:07.287Z","msg":"[attachments] deleteAllBadges: deleted 0 files"}
+{"level":30,"time":"2026-03-10T10:22:07.289Z","msg":"[app/main] MainSQL: removeKnownStickers: About to iterate through 0 stickers"}
+{"level":30,"time":"2026-03-10T10:22:07.289Z","msg":"[app/main] MainSQL: removeKnownStickers: Done processing 0 stickers"}
+{"level":30,"time":"2026-03-10T10:22:07.289Z","msg":"[attachments] deleteAllStickers: deleted 0 files"}
+{"level":30,"time":"2026-03-10T10:22:07.289Z","msg":"[app/main] MainSQL: removeKnownDraftAttachments: About to iterate through 0 conversations"}
+{"level":30,"time":"2026-03-10T10:22:07.289Z","msg":"[app/main] MainSQL: removeKnownDraftAttachments: Done processing 0 conversations"}
+{"level":30,"time":"2026-03-10T10:22:07.289Z","msg":"[attachments] deleteAllDraftAttachments: deleted 0 files"}
+{"level":30,"time":"2026-03-10T10:22:07.290Z","msg":"[attachment_channel] cleanupOrphanedAttachments: found 0 attachments on disk"}
+{"level":30,"time":"2026-03-10T10:22:07.290Z","msg":"[attachment_channel] cleanupOrphanedAttachments: found 0 downloads on disk"}
+{"level":30,"time":"2026-03-10T10:22:07.290Z","msg":"[app/main] MainSQL: getKnownConversationAttachments: About to iterate through 0"}
+{"level":30,"time":"2026-03-10T10:22:07.291Z","msg":"[app/main] MainSQL: getKnownConversationAttachments: Done processing"}
+{"level":30,"time":"2026-03-10T10:22:07.291Z","msg":"[attachment_channel] cleanupOrphanedAttachments: Got 0 conversation attachments, 0 remain"}
+{"level":30,"time":"2026-03-10T10:22:07.291Z","msg":"[attachment_channel] cleanupOrphanedAttachments: found 0 known downloads, 0 remain"}
+{"level":30,"time":"2026-03-10T10:22:07.291Z","msg":"[attachment_channel] cleanupOrphanedAttachments: took 5ms"}
+{"level":30,"time":"2026-03-10T10:22:07.292Z","msg":"[app/main] MainSQL: pageMessages(a2ae02a417719c30): Starting iteration through 0 messages"}
+{"level":30,"time":"2026-03-10T10:22:07.345Z","msg":"[app/main] MainSQL: finishPageMessages(a2ae02a417719c30): reached the end after processing 0 messages"}
+{"level":30,"time":"2026-03-10T10:22:07.346Z","msg":"[attachment_channel] cleanupOrphanedAttachments: 0 attachments and       0 downloads found on disk"}
+{"level":30,"time":"2026-03-10T10:22:07.346Z","msg":"[attachments] deleteAll: deleted 0 files"}
+{"level":30,"time":"2026-03-10T10:22:07.347Z","msg":"[attachments] deleteAllDownloads: deleted 0 files"}
+{"level":30,"time":"2026-03-10T10:22:07.347Z","msg":"[attachment_channel] deleteOrphanedAttachments: took 56ms"}
+{"level":50,"time":"2026-03-10T10:22:07.350Z","msg":"[app/main] [updater] Error starting update checks: Error: ENOENT: no such file or directory, watch '/usr/lib/signal-desktop/.signal-postinst'\n    at FSWatcher.<computed> (node:internal/fs/watchers:254:19)\n    at watch (node:fs:2551:36)\n    at initLinux ([REDACTED]/ts/updater/linux.main.js:94:28)\n    at Object.start ([REDACTED]/ts/updater/index.main.js:69:39)\n    at IpcMainImpl.readyForUpdates ([REDACTED]/app/main.main.js:844:19)\n    at Object.onceWrapper (node:events:623:26)\n    at IpcMainImpl.emit (node:events:508:28)\n    at Session.<anonymous> (node:electron/js2c/browser_init:2:115789)\n    at Session.emit (node:events:508:28)"}
+{"level":30,"time":"2026-03-10T10:22:07.449Z","msg":"[PreventDisplaySleepService] Prevent display sleep service: allowing display sleep"}
+{"level":30,"time":"2026-03-10T10:22:07.593Z","msg":"[createHTTPSAgent] createHTTPSAgent.createConnection(updates2.signal.org): connected to IPv6 addr after 112ms (attempts v4=0 v6=1)"}
+{"level":30,"time":"2026-03-10T10:22:07.806Z","msg":"[app/main] Updating BrowserWindow config: {\"maximized\":true,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":888,\"height\":1079,\"x\":0,\"y\":0}"}
+{"level":30,"time":"2026-03-10T10:22:07.806Z","msg":"[base_config] config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2026-03-10T10:22:07.814Z","msg":"[base_config] config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2026-03-10T10:22:10.621Z","msg":"[app/main] Updating BrowserWindow config: {\"maximized\":true,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1786,\"height\":1079,\"x\":0,\"y\":0}"}
+{"level":30,"time":"2026-03-10T10:22:10.622Z","msg":"[base_config] config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2026-03-10T10:22:10.630Z","msg":"[base_config] config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2026-03-10T10:22:27.575Z","msg":"[app/main] close event {\"readyForShutdown\":false,\"shouldQuit\":false}"}
+{"level":30,"time":"2026-03-10T10:22:27.576Z","msg":"[app/main] maybeRequestCloseConfirmation: Checking to see if close confirmation is needed"}
+{"level":30,"time":"2026-03-10T10:22:27.577Z","msg":"[app/main] maybeRequestCloseConfirmation: Response received"}
+{"level":30,"time":"2026-03-10T10:22:27.578Z","msg":"[SystemTrayService] System tray service: rendering no tray"}
+{"level":30,"time":"2026-03-10T10:22:27.579Z","msg":"[app/main] requestShutdown: Requesting close of mainWindow..."}
+{"level":30,"time":"2026-03-10T10:22:27.585Z","msg":"[app/main] requestShutdown: Response received"}
+{"level":30,"time":"2026-03-10T10:22:27.610Z","msg":"[app/main] before-quit event {\"readyForShutdown\":true,\"shouldQuit\":false,\"hasEventBeenPrevented\":false,\"windowCount\":1,\"mainWindowExists\":true,\"mainWindowIsFullScreen\":false}"}
+{"level":30,"time":"2026-03-10T10:22:27.610Z","msg":"[SystemTrayService] System tray service: markShouldQuit"}
+{"level":30,"time":"2026-03-10T10:22:27.611Z","msg":"[app/main] close event {\"readyForShutdown\":true,\"shouldQuit\":true}"}
+{"level":30,"time":"2026-03-10T10:22:27.614Z","msg":"[app/main] main window closed event"}
+{"level":30,"time":"2026-03-10T10:22:27.614Z","msg":"[SystemTrayService] System tray service: updating main window. Previously, there was a window, and now there is not"}
+{"level":30,"time":"2026-03-10T10:22:27.614Z","msg":"[SystemTrayService] System tray service: rendering no tray"}
+{"level":30,"time":"2026-03-10T10:22:27.614Z","msg":"[app/main] will-quit event {\"hasEventBeenPrevented\":false,\"windowCount\":0,\"mainWindowExists\":false}"}
+{"level":30,"time":"2026-03-10T10:22:27.615Z","msg":"[app/main] quit event {\"hasEventBeenPrevented\":false,\"windowCount\":0,\"mainWindowExists\":false}"}

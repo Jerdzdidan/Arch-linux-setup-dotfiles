@@ -1,0 +1,542 @@
+{
+   "app_description": {
+      "description": "",
+      "message": "Aumenta a velocidade do navegador e reduz o uso de memória quando estão abertos vários separadores."
+   },
+   "bg_msg_1": {
+      "description": "",
+      "message": "O auto-descarte está desactivado para este separador"
+   },
+   "bg_msg_2": {
+      "description": "",
+      "message": "Por enquanto o auto-descarte está desactivado"
+   },
+   "bg_no_active_tab": {
+      "description": "",
+      "message": "Não está presente nenhum separador activo"
+   },
+   "blank_header": {
+      "description": "",
+      "message": "(Janela descartada)"
+   },
+   "blank_msg": {
+      "description": "",
+      "message": "Todos os separadores desta janela estão descartados! Clicar em qualquer sítio para fechar este separador e voltar para o último separador activo."
+   },
+   "cmd_close": {
+      "description": "",
+      "message": "Fechar separador"
+   },
+   "cmd_discard_lefts": {
+      "description": "",
+      "message": "Descartar separadores à esquerda"
+   },
+   "cmd_discard_other_windows": {
+      "description": "",
+      "message": "Descartar separadores noutras janelas"
+   },
+   "cmd_discard_rights": {
+      "description": "",
+      "message": "Descartar separadores à direita"
+   },
+   "cmd_discard_tab": {
+      "description": "",
+      "message": "Descartar separador"
+   },
+   "cmd_discard_tabs": {
+      "description": "",
+      "message": "Descartar todos os outros separadores"
+   },
+   "cmd_discard_tree": {
+      "description": "",
+      "message": "Descartar grupo de separadores"
+   },
+   "cmd_discard_window": {
+      "description": "",
+      "message": "Descartar os outros separadores nesta janela"
+   },
+   "cmd_move_next": {
+      "description": "",
+      "message": "Ir para o separador à direita"
+   },
+   "cmd_move_previous": {
+      "description": "",
+      "message": "Ir para o separador à esquerda"
+   },
+   "cmd_whitelist_domain": {
+      "description": "",
+      "message": "Manter sempre os separadores deste sítio"
+   },
+   "menu_close": {
+      "description": "",
+      "message": "Fechar separador"
+   },
+   "menu_discard_lefts": {
+      "description": "",
+      "message": "Descartar separadores à esquerda"
+   },
+   "menu_discard_menu": {
+      "description": "",
+      "message": "Descartar separadores nesta janela"
+   },
+   "menu_discard_other_windows": {
+      "description": "",
+      "message": "Descartar separadores noutras janelas"
+   },
+   "menu_discard_rights": {
+      "description": "",
+      "message": "Descartar separadores à direita"
+   },
+   "menu_discard_tab": {
+      "description": "",
+      "message": "Descartar separador"
+   },
+   "menu_discard_tabs": {
+      "description": "",
+      "message": "Descartar todos os outros separadores"
+   },
+   "menu_discard_tree": {
+      "description": "",
+      "message": "Descartar grupo de separadores"
+   },
+   "menu_discard_window": {
+      "description": "",
+      "message": "Descartar os outros separadores"
+   },
+   "menu_extra": {
+      "description": "",
+      "message": "Manter separadores"
+   },
+   "menu_move_next": {
+      "description": "",
+      "message": "Ir para o separador à direita"
+   },
+   "menu_move_previous": {
+      "description": "",
+      "message": "Ir para o separador à esquerda"
+   },
+   "menu_msg1": {
+      "description": "",
+      "message": "é adicionado à lista de permissões permanente"
+   },
+   "menu_msg2": {
+      "description": "",
+      "message": "o protocolo não é suportado"
+   },
+   "menu_msg3": {
+      "description": "",
+      "message": "Não é possível descartar o único separador não descartado nesta janela"
+   },
+   "menu_msg4": {
+      "description": "",
+      "message": "é adicionado à lista de permissões da sessão"
+   },
+   "menu_msg5": {
+      "description": "",
+      "message": "é removido da lista de permissões permanente"
+   },
+   "menu_msg6": {
+      "description": "",
+      "message": "é removido da lista de permissões da sessão"
+   },
+   "menu_open_tab_then_discard": {
+      "description": "",
+      "message": "Abrir num novo separador descartado"
+   },
+   "menu_whitelist_domain": {
+      "description": "",
+      "message": "Manter sempre os separadores deste sítio"
+   },
+   "options_audio": {
+      "description": "",
+      "message": "Não descartar um separador quando em reprodução de media"
+   },
+   "options_battery": {
+      "description": "",
+      "message": "Não descartar separadores quando o computador estiver ligado a uma fonte de energia externa"
+   },
+   "options_click_discard_other_windows": {
+      "description": "",
+      "message": "Descartar separadores noutras janelas"
+   },
+   "options_click_discard_tab": {
+      "description": "",
+      "message": "Descartar separador"
+   },
+   "options_click_discard_tabs": {
+      "description": "",
+      "message": "Descartar todos os outros separadores"
+   },
+   "options_click_discard_window": {
+      "description": "",
+      "message": "Descartar os outros separadores nesta janela"
+   },
+   "options_click_popup": {
+      "description": "",
+      "message": "Abrir janela emergente (pop up)"
+   },
+   "options_click_release_other_windows": {
+      "description": "",
+      "message": "Recuperar separadores noutras janelas"
+   },
+   "options_click_release_tabs": {
+      "description": "",
+      "message": "Recuperar todos os outros separadores"
+   },
+   "options_click_release_window": {
+      "description": "",
+      "message": "Recuperar os outros separadores nesta janela"
+   },
+   "options_click_toggle_allowed": {
+      "description": "",
+      "message": "Comutar a opção 'Manter este separador nesta sessão'"
+   },
+   "options_discarding_conditions": {
+      "description": "",
+      "message": "Condições de descarte"
+   },
+   "options_discarding_options": {
+      "description": "",
+      "message": "Opções de descarte"
+   },
+   "options_exceptions": {
+      "description": "",
+      "message": "Excepções"
+   },
+   "options_export": {
+      "description": "",
+      "message": "Exportar definições"
+   },
+   "options_faqs": {
+      "description": "",
+      "message": "Abrir a página de P&R quando houver actualizações"
+   },
+   "options_favicon": {
+      "description": "",
+      "message": "Alterar o ícone do separador descartado (se possível)"
+   },
+   "options_favicon_delay": {
+      "description": "",
+      "message": "Atraso para colorir o ícone (favicon) descartado (em milisegundos)"
+   },
+   "options_form": {
+      "description": "",
+      "message": "Não descartar um separador quando o preenchimento de um formulário não tiver sido submetido"
+   },
+   "options_go_hidden": {
+      "description": "",
+      "message": "Descartar um separador se estiver oculto"
+   },
+   "options_idle": {
+      "description": "",
+      "message": "Descartar separadores apenas se o computador estiver no estado ocioso (idle)"
+   },
+   "options_idle_timeout": {
+      "description": "",
+      "message": "Período de inactividade para determinar se o computador está no estado ocioso (idle) ou não (em minutos)"
+   },
+   "options_import": {
+      "description": "",
+      "message": "Importar definições"
+   },
+   "options_left_click": {
+      "description": "",
+      "message": "Acção de clique-esquerdo na Barra de ferramentas"
+   },
+   "options_link_context": {
+      "description": "",
+      "message": "Mostrar \"Aberto num novo separador descartado\" "
+   },
+   "options_list": {
+      "description": "",
+      "message": "Lista de hospedeiros, separados por vírgulas"
+   },
+   "options_list_trash": {
+      "description": "",
+      "message": "Lista de hospedeiros, separados por vírgulas; deixar em branco para usar todos"
+   },
+   "options_log": {
+      "description": "",
+      "message": "Mostra os registos [logs] (apenas para depuração)"
+   },
+   "options_managed_1": {
+      "description": "",
+      "message": "Esta extensão tem a capacidade de usar armazenamento externo, permitindo aos administradores de domínio pré-configurar as preferências."
+   },
+   "options_managed_2": {
+      "description": "",
+      "message": "Ver mais aqui."
+   },
+   "options_memory": {
+      "description": "",
+      "message": "Descartar um separador em segundo plano se o seu uso de memória (totalJSHeapSize) exceder (em MB)"
+   },
+   "options_misc": {
+      "description": "",
+      "message": "Diversos"
+   },
+   "options_notification_permission": {
+      "description": "",
+      "message": "Não descartar um separador se ele puder mostrar notificações na área de trabalho"
+   },
+   "options_online": {
+      "description": "",
+      "message": "Não descartar separadores quando o computador não estiver ligado à Internet e o separador não estiver em cache"
+   },
+   "options_page_context": {
+      "description": "",
+      "message": "Mostrar os itens descartados no menu de contexto \"página\" "
+   },
+   "options_paused": {
+      "description": "",
+      "message": "Não descartar um separador quando tiver um reprodutor de media em pausa"
+   },
+   "options_period01_a": {
+      "description": "",
+      "message": "Descartar separadores inactivos após "
+   },
+   "options_period02": {
+      "description": "",
+      "message": "minutos (usar zero para desactivar) quando o número de separadores inactivos exceder "
+   },
+   "options_period04": {
+      "description": "",
+      "message": "Número máximo de separadores a serem verificados para descarte por cada pedido automático de descarte"
+   },
+   "options_pinned": {
+      "description": "",
+      "message": "Não descartar um separador quando fixado"
+   },
+   "options_plugin_blank": {
+      "description": "",
+      "message": "Quando todos os separadores numa janela inactiva forem descartados, abrir uma página temporária em branco (para poder descartar o separador activo nesta janela)"
+   },
+   "options_plugin_dummy": {
+      "description": "",
+      "message": "Ao descartar, substituir a página por uma alternativa local placebo (beta)"
+   },
+   "options_plugin_focus": {
+      "description": "",
+      "message": "Recuperar todos os separadores na janela activa. Se activado, nenhum separador na janela activa será descartado."
+   },
+   "options_plugin_force": {
+      "description": "",
+      "message": "Descartar imediatamente os seguintes hospedeiros quando o seu separador não estiver activo"
+   },
+   "options_plugin_new": {
+      "description": "",
+      "message": "Descartar todos os separadores inactivos recentemente abertos, após terem sido carregados"
+   },
+   "options_plugin_trash01": {
+      "description": "",
+      "message": "Eliminar permanentemente (remover) separadores descartados abertos há bastante tempo que estejam inactivos durante "
+   },
+   "options_plugin_trash02": {
+      "description": "",
+      "message": "horas"
+   },
+   "options_plugin_trash_unloaded": {
+      "description": "",
+      "message": "Considerar também separadores não carregados abertos há bastante tempo"
+   },
+   "options_plugin_trash_whitelist": {
+      "description": "",
+      "message": "Eliminar apenas separadores que correspondam aos seguintes padrões de URL"
+   },
+   "options_plugin_unloaded": {
+      "description": "",
+      "message": "Descartar todos os separadores não carregados no arranque do navegador. Este método descarta quase todos os separadores inactivos."
+   },
+   "options_plugin_youtube": {
+      "description": "",
+      "message": "Antes de descartar, guardar o registo de data-hora do YouTube"
+   },
+   "options_plugins": {
+      "description": "",
+      "message": "Acrescentos (Plug-ins)"
+   },
+   "options_prepends": {
+      "description": "",
+      "message": "Adicionar um símbolo aos separadores descartados (p.ex. 💤 ou ⏻︎) (se possível)"
+   },
+   "options_rate_btn": {
+      "description": "",
+      "message": "Classificar"
+   },
+   "options_rate_desc": {
+      "description": "",
+      "message": "Para classificar a extensão, clicar"
+   },
+   "options_read_more": {
+      "description": "",
+      "message": "(Ver mais aqui)"
+   },
+   "options_release_next_tab": {
+      "description": "",
+      "message": "Remover o descarte do separador seguinte (separador à direita do separador activo)"
+   },
+   "options_release_previous_tab": {
+      "description": "",
+      "message": "Remover o descarte do separador anterior (separador à esquerda do separador activo)"
+   },
+   "options_reset": {
+      "description": "",
+      "message": "Restabelecer o estado original"
+   },
+   "options_save": {
+      "description": "",
+      "message": "Guardar opções"
+   },
+   "options_save_msg": {
+      "description": "",
+      "message": "Opções guardadas"
+   },
+   "options_save_notice": {
+      "description": "",
+      "message": "Feitas as alterações, não esquecer de clicar no botão \"Guardar opções\" no fundo desta página."
+   },
+   "options_simultaneous_jobs": {
+      "description": "",
+      "message": "Número de acções simultâneas de descarte permitidas"
+   },
+   "options_startup_pinned": {
+      "description": "",
+      "message": "No arranque do navegador ou extensão, descartar todos os separadores fixados"
+   },
+   "options_startup_release_pinned": {
+      "description": "",
+      "message": "No arranque do navegador ou extensão, remover o descarte de todos os separadores fixados"
+   },
+   "options_startup_unpinned": {
+      "description": "",
+      "message": "No arranque do navegador ou extensão, descartar todos os separadores não fixados"
+   },
+   "options_support": {
+      "description": "",
+      "message": "Apoiar o desenvolvimento"
+   },
+   "options_tab_context": {
+      "description": "",
+      "message": "Mostrar os itens descartados no menu de contexto \"separador\" (presentemente suportado pelo Firefox)"
+   },
+   "options_title": {
+      "description": "",
+      "message": "Página de Opções :: Auto-Descartar Separadores"
+   },
+   "options_url_based": {
+      "description": "",
+      "message": "Descartar apenas os seguintes hospedeiros inactivos ou regras de expressão regular"
+   },
+   "options_whitelist": {
+      "description": "",
+      "message": "separadores com os seguintes hospedeiros ou regras de expressão regular não serão descartados. É recomendado o uso da interface emergente (pop up) para modificar esta lista. Usar a tecla \"Shift\" ao adicionar uma regra a partir da interface emergente para gerar uma regra de expressão regular."
+   },
+   "popup_allowed": {
+      "description": "",
+      "message": "Nesta sessão, manter os separadores seleccionados"
+   },
+   "popup_close": {
+      "description": "",
+      "message": "Fechar separador"
+   },
+   "popup_close_title": {
+      "description": "",
+      "message": "Fechar o presente separador e mudar para o separador activo anterior"
+   },
+   "popup_discard_lefts": {
+      "description": "",
+      "message": "Descartar os separadores à esquerda"
+   },
+   "popup_discard_other_windows": {
+      "description": "",
+      "message": "Descartar separadores noutras janelas"
+   },
+   "popup_discard_rights": {
+      "description": "",
+      "message": "Descartar os separadores à direita"
+   },
+   "popup_discard_tab": {
+      "description": "",
+      "message": "Descartar separador"
+   },
+   "popup_discard_tabs": {
+      "description": "",
+      "message": "Descartar todos os outros separadores"
+   },
+   "popup_discard_tree": {
+      "description": "",
+      "message": "Descartar grupo de separadores"
+   },
+   "popup_discard_window": {
+      "description": "",
+      "message": "Descartar os outros separadores nesta janela"
+   },
+   "popup_move_next": {
+      "description": "",
+      "message": "Separador à direita"
+   },
+   "popup_move_next_title": {
+      "description": "",
+      "message": "Ir para o separador activo seguinte"
+   },
+   "popup_move_previous": {
+      "description": "",
+      "message": "Separador à esquerda"
+   },
+   "popup_move_previous_title": {
+      "description": "",
+      "message": "Ir para o separador activo anterior"
+   },
+   "popup_open_options": {
+      "description": "",
+      "message": "Opções"
+   },
+   "popup_release": {
+      "description": "",
+      "message": "Recuperar descartados. Para ignorar conteúdo em cache, usar Shift + Clique."
+   },
+   "popup_shift_hint": {
+      "description": "",
+      "message": "Usar a tecla Shift para ignorar as regras de excepção a auto-descarte."
+   },
+   "popup_tmp_0": {
+      "description": "",
+      "message": "Desligado"
+   },
+   "popup_tmp_1": {
+      "description": "",
+      "message": "1 hora"
+   },
+   "popup_tmp_12": {
+      "description": "",
+      "message": "12 horas"
+   },
+   "popup_tmp_24": {
+      "description": "",
+      "message": "1 dia"
+   },
+   "popup_tmp_6": {
+      "description": "",
+      "message": "6 horas"
+   },
+   "popup_tmp_disable": {
+      "description": "",
+      "message": "Desactivar o auto-descarte globalmente durante"
+   },
+   "popup_whitelist_always": {
+      "description": "",
+      "message": "Sempre"
+   },
+   "popup_whitelist_always_title": {
+      "description": "",
+      "message": "Clicar para adicionar o hospedeiro à lista de excepções. Shift + Clique para adicionar a URL exacta à lista de excepções."
+   },
+   "popup_whitelist_desc": {
+      "description": "",
+      "message": "Manter os separadores deste sítio"
+   },
+   "popup_whitelist_session": {
+      "description": "",
+      "message": "Sessão"
+   }
+}

@@ -1,0 +1,60 @@
+2026-03-08 13:26:12.362 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-03-08 13:26:12.437 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-03-08 13:26:12.438 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-03-08 13:26:12.439 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.vscode-pull-request-github' wants API proposal 'fileComments' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-03-08 13:26:12.439 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatVariableResolver' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-03-08 13:26:12.440 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-03-08 13:26:12.440 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.gather' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-03-08 13:26:12.441 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-pylance' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-03-08 13:26:12.441 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-03-08 13:26:12.442 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.jupyter' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-03-08 13:26:12.442 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'dbaeumer.vscode-eslint' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-03-08 13:26:12.442 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-azuretools.vscode-azure-github-copilot' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-03-08 13:26:12.443 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.cpptools' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-03-08 13:26:12.443 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'redhat.java' wants API proposal 'documentPaste' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-03-08 13:26:12.445 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'vscjava.vscode-java-pack' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2026-03-08 13:26:13.082 [error] [createInstance] Ioe depends on UNKNOWN service agentSessions.: Error: [createInstance] Ioe depends on UNKNOWN service agentSessions.
+    at Cos.y (vscode-file://vscode-app/usr/lib/antigravity/out/vs/workbench/workbench.desktop.main.js:5779:4186)
+    at Cos.o (vscode-file://vscode-app/usr/lib/antigravity/out/vs/workbench/workbench.desktop.main.js:5779:1360)
+    at Cos.createInstance (vscode-file://vscode-app/usr/lib/antigravity/out/vs/workbench/workbench.desktop.main.js:5779:1207)
+    at new gti (vscode-file://vscode-app/usr/lib/antigravity/out/vs/workbench/workbench.desktop.main.js:6448:8181)
+    at new u6n (vscode-file://vscode-app/usr/lib/antigravity/out/vs/workbench/workbench.desktop.main.js:6448:15815)
+    at Cos.o (vscode-file://vscode-app/usr/lib/antigravity/out/vs/workbench/workbench.desktop.main.js:5779:1710)
+    at Cos.createInstance (vscode-file://vscode-app/usr/lib/antigravity/out/vs/workbench/workbench.desktop.main.js:5779:1207)
+    at new pti (vscode-file://vscode-app/usr/lib/antigravity/out/vs/workbench/workbench.desktop.main.js:6448:18528)
+    at Cos.o (vscode-file://vscode-app/usr/lib/antigravity/out/vs/workbench/workbench.desktop.main.js:5779:1710)
+    at Cos.createInstance (vscode-file://vscode-app/usr/lib/antigravity/out/vs/workbench/workbench.desktop.main.js:5779:1207)
+2026-03-08 13:26:14.547 [info] Started local extension host with pid 39468.
+2026-03-08 13:26:15.988 [error] [vscode.git]: property `title` is mandatory and must be of type `string` or `object`
+2026-03-08 13:26:15.993 [error] [vscode.git]: property `title` is mandatory and must be of type `string` or `object`
+2026-03-08 13:26:15.997 [error] [google.antigravity]: Menu item references a command `antigravity.importAntigravitySettings` which is not defined in the 'commands' section.
+2026-03-08 13:26:16.003 [error] [google.antigravity]: Menu item references a command `antigravity.importAntigravityExtensions` which is not defined in the 'commands' section.
+2026-03-08 13:26:16.004 [error] [google.antigravity]: Menu item references a command `antigravity.prioritized.chat.open` which is not defined in the 'commands' section.
+2026-03-08 13:26:21.072 [error] [Extension Host] Failed to update user status Error: LanguageServerClient must be initialized first!
+	at _.getInstance (/usr/lib/antigravity/extensions/antigravity/dist/extension.js:2:961094)
+	at s.updateUserStatus (/usr/lib/antigravity/extensions/antigravity/dist/extension.js:2:1038275)
+	at s.restartUpdateLoop (/usr/lib/antigravity/extensions/antigravity/dist/extension.js:2:1038712)
+	at t.activate (/usr/lib/antigravity/extensions/antigravity/dist/extension.js:2:610628)
+	at Rv.kb (file:///usr/lib/antigravity/out/vs/workbench/api/node/extensionHostProcess.js:122:16702)
+	at Rv.jb (file:///usr/lib/antigravity/out/vs/workbench/api/node/extensionHostProcess.js:122:16447)
+	at file:///usr/lib/antigravity/out/vs/workbench/api/node/extensionHostProcess.js:122:14555
+	at async Qp.n (file:///usr/lib/antigravity/out/vs/workbench/api/node/extensionHostProcess.js:117:14144)
+	at async Qp.m (file:///usr/lib/antigravity/out/vs/workbench/api/node/extensionHostProcess.js:117:14107)
+	at async Qp.l (file:///usr/lib/antigravity/out/vs/workbench/api/node/extensionHostProcess.js:117:13563)
+2026-03-08 13:26:25.221 [error] [unknown] Failed to fetch: ConnectError: [unknown] Failed to fetch
+    at uje.from (vscode-file://vscode-app/usr/lib/antigravity/out/vs/workbench/workbench.desktop.main.js:4188:632922)
+    at vscode-file://vscode-app/usr/lib/antigravity/out/vs/workbench/workbench.desktop.main.js:4188:646806
+    at async Object.unary (vscode-file://vscode-app/usr/lib/antigravity/out/vs/workbench/workbench.desktop.main.js:4256:14098)
+    at async Object.refreshMcpServers (vscode-file://vscode-app/usr/lib/antigravity/out/vs/workbench/workbench.desktop.main.js:4188:638833)
+2026-03-08 13:26:26.489 [error] [Extension Host] (node:39468) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///usr/lib/antigravity/extensions/chrome-devtools-mcp/cdt_mcp/main.js is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /usr/lib/antigravity/extensions/chrome-devtools-mcp/package.json.
+(Use `exe --trace-warnings ...` to show where the warning was created)
+2026-03-08 13:28:38.755 [warning] [backup tracker] suspended, ignoring unregister event file:///opt/lampp/htdocs/PhishGuard/vendor/laravel/framework/src/Illuminate/Foundation/resources/exceptions/renderer/package.json 
+2026-03-08 13:28:38.756 [warning] [backup tracker] suspended, ignoring unregister event file:///opt/lampp/htdocs/PhishGuard/app/Http/Controllers/User/CourseAppController.php 
+2026-03-08 13:28:38.757 [warning] [backup tracker] suspended, ignoring unregister event file:///opt/lampp/htdocs/PhishGuard/app/Models/Lesson.php 
+2026-03-08 13:28:38.757 [warning] [backup tracker] suspended, ignoring unregister event file:///opt/lampp/htdocs/PhishGuard/app/Http/Controllers/Admin/UserProgressController.php 
+2026-03-08 13:28:38.758 [warning] [backup tracker] suspended, ignoring unregister event file:///opt/lampp/htdocs/PhishGuard/resources/views/auth/sign-up.blade.php 
+2026-03-08 13:28:38.759 [warning] [backup tracker] suspended, ignoring unregister event file:///opt/lampp/htdocs/PhishGuard/app/Http/Controllers/Admin/AnalyticsController.php 
+2026-03-08 13:28:38.759 [warning] [backup tracker] suspended, ignoring unregister event file:///opt/lampp/htdocs/PhishGuard/app/Models/User.php 
+2026-03-08 13:28:38.760 [warning] [backup tracker] suspended, ignoring unregister event file:///opt/lampp/htdocs/PhishGuard/app/Http/Controllers/Admin/UserController.php 

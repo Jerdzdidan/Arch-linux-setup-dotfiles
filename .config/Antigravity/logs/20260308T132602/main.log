@@ -1,0 +1,23 @@
+2026-03-08 13:26:02.977 [info] [BrowserOnboardingClientMainService] Starting browser onboarding server
+2026-03-08 13:26:02.977 [info] [BrowserOnboardingClientServer] Browser onboarding server started on http://localhost:34041
+2026-03-08 13:26:02.977 [info] update#setState idle
+2026-03-08 13:26:32.976 [info] update#setState checking for updates
+2026-03-08 13:26:33.188 [info] update#setState idle
+2026-03-08 13:28:38.825 [info] Extension host with pid 39468 exited with code: 0, signal: unknown.
+2026-03-08 14:26:32.980 [info] update#setState checking for updates
+2026-03-08 14:26:33.246 [info] update#setState idle
+2026-03-08 21:29:31.871 [info] update#setState checking for updates
+2026-03-08 21:29:32.251 [info] update#setState idle
+2026-03-08 22:17:17.524 [info] Extension host with pid 43478 exited with code: 0, signal: unknown.
+2026-03-08 22:21:56.391 [error] [UtilityProcess id: 5, type: fileWatcher, pid: 366385]: crashed with code 15 and reason 'killed'
+2026-03-08 22:21:57.288 [info] Extension host with pid 366399 exited with code: 0, signal: unknown.
+2026-03-08 22:21:59.840 [info] Extension host with pid 366616 exited with code: 0, signal: unknown.
+2026-03-08 22:29:31.888 [info] update#setState checking for updates
+2026-03-08 22:29:32.256 [info] update#setState idle
+2026-03-08 23:04:50.649 [error] ptyHost terminated unexpectedly with code 15
+2026-03-08 23:04:50.758 [warning] [UtilityProcess type: ptyHost, pid: 39467]: unable to kill the process
+2026-03-08 23:04:51.409 [info] Extension host with pid 357379 exited with code: 15, signal: unknown.
+2026-03-08 23:04:51.414 [error] [UtilityProcess id: 3, type: extensionHost, pid: 357379]: crashed with code 15 and reason 'killed'
+2026-03-08 23:04:52.450 [warning] [perf] profiling STARTED af1b4906-d679-4648-8d72-73059963b67e
+2026-03-08 23:04:52.471 [error] [UtilityProcess type: shared-process, pid: 39466]: crashed with code 15 and reason 'killed'
+2026-03-08 23:04:53.791 [error] [UtilityProcess id: 3, type: fileWatcher, pid: 357380]: crashed with code 139 and reason 'crashed'

@@ -1,0 +1,6 @@
+2026-03-09 04:44:30.641 [info] [BrowserOnboardingClientMainService] Starting browser onboarding server
+2026-03-09 04:44:30.647 [info] [BrowserOnboardingClientServer] Browser onboarding server started on http://localhost:38025
+2026-03-09 04:44:30.689 [info] update#setState idle
+2026-03-09 04:45:00.690 [info] update#setState checking for updates
+2026-03-09 04:45:00.884 [info] update#setState idle
+2026-03-09 05:08:40.402 [info] Extension host with pid 21762 exited with code: 0, signal: unknown.

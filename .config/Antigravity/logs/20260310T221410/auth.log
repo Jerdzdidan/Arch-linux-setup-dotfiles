@@ -1,0 +1,3 @@
+2026-03-10 22:14:14.099 [info] [Auth] AntigravityAuthMainService initialized
+2026-03-10 23:09:11.307 [info] OAuth token changed, executing antigravity.handleAuthRefresh
+2026-03-10 23:09:12.718 [info] OAuth token changed, executing antigravity.handleAuthRefresh

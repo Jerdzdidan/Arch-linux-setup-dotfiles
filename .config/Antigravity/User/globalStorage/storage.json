@@ -1,0 +1,150 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "bc1bff1d3760a25c96faa3dd28ae0faf78c7bd3745c65548127abb08b985d6e4",
+    "telemetry.devDeviceId": "046de74b-41a9-4363-9638-38162a0a3d3d",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///opt/lampp/htdocs/AU-AIS"
+            }
+        ],
+        "emptyWindows": [
+            {
+                "backupFolder": "1773140436398"
+            }
+        ]
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///opt/lampp/htdocs/AU-AIS": "__default__profile__",
+            "file:///home/jerdan/.gemini/antigravity/playground/primal-satellite": "__default__profile__",
+            "file:///home/jerdan/.gemini/antigravity/playground/solar-flare": "__default__profile__",
+            "file:///home/jerdan/.gemini/antigravity/playground/sidereal-station": "__default__profile__",
+            "file:///home/jerdan/.gemini/antigravity/playground/inner-magnetosphere": "__default__profile__",
+            "file:///home/jerdan/.gemini/antigravity/playground/azure-magnetar": "__default__profile__",
+            "file:///home/jerdan/Documents/PROGRAMMING%20LANGUAGES": "__default__profile__",
+            "file:///home/jerdan/.gemini/antigravity/playground/primordial-interstellar": "__default__profile__",
+            "file:///home/jerdan/.gemini/antigravity/playground/nomad-schrodinger": "__default__profile__",
+            "file:///home/jerdan/.gemini/antigravity/playground/spinning-asteroid": "__default__profile__",
+            "file:///opt/lampp/htdocs/PhishGuard": "__default__profile__",
+            "file:///home/jerdan/.gemini/antigravity/playground/crimson-planetarium": "__default__profile__",
+            "file:///home/jerdan/.gemini/antigravity/playground/glowing-prominence": "__default__profile__"
+        },
+        "emptyWindows": {
+            "1773140436398": "__default__profile__"
+        }
+    },
+    "antigravityUnifiedStateSync.oauthToken.hasLegacyMigrated": true,
+    "unifiedStateSync.hasTrajectorySummariesMigrated": true,
+    "overrideStore.migratedSecureMode": true,
+    "antigravityUnifiedStateSync.browserPreferences.hasBrowserAllowlistMigrated": true,
+    "antigravityUnifiedStateSync.browserPreferences.hasAddedLocalhostToAllowlist": true,
+    "unifiedStateSync.hasWindowPreferencesMigrated": true,
+    "unifiedStateSync.hasUserStatusMigrated": true,
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///opt/lampp/htdocs/AU-AIS",
+            "backupPath": "/home/jerdan/.config/Antigravity/Backups/a9ef4e7bb02fb9f3da859fa73a33c8c0",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 0,
+                "width": 1920,
+                "height": 1200
+            }
+        },
+        "openedWindows": []
+    },
+    "sidebarWorkspaces.migratedFromInitState": true,
+    "scratchWorkspaces.migratedFromInitState": true,
+    "antigravityUnifiedStateSync.seenNuxOneTimeMigration": true,
+    "artifactReviewState.migratedFromInitState": true,
+    "theme": "vs-dark",
+    "themeBackground": "#24283b",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#7982a9",
+            "background": "#24283b",
+            "editorBackground": "#24283b",
+            "titleBarBackground": "#1f2335",
+            "titleBarBorder": "#1b1e2e",
+            "activityBarBackground": "#1f2335",
+            "activityBarBorder": "#1f2335",
+            "sideBarBackground": "#1f2335",
+            "sideBarBorder": "#1b1e2e",
+            "statusBarBackground": "#1f2335",
+            "statusBarBorder": "#1b1e2e",
+            "statusBarNoFolderBackground": "#1f2335",
+            "windowBorder": "#0d0f17"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 42,
+            "sideBarWidth": 170,
+            "auxiliaryBarWidth": 509,
+            "statusBarHeight": 0,
+            "windowBorder": false
+        }
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 170,
+            "auxiliaryBarWidth": 509,
+            "workspaces": {
+                "18ca98f7de3627148ed6c211a2a63793": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "692d982bc88cea18175b56afd78b7404": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "6d307b92e7199ff5a175c20e0ca5cac2": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "6a39f4ee70c1bed394fed109ef749a02": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "b4eacf8c82661afbfa034627ef48e8ec": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "3ddbf3c300b8e8472ea7418ece6a9394": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "a0fccda1912fd0f1947f9248ace5141e": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "b71fe55c5a0c5f73fcb5499fb9ffef46": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "c621ff3c9a0c9e400aede9ddc986e73e": {
+                    "sideBarVisible": false,
+                    "auxiliaryBarVisible": true
+                },
+                "a3d9589efa69e0d39078715f393ef421": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "4b5abf9919d54b00c3e237b645b79c74": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                }
+            }
+        }
+    },
+    "agentManagerWindow.migratedFromInitState": true,
+    "jetski.agentManagerWindowClosed": true,
+    "unifiedStateSync.hasOnboardingMigrated": true
+}

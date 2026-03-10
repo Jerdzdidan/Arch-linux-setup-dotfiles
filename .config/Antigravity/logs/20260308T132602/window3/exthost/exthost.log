@@ -1,0 +1,38 @@
+2026-03-08 13:28:10.250 [info] Extension host with pid 43478 started
+2026-03-08 13:28:10.296 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: google.antigravity
+2026-03-08 13:28:10.318 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: google.antigravity
+2026-03-08 13:28:10.456 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-03-08 13:28:10.680 [info] ExtensionService#_doActivateExtension google.antigravity, startup: true, activationEvent: '*'
+2026-03-08 13:28:13.791 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2026-03-08 13:28:14.181 [info] ExtensionService#_doActivateExtension google.chrome-devtools-mcp, startup: false, activationEvent: 'onCommand:antigravity.getChromeDevtoolsMcpUrl'
+2026-03-08 13:28:18.403 [info] Eager extensions activated
+2026-03-08 13:28:18.411 [info] ExtensionService#_doActivateExtension google.antigravity-browser-launcher, startup: false, activationEvent: 'onStartupFinished'
+2026-03-08 13:28:18.420 [info] ExtensionService#_doActivateExtension google.antigravity-dev-containers, startup: false, activationEvent: 'onStartupFinished'
+2026-03-08 13:28:18.433 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-03-08 13:28:18.438 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-03-08 22:17:17.463 [info] Extension host terminating: renderer closed the MessagePort
+2026-03-08 22:17:17.516 [info] Extension host with pid 43478 exiting with code 0
+2026-03-08 22:17:23.092 [info] Extension host with pid 357379 started
+2026-03-08 22:17:23.092 [info] Skipping acquiring lock for /home/jerdan/.config/Antigravity/User/workspaceStorage/18ca98f7de3627148ed6c211a2a63793.
+2026-03-08 22:17:23.131 [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv, startup: false, activationEvent: 'onLanguage:plaintext'
+2026-03-08 22:17:23.145 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-03-08 22:17:23.175 [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+2026-03-08 22:17:23.195 [info] ExtensionService#_doActivateExtension bmewburn.vscode-intelephense-client, startup: false, activationEvent: 'onLanguage:php'
+2026-03-08 22:17:23.878 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: google.antigravity
+2026-03-08 22:17:23.913 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*', root cause: google.antigravity
+2026-03-08 22:17:24.019 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2026-03-08 22:17:24.146 [info] ExtensionService#_doActivateExtension google.antigravity, startup: false, activationEvent: '*'
+2026-03-08 22:17:24.720 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2026-03-08 22:17:24.784 [info] ExtensionService#_doActivateExtension DEVSENSE.composer-php-vscode, startup: true, activationEvent: 'workspaceContains:composer.json'
+2026-03-08 22:17:25.298 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-03-08 22:17:26.330 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2026-03-08 22:17:27.860 [info] ExtensionService#_doActivateExtension google.chrome-devtools-mcp, startup: false, activationEvent: 'onCommand:antigravity.getChromeDevtoolsMcpUrl'
+2026-03-08 22:17:30.426 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2026-03-08 22:17:30.445 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2026-03-08 22:17:30.472 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2026-03-08 22:17:32.093 [info] Eager extensions activated
+2026-03-08 22:17:32.130 [info] ExtensionService#_doActivateExtension google.antigravity-browser-launcher, startup: false, activationEvent: 'onStartupFinished'
+2026-03-08 22:17:32.141 [info] ExtensionService#_doActivateExtension google.antigravity-dev-containers, startup: false, activationEvent: 'onStartupFinished'
+2026-03-08 22:17:32.152 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-03-08 22:17:32.158 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-03-08 22:17:32.248 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'

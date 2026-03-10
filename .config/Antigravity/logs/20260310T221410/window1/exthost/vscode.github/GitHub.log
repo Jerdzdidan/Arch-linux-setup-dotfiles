@@ -1,0 +1,4 @@
+2026-03-10 22:14:13.905 [info] Log level: Info
+2026-03-10 22:14:54.627 [info] Log level: Info
+2026-03-10 22:14:55.005 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.
+2026-03-10 22:35:39.728 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_loadAssignableUsers] Failed to load assignable user(s) for Jerdzdidan/AU-AIS: Error: No GitHub authentication session available.

@@ -1,0 +1,38 @@
+2026-03-08 22:21:59.012 [info] Extension host with pid 366616 started
+2026-03-08 22:21:59.012 [info] Skipping acquiring lock for /home/jerdan/.config/Antigravity/User/workspaceStorage/9f2780d6cb0f22382aebc1dcdd0ca8ba.
+2026-03-08 22:21:59.048 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: google.antigravity
+2026-03-08 22:21:59.075 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: google.antigravity
+2026-03-08 22:21:59.182 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-03-08 22:21:59.294 [info] ExtensionService#_doActivateExtension google.antigravity, startup: true, activationEvent: '*'
+2026-03-08 22:21:59.811 [info] Extension host terminating: renderer closed the MessagePort
+2026-03-08 22:21:59.838 [error] ProxyResolver#addCertificatesV1 Canceled: Canceled
+	at new yte (file:///usr/lib/antigravity/out/vs/workbench/api/node/extensionHostProcess.js:30:122267)
+	at w9.U (file:///usr/lib/antigravity/out/vs/workbench/api/node/extensionHostProcess.js:30:126890)
+	at s.<computed>.r.charCodeAt.s.<computed> (file:///usr/lib/antigravity/out/vs/workbench/api/node/extensionHostProcess.js:30:124382)
+	at Lp.loadCertificates (file:///usr/lib/antigravity/out/vs/workbench/api/node/extensionHostProcess.js:114:77522)
+	at Object.loadAdditionalCertificates (file:///usr/lib/antigravity/out/vs/workbench/api/node/extensionHostProcess.js:216:21125)
+	at /usr/lib/antigravity/node_modules/@vscode/proxy-agent/out/index.js:808:49
+	at Generator.next (<anonymous>)
+	at /usr/lib/antigravity/node_modules/@vscode/proxy-agent/out/index.js:35:71
+	at new Promise (<anonymous>)
+	at __awaiter (/usr/lib/antigravity/node_modules/@vscode/proxy-agent/out/index.js:31:12)
+	at /usr/lib/antigravity/node_modules/@vscode/proxy-agent/out/index.js:807:33
+	at /usr/lib/antigravity/node_modules/@vscode/proxy-agent/out/index.js:810:20
+	at Generator.next (<anonymous>)
+	at /usr/lib/antigravity/node_modules/@vscode/proxy-agent/out/index.js:35:71
+	at new Promise (<anonymous>)
+	at __awaiter (/usr/lib/antigravity/node_modules/@vscode/proxy-agent/out/index.js:31:12)
+	at getOrLoadAdditionalCertificates (/usr/lib/antigravity/node_modules/@vscode/proxy-agent/out/index.js:803:12)
+	at addCertificatesToOptionsV1 (/usr/lib/antigravity/node_modules/@vscode/proxy-agent/out/index.js:783:9)
+	at resolveProxyWithRequest (/usr/lib/antigravity/node_modules/@vscode/proxy-agent/out/index.js:140:9)
+	at /usr/lib/antigravity/node_modules/@vscode/proxy-agent/out/index.js:372:77
+	at new Promise (<anonymous>)
+	at PacProxyAgent.resolveP [as resolver] (/usr/lib/antigravity/node_modules/@vscode/proxy-agent/out/index.js:372:54)
+	at PacProxyAgent.<anonymous> (/usr/lib/antigravity/node_modules/@vscode/proxy-agent/out/agent.js:74:37)
+	at Generator.next (<anonymous>)
+	at /usr/lib/antigravity/node_modules/@vscode/proxy-agent/out/agent.js:8:71
+	at new Promise (<anonymous>)
+	at __awaiter (/usr/lib/antigravity/node_modules/@vscode/proxy-agent/out/agent.js:4:12)
+	at PacProxyAgent.connect (/usr/lib/antigravity/node_modules/@vscode/proxy-agent/out/agent.js:56:16)
+	at /usr/lib/antigravity/node_modules/agent-base/dist/index.js:130:30
+2026-03-08 22:21:59.838 [info] Extension host with pid 366616 exiting with code 0

@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# omarchy-tmux — update tmux-powerkit
+if [[ -d "$HOME/.config/tmux/plugins/tmux-powerkit/.git" ]]; then
+  git -C "$HOME/.config/tmux/plugins/tmux-powerkit" pull --ff-only
+fi

@@ -1,0 +1,454 @@
+{
+   "app_description": {
+      "description": "",
+      "message": "Erhöhe die Browsergeschwindigkeit und reduziere die Speicherauslastung, falls mehrere Tabs geöffnet sind."
+   },
+   "bg_msg_1": {
+      "description": "",
+      "message": "Automatische Deaktivierung ist für diesen Tab inaktiv"
+   },
+   "bg_no_active_tab": {
+      "description": "",
+      "message": "Es ist kein aktiver Tab vorhanden"
+   },
+   "blank_msg": {
+      "description": "",
+      "message": "Alle Tabs in diesem Fenster sind deaktiviert! Klicke um den Tab zu schließen"
+   },
+   "cmd_close": {
+      "description": "",
+      "message": "Tab schließen"
+   },
+   "cmd_discard_other_windows": {
+      "description": "",
+      "message": "Tabs in anderen Fenstern deaktivieren"
+   },
+   "cmd_discard_tab": {
+      "description": "",
+      "message": "Tab deaktivieren"
+   },
+   "cmd_discard_tabs": {
+      "description": "",
+      "message": "Alle anderen Tabs deaktivieren"
+   },
+   "cmd_discard_tree": {
+      "description": "",
+      "message": "Tabgruppe deaktivieren"
+   },
+   "cmd_discard_window": {
+      "description": "",
+      "message": "Alle anderen Tabs im aktiven Fenster deaktivieren"
+   },
+   "cmd_move_next": {
+      "description": "",
+      "message": "Zum nächsten Tab bewegen"
+   },
+   "cmd_move_previous": {
+      "description": "",
+      "message": "Zum vorherigen Tab bewegen"
+   },
+   "cmd_whitelist_domain": {
+      "description": "",
+      "message": "Tabs für diese Seite niemals deaktivieren"
+   },
+   "menu_close": {
+      "description": "",
+      "message": "Tab schließen"
+   },
+   "menu_discard_lefts": {
+      "description": "",
+      "message": "Tabs zur Linken deaktivieren"
+   },
+   "menu_discard_menu": {
+      "description": "",
+      "message": "Tabs im aktiven Fenster deaktivieren"
+   },
+   "menu_discard_other_windows": {
+      "description": "",
+      "message": "Tabs in anderen Fenstern deaktivieren"
+   },
+   "menu_discard_rights": {
+      "description": "",
+      "message": "Tabs zur Rechten deaktivieren"
+   },
+   "menu_discard_tab": {
+      "description": "",
+      "message": "Tab deaktivieren"
+   },
+   "menu_discard_tabs": {
+      "description": "",
+      "message": "Alle anderen Tabs deaktivieren"
+   },
+   "menu_discard_tree": {
+      "description": "",
+      "message": "Tabs der Gruppe deaktivieren"
+   },
+   "menu_discard_window": {
+      "description": "",
+      "message": "Alle anderen Tabs deaktivieren"
+   },
+   "menu_move_next": {
+      "description": "",
+      "message": "Zum nächsten Tab bewegen"
+   },
+   "menu_move_previous": {
+      "description": "",
+      "message": "Zum vorherigen Tab bewegen"
+   },
+   "menu_msg1": {
+      "description": "",
+      "message": "wird zur Whitelist hinzugefügt"
+   },
+   "menu_msg2": {
+      "description": "",
+      "message": "Seiten-Protokoll wird nicht unterstützt"
+   },
+   "menu_msg3": {
+      "description": "",
+      "message": "Tab kann nicht deaktiviert werden, solange er aktiv ist"
+   },
+   "menu_msg4": {
+      "description": "",
+      "message": "wird zur Sitzungs-Whitelist hinzugefügt"
+   },
+   "menu_msg5": {
+      "description": "",
+      "message": "is removed from the permanent whitelist"
+   },
+   "menu_msg6": {
+      "description": "",
+      "message": "is removed from the session whitelist"
+   },
+   "menu_open_tab_then_discard": {
+      "description": "",
+      "message": "In neuem deaktivierten Tab öffnen"
+   },
+   "menu_whitelist_domain": {
+      "description": "",
+      "message": "Tabs für diese Seite niemals deaktivieren"
+   },
+   "options_audio": {
+      "description": "",
+      "message": "Tab nicht deaktivieren, wenn dieser Video oder Audio abspielt"
+   },
+   "options_battery": {
+      "description": "",
+      "message": "Tabs nicht deaktivieren, wenn der Computer an eine Stromversorgung angeschlossen ist"
+   },
+   "options_click_discard_other_windows": {
+      "description": "",
+      "message": "Tabs in anderen Fenstern deaktivieren"
+   },
+   "options_click_discard_tab": {
+      "description": "",
+      "message": "Tab deaktivieren"
+   },
+   "options_click_discard_tabs": {
+      "description": "",
+      "message": "Alle anderen Tabs deaktivieren"
+   },
+   "options_click_discard_window": {
+      "description": "",
+      "message": "Alle anderen Tabs im aktiven Fenster deaktivieren"
+   },
+   "options_click_popup": {
+      "description": "",
+      "message": "Popup öffnen"
+   },
+   "options_click_release_other_windows": {
+      "description": "",
+      "message": "Tabs in anderen Fenstern reaktivieren"
+   },
+   "options_click_release_tabs": {
+      "description": "",
+      "message": "Alle anderen Tabs reaktivieren"
+   },
+   "options_click_release_window": {
+      "description": "",
+      "message": "Andere Tabs in diesem Fenster reaktivieren"
+   },
+   "options_click_toggle_allowed": {
+      "description": "",
+      "message": "Option \"Tab für diese Sitzung nicht deaktivieren\" umschalten"
+   },
+   "options_discarding_conditions": {
+      "description": "",
+      "message": "Deaktivierungsbedingungen"
+   },
+   "options_discarding_options": {
+      "description": "",
+      "message": "Deaktivierungs-Optionen"
+   },
+   "options_exceptions": {
+      "description": "",
+      "message": "Ausnahmen"
+   },
+   "options_export": {
+      "description": "",
+      "message": "Einstellungen exportieren"
+   },
+   "options_faqs": {
+      "description": "",
+      "message": "FAQ-Seite zu Updates öffnen"
+   },
+   "options_favicon": {
+      "description": "",
+      "message": "Ändere das Favicon von deaktivierten Tabs (falls möglich)"
+   },
+   "options_favicon_delay": {
+      "description": "",
+      "message": "Verzögerung für das Anzeigen des verworfenen Favicons (in Millisekunden)"
+   },
+   "options_footnote_1": {
+      "description": "",
+      "message": "Die Verwendung von regulären Ausdrücken ist durch die Verwendung des Schlüsselworts \"re:\" möglich. Um z.B. alle URLs mit dem Schlüsselwort \"google\" in die Whitelist aufzunehmen, verwenden Sie \"re:google\"."
+   },
+   "options_footnote_2": {
+      "description": "",
+      "message": "Prüft \"totalJSHeapSize\" der Seite. Wenn die Speichernutzung dieser den benutzerdefinierten Wert überschreitet (der kleinstmögliche Wert ist 10 MB), wird der Tab deaktiviert. Beachten Sie, dass diese Option nur verfügbar ist, wenn Ihr Browser \"window.performance.memory\" unterstützt"
+   },
+   "options_footnote_4": {
+      "description": "",
+      "message": "Um einen eigenen Zeitintervall für eine Regel zu benutzen, hänge @{zahl}{einheit} ans Ende (bspw.: google.com@3d wird google.com URLs nach 3 Tagen löschen). Gültige Einheiten sind (h)-Stunde, (d)-Tage, (w)ochen, und (mo)nate"
+   },
+   "options_form": {
+      "description": "",
+      "message": "Tab nicht deaktivieren, wenn Formulareingaben noch nicht gespeichert wurden"
+   },
+   "options_go_hidden": {
+      "description": "",
+      "message": "Tab deaktivieren, wenn dieser ausgeblendet ist"
+   },
+   "options_idle": {
+      "description": "",
+      "message": "Tabs nicht deaktivieren, wenn der Computer aktuell genutzt wird"
+   },
+   "options_idle_timeout": {
+      "description": "",
+      "message": "Länge des Zeitraums in Minuten, um zu bestimmen ob der Computer genutzt wird oder nicht."
+   },
+   "options_import": {
+      "description": "",
+      "message": "Einstellungen importieren"
+   },
+   "options_left_click": {
+      "description": "",
+      "message": "Aktion bei Links-Klick auf die Toolbar"
+   },
+   "options_link_context": {
+      "description": "",
+      "message": "Zeige \"Link in neuem deaktivierten Tab öffnen\" im \"Link\"-Kontextmenü"
+   },
+   "options_log": {
+      "description": "",
+      "message": "Protokolle anzeigen (Verwendung zur Fehlersuche)"
+   },
+   "options_memory": {
+      "description": "",
+      "message": "Deaktivieren eines inaktiven Tabs wenn der Speicherverbauch (totalJSHeapSize) dieses ... MB überschreitet"
+   },
+   "options_misc": {
+      "description": "",
+      "message": "Verschiedenes"
+   },
+   "options_notification_permission": {
+      "description": "",
+      "message": "Tab nicht deaktivieren, wenn dieser Desktopbenachrichtigungen anzeigen darf"
+   },
+   "options_online": {
+      "description": "",
+      "message": "Tabs nicht deaktivieren, wenn keine Internetverbindung vorhanden und der Tab nicht gecached ist"
+   },
+   "options_page_context": {
+      "description": "",
+      "message": "Zeige deaktivierte Elemente im \"Seite\"-Kontextmenü"
+   },
+   "options_period01_a": {
+      "description": "",
+      "message": "Deaktiviere inaktive Tabs nach"
+   },
+   "options_period02": {
+      "description": "",
+      "message": "Minuten (null zum deaktivieren) wenn die Anzahl inaktiver Tabs überschritten wird"
+   },
+   "options_period04": {
+      "description": "",
+      "message": "Obergrenze der zu prüfenden Tabs pro automatischer Deaktivierung"
+   },
+   "options_pinned": {
+      "description": "",
+      "message": "Tab nicht deaktivieren, wenn dieser angeheftet ist"
+   },
+   "options_plugin_blank": {
+      "description": "",
+      "message": "Öffnet eine temporäre leere Seite sobald alle Tabs in einem inaktiven Fenster deaktiviert werden (damit it es möglich ein aktives Tab in diesem Fenster zu deaktivieren)"
+   },
+   "options_plugin_dummy": {
+      "description": "",
+      "message": "Sobald deaktiviert, ersetze die Seite mit einer lokalen Dummy Alternative."
+   },
+   "options_plugin_focus": {
+      "description": "",
+      "message": "Alle Tabs im aktiven Fenster reaktivieren. Wenn aktiv, wird kein Tab im aktiven Fenster deaktiviert."
+   },
+   "options_plugin_force": {
+      "description": "",
+      "message": "Deaktiviere folgende Hostnamen, wenn dessen Tab nicht aktiv ist"
+   },
+   "options_plugin_new": {
+      "description": "",
+      "message": "Deaktiviere alle neuen inaktiven Tabs, nachdem sie fertig geladen wurden"
+   },
+   "options_plugin_trash": {
+      "description": "",
+      "message": "Entferne (lösche permanent) deaktivierte Tabs, sobald sie für eine gewisse Zeit (in Stunden) inaktiv sind"
+   },
+   "options_plugin_trash_unloaded": {
+      "description": "",
+      "message": "Übigens, beachte alte ungeladene Tabs"
+   },
+   "options_plugin_trash_whitelist": {
+      "description": "",
+      "message": "Ausschließlich Müll Tabs, welche den folgenden URL-Mustern entsprechen"
+   },
+   "options_plugin_unloaded": {
+      "description": "",
+      "message": "Deaktiviere alle ungeladenen Tabs beim Browserstart. Diese Methode deaktiviert fast alle inaktiven Tabs."
+   },
+   "options_plugin_youtube": {
+      "description": "",
+      "message": "Speichere YouTube's Zeitmarke vor dem deaktivieren"
+   },
+   "options_plugins": {
+      "description": "",
+      "message": "Plug-Ins"
+   },
+   "options_prepends": {
+      "description": "",
+      "message": "Stelle ein Symbol einem deaktiviertem Tab voran (z.B. e.g. 💤 or ⏻︎) (falls möglich)"
+   },
+   "options_release_next_tab": {
+      "description": "",
+      "message": "Tab zur Rechten des aktiven Tabs reaktivieren"
+   },
+   "options_release_previous_tab": {
+      "description": "",
+      "message": "Tab zur Linken des aktiven Tabs reaktivieren"
+   },
+   "options_reset": {
+      "description": "",
+      "message": "Auf Werkseinstellungen zurücksetzen"
+   },
+   "options_save": {
+      "description": "",
+      "message": "Einstellungen speichern"
+   },
+   "options_simultaneous_jobs": {
+      "description": "",
+      "message": "Anzahl der erlaubten simultanen Deaktivierungen"
+   },
+   "options_startup_pinned": {
+      "description": "",
+      "message": "Deaktivieren aller angehefteten Tabs beim Start des Browsers oder der Browsererweiterung"
+   },
+   "options_startup_release_pinned": {
+      "description": "",
+      "message": "Reaktivieren aller angehefteten Tabs beim Start des Browsers oder der Browsererweiterung"
+   },
+   "options_startup_unpinned": {
+      "description": "",
+      "message": "Deaktivieren aller nicht angehefteten Tabs beim Start des Browsers oder der Browsererweiterung"
+   },
+   "options_support": {
+      "description": "",
+      "message": "Entwicklung unterstützen"
+   },
+   "options_tab_context": {
+      "description": "",
+      "message": "Zeige deaktivierte Elemente im \"Tab\"-Kontextmenü (falls unterstützt)"
+   },
+   "options_url_based": {
+      "description": "",
+      "message": "Deaktiviere nur inaktive Tabs folgender Hostnames oder reguläre Regeln"
+   },
+   "options_use_cache": {
+      "description": "",
+      "message": "Cache verwenden: Wenn aktiv, prüft die Erweiterung nur einmal, ob ein Tab angeheftet ist oder der Computer mit einer Stromquelle verbunden ist"
+   },
+   "options_whitelist": {
+      "description": "",
+      "message": "Tabs mit den folgenden Hostnames oder regulären Regeln werden nicht deaktiviert:"
+   },
+   "popup_allowed": {
+      "description": "",
+      "message": "Tab für diese Sitzung nicht deaktivieren"
+   },
+   "popup_close": {
+      "description": "",
+      "message": "Tab schließen"
+   },
+   "popup_discard_lefts": {
+      "description": "",
+      "message": "Tabs zur Linken deaktivieren"
+   },
+   "popup_discard_other_windows": {
+      "description": "",
+      "message": "Tabs in anderen Fenstern deaktivieren"
+   },
+   "popup_discard_rights": {
+      "description": "",
+      "message": "Tabs zur Rechten deaktivieren"
+   },
+   "popup_discard_tab": {
+      "description": "",
+      "message": "Tab deaktivieren"
+   },
+   "popup_discard_tabs": {
+      "description": "",
+      "message": "Alle anderen Tabs deaktivieren"
+   },
+   "popup_discard_tree": {
+      "description": "",
+      "message": "Tabs der Gruppe deaktivieren"
+   },
+   "popup_discard_window": {
+      "description": "",
+      "message": "Alle anderen Tabs im aktiven Fenster deaktivieren"
+   },
+   "popup_move_next": {
+      "description": "",
+      "message": "Rechter Tab"
+   },
+   "popup_move_previous": {
+      "description": "",
+      "message": "Linker Tab"
+   },
+   "popup_open_options": {
+      "description": "",
+      "message": "Optionen"
+   },
+   "popup_release": {
+      "description": "",
+      "message": "Reaktivieren. Um zwischengespeicherten Inhalt zu verwerfen, verwenden Sie Umschalt + Klick"
+   },
+   "popup_shift_hint": {
+      "description": "",
+      "message": "Halten Sie die Umschalttaste gedrückt, um Ausnahmen zu ignorieren"
+   },
+   "popup_whitelist_always": {
+      "description": "",
+      "message": "Immer"
+   },
+   "popup_whitelist_always_title": {
+      "description": "",
+      "message": "Anklicken, um den Hostnamen zu den Ausnahmen hinzuzufügen. Verwenden Sie Umschalt + Klick um die exakte URL zu den Ausnahmen hinzuzufügen"
+   },
+   "popup_whitelist_desc": {
+      "description": "",
+      "message": "Tabs dieser Seite nicht deaktivieren"
+   },
+   "popup_whitelist_session": {
+      "description": "",
+      "message": "Sitzung"
+   }
+}

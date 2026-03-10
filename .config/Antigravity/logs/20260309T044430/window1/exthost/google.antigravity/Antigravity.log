@@ -1,0 +1,15 @@
+2026-03-09 04:44:36.582 [info] I0309 04:44:36.582238 22019 server.go:1154] Starting language server process with pid 22019
+2026-03-09 04:44:36.582 [info] I0309 04:44:36.582325 22019 server.go:269] Setting GOMAXPROCS to 4
+2026-03-09 04:44:36.583 [info] I0309 04:44:36.583063 22019 server.go:422] Language server will attempt to listen on host 127.0.0.1
+2026-03-09 04:44:36.583 [info] I0309 04:44:36.583667 22019 server.go:437] Language server listening on random port at 46371 for HTTPS
+2026-03-09 04:44:36.583 [info] I0309 04:44:36.583687 22019 server.go:444] Language server listening on random port at 44455 for HTTP
+2026-03-09 04:44:36.934 [info] I0309 04:44:36.934278 22019 server.go:414] Created extension server client at port 34123
+2026-03-09 04:44:36.947 [info] I0309 04:44:36.947130 22019 server.go:553] Using ApiServerClientV2
+2026-03-09 04:44:36.951 [info] I0309 04:44:36.951141 22019 cascade_manager.go:842] Reactive state is disabled
+2026-03-09 04:44:36.975 [info] (Antigravity) 2026-03-09 04:44:36.971 [INFO]: Language server started
+2026-03-09 04:44:37.015 [info] I0309 04:44:36.990711 22019 server.go:1538] initialized server successfully in 408.374714ms
+2026-03-09 04:44:37.015 [info] 2026/03/09 04:44:37 http: TLS handshake error from 127.0.0.1:46306: EOF
+2026-03-09 04:44:37.086 [info] (Antigravity) 2026-03-09 04:44:37.086 [INFO]: LS lspClient started successfully
+2026-03-09 04:44:38.491 [info] I0309 04:44:38.491407 22019 system_mcps.go:80] Chrome DevTools MCP URL discovered at http://127.0.0.1:43441/mcp, stopping watcher
+2026-03-09 04:44:41.209 [info] (Antigravity) 2026-03-09 04:44:41.209 [INFO]: [Terminal] Command completed:  exit code 0
+2026-03-09 04:46:09.634 [info] I0309 04:46:09.634025 22019 http_helpers.go:123] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse Trace: 0x502711ea8a4cdde7

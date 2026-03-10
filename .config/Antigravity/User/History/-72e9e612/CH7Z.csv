@@ -1,0 +1,8 @@
+student_number,name,program_code
+25-10001,"Valid Student, One",BSCS
+25-10002,"Valid Student, Two",BSIT
+,,"BSCS"
+25-10004,,BSCS
+25-XXXXX,"Bad Format, Student",BSIT
+25-10006,"Unknown Program, Student",INVALIDCODE
+25-10007,"Valid Student, Three",BSCS

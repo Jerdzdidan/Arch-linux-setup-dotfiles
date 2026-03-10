@@ -1,0 +1,5 @@
+2026-03-10 18:59:25.516 [info] I0310 18:59:25.515933 16524 server.go:1154] Starting language server process with pid 16524
+2026-03-10 18:59:25.516 [info] I0310 18:59:25.516007 16524 server.go:269] Setting GOMAXPROCS to 4
+2026-03-10 18:59:25.516 [info] I0310 18:59:25.516778 16524 server.go:422] Language server will attempt to listen on host 127.0.0.1
+2026-03-10 18:59:25.517 [info] I0310 18:59:25.516980 16524 server.go:437] Language server listening on random port at 33973 for HTTPS
+2026-03-10 18:59:25.517 [info] I0310 18:59:25.516999 16524 server.go:444] Language server listening on random port at 40127 for HTTP

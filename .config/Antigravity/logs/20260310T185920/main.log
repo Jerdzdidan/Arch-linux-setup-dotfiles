@@ -1,0 +1,15 @@
+2026-03-10 18:59:20.564 [info] [BrowserOnboardingClientMainService] Starting browser onboarding server
+2026-03-10 18:59:20.603 [info] update#setState idle
+2026-03-10 18:59:20.607 [info] [BrowserOnboardingClientServer] Browser onboarding server started on http://localhost:36647
+2026-03-10 18:59:20.657 [info] [OAuthTokenLifecycle] Starting one-time OAuth token migration from legacy state sync
+2026-03-10 18:59:20.657 [info] [OAuthTokenLifecycle] No agent manager init state found, skipping migration
+2026-03-10 18:59:20.658 [info] [OverrideStoreLifecycle] Migrating secure mode from agent preferences to override store
+2026-03-10 18:59:20.782 [info] Started initializing default profile extensions in extensions installation folder. file:///home/jerdan/.antigravity/extensions
+2026-03-10 18:59:20.785 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/jerdan/.antigravity/extensions
+2026-03-10 18:59:22.047 [info] [SidebarWorkspacesLifecycle] Running one-time migration from agent manager init state
+2026-03-10 18:59:22.047 [info] [SidebarWorkspacesLifecycle] No agent manager init state found, skipping migration
+2026-03-10 18:59:22.048 [info] [ScratchWorkspacesLifecycle] Running one-time migration from agent manager init state
+2026-03-10 18:59:22.048 [info] [ScratchWorkspacesLifecycle] No agent manager init state found, skipping migration
+2026-03-10 18:59:23.980 [info] [ArtifactReviewLifecycle] Running one-time migration from agent manager init state
+2026-03-10 18:59:23.980 [info] [ArtifactReviewLifecycle] No agent manager init state found, skipping migration
+2026-03-10 18:59:25.863 [info] Extension host with pid 16347 exited with code: 0, signal: unknown.

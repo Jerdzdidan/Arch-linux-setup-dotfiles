@@ -1,0 +1,54 @@
+INFO 3/10/2026, 3:50:23 PM  30  launch with argv [/usr/share/typora/Typora, --enable-wayland-ime]
+INFO 3/10/2026, 3:50:23 PM  85  ------------------start------------------
+DEBUG 3/10/2026, 3:50:23 PM  92  before setting 
+DEBUG 3/10/2026, 3:50:23 PM  107  prepDatabase /home/jerdan/.config/Typora/profile.data
+DEBUG 3/10/2026, 3:50:23 PM  111  prepDatabase /home/jerdan/.config/Typora/history.data
+INFO 3/10/2026, 3:50:23 PM  113  OS is linux 6.19.6-arch1-1
+INFO 3/10/2026, 3:50:23 PM  113  launchFromDiffVersion, pre version is undefined
+INFO 3/10/2026, 3:50:23 PM  113  start LM in devVersion=false
+INFO 3/10/2026, 3:50:23 PM  121  overwriteThemeFolder
+DEBUG 3/10/2026, 3:50:23 PM  122  after setting 
+INFO 3/10/2026, 3:50:23 PM  122  typora version: 1.12.4
+DEBUG 3/10/2026, 3:50:23 PM  152  app.openFile
+INFO 3/10/2026, 3:50:23 PM  155  [watch L]
+DEBUG 3/10/2026, 3:50:23 PM  155  prepDatabase /home/jerdan/.config/Typora/exaITw5bIv
+INFO 3/10/2026, 3:50:23 PM  157  no info
+INFO 3/10/2026, 3:50:23 PM  157  ls put SLicense
+DEBUG 3/10/2026, 3:50:23 PM  157  onUnfillLicense
+DEBUG 3/10/2026, 3:50:23 PM  158  trailRemains is 15
+INFO 3/10/2026, 3:50:23 PM  158  [L] installDate is 3/10/2026, trail remains: 15 days
+DEBUG 3/10/2026, 3:50:23 PM  158  onUnfillLicense
+INFO 3/10/2026, 3:50:23 PM  158  [watch L] hasL: false
+DEBUG 3/10/2026, 3:50:23 PM  192  added recovery 1 null  (0)
+DEBUG 3/10/2026, 3:50:23 PM  205  putAccelerator File -> &File
+DEBUG 3/10/2026, 3:50:23 PM  205  putAccelerator Edit -> &Edit
+DEBUG 3/10/2026, 3:50:23 PM  205  putAccelerator Paragraph -> &Paragraph
+DEBUG 3/10/2026, 3:50:23 PM  205  putAccelerator Format -> F&ormat
+DEBUG 3/10/2026, 3:50:23 PM  206  putAccelerator View -> &View
+DEBUG 3/10/2026, 3:50:23 PM  206  putAccelerator Themes -> &Themes
+DEBUG 3/10/2026, 3:50:23 PM  206  putAccelerator Help -> &Help
+INFO 3/10/2026, 3:50:23 PM  258  synced recovery
+user-dict.json not found
+INFO 3/10/2026, 3:50:23 PM  297  [focus] 1
+DEBUG 3/10/2026, 3:50:24 PM  679  onUnfillLicense
+ERROR 3/10/2026, 3:50:24 PM  690  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 3/10/2026, 3:50:24 PM  692  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 3/10/2026, 3:50:24 PM  692  handle document.loadData
+DEBUG 3/10/2026, 3:50:24 PM  693  document.loadData 0
+INFO 3/10/2026, 3:50:24 PM  738  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 3/10/2026, 3:50:24 PM  739  [RenderProcess 1][Log] reset NodeMap
+DEBUG 3/10/2026, 3:50:24 PM  749  added recovery 1   (0)
+INFO 3/10/2026, 3:50:24 PM  751  synced recovery
+INFO 3/10/2026, 3:50:24 PM  928  [RenderProcess 1][Log] onBecomeActive
+INFO 3/10/2026, 3:50:24 PM  928  [RenderProcess 1][Log] File.activeWindow = true
+DEBUG 3/10/2026, 3:50:24 PM  1512  added recovery 1  w (1)
+INFO 3/10/2026, 3:50:24 PM  1513  synced recovery
+INFO 3/10/2026, 3:50:28 PM  4795  synced recovery
+INFO 3/10/2026, 3:50:28 PM  4795  ----------------before-quit-----------------
+INFO 3/10/2026, 3:50:28 PM  4795  ------------------will-quit------------------
+INFO 3/10/2026, 3:50:28 PM  4795  -----------------quit------------------
+INFO 3/10/2026, 3:50:28 PM  4795  closeLogging

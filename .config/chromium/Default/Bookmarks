@@ -1,0 +1,196 @@
+{
+   "checksum": "00805f985141e1aecedbf3fb7126b58f",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13278323919733055",
+            "date_last_used": "13396011393553535",
+            "guid": "03cda53b-8057-4292-8426-8f22d08b9605",
+            "id": "8",
+            "name": "CSS Colors",
+            "type": "url",
+            "url": "https://www.w3schools.com/cssref/css_colors.asp"
+         }, {
+            "date_added": "13279724235995479",
+            "date_last_used": "13390572019237087",
+            "guid": "e3a896d8-7948-40f3-96d2-53f81ff8c99d",
+            "id": "9",
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13396320333895603",
+            "date_last_used": "0",
+            "guid": "e64fad78-f451-497d-b0f5-708a124d1226",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "FileCR - THE BIGGEST SOFTWARE STORE",
+            "type": "url",
+            "url": "https://filecr.com/en/?id=891296582000"
+         }, {
+            "date_added": "13397634997719913",
+            "date_last_used": "13407566731454910",
+            "guid": "feee460e-4296-482d-afed-ceaa37f08d65",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Z-library Project - eBook Library Z. Download free Books",
+            "type": "url",
+            "url": "https://z-library.sk/"
+         }, {
+            "date_added": "13397635526618943",
+            "date_last_used": "13399474702802737",
+            "guid": "723ccca2-7485-4953-a9ed-76e91cdfda60",
+            "id": "12",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Z-Library – the world’s largest e-book library. Your gateway to knowledge and culture.",
+            "type": "url",
+            "url": "https://1lib.sk/"
+         }, {
+            "date_added": "13400482487056488",
+            "date_last_used": "0",
+            "guid": "557ab733-80df-4847-9daf-57cb1083d693",
+            "id": "13",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "College: Log in to the site",
+            "type": "url",
+            "url": "https://www.auchiefslms.com/college/login/index.php"
+         }, {
+            "date_added": "13406288947158629",
+            "date_last_used": "0",
+            "guid": "89c094e9-2a53-416d-b9f0-dda461107e43",
+            "id": "14",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "massgrave.dev",
+            "type": "url",
+            "url": "https://massgrave.dev/"
+         }, {
+            "date_added": "13408506659055160",
+            "date_last_used": "0",
+            "guid": "2447c9c9-ac8f-4e8e-a30b-70e7ab9d450c",
+            "id": "15",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Predict Students' Dropout and Academic Success - UCI Machine Learning Repository",
+            "type": "url",
+            "url": "https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success"
+         }, {
+            "date_added": "13409662947735609",
+            "date_last_used": "0",
+            "guid": "3301154c-c093-4d8f-abc8-96480241bf46",
+            "id": "16",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Google Colab",
+            "type": "url",
+            "url": "https://colab.research.google.com/github/ageron/handson-ml3/blob/main/"
+         }, {
+            "date_added": "13415854022043824",
+            "date_last_used": "0",
+            "guid": "63697b42-f306-4a45-9984-f62f95df94df",
+            "id": "17",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Meet - aho-dnio-gnu",
+            "type": "url",
+            "url": "https://meet.google.com/aho-dnio-gnu?pli=1"
+         }, {
+            "date_added": "13416898718725496",
+            "date_last_used": "0",
+            "guid": "34c87e4b-7dc9-4205-8a78-ef3bd73dde19",
+            "id": "18",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "QuickRef.ME - Quick Reference Cheat Sheet",
+            "type": "url",
+            "url": "https://quickref.me/"
+         }, {
+            "date_added": "13417062032940121",
+            "date_last_used": "0",
+            "guid": "26f75806-fc2e-4883-bd88-a0a288398dad",
+            "id": "19",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Meet",
+            "type": "url",
+            "url": "https://meet.google.com/aho-dnio-gnu"
+         } ],
+         "date_added": "13417603328417889",
+         "date_last_used": "0",
+         "date_modified": "13417062032940121",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13417603328417889",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13397662815567391",
+            "date_last_used": "0",
+            "guid": "5b2b5aed-ea20-4b3b-9cac-719c046445fd",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "New tab",
+            "type": "url",
+            "url": "chrome-native://newtab/"
+         }, {
+            "date_added": "13398018985057621",
+            "date_last_used": "0",
+            "guid": "94042de3-4def-4dd3-bb0c-2954ed963a20",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Lippiskauppa.com - yksilöidyt lippikset netistä",
+            "type": "url",
+            "url": "https://lippiskauppa.com/"
+         }, {
+            "date_added": "13400426728233829",
+            "date_last_used": "0",
+            "guid": "4f100100-b3b5-4ab5-ac1b-9c50da0ea242",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Mask column text C#",
+            "type": "url",
+            "url": "https://chatgpt.com/c/68a9b3d4-e02c-8329-92b7-aa0034e61b2c"
+         } ],
+         "date_added": "13417603328417889",
+         "date_last_used": "0",
+         "date_modified": "13400426728233829",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CssCCqoCCIiBAhKjAiAAkgGPAgqMAgoOY2hyb21lX3N5bmNfYm0SBTUxIWJtGhIJ5cpG8qZMBgAR5cpG8qZMBgAiNAkZhhnypkwGABADGViXDFXQPGYfIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAkZhhnypkwGABADGViXDFXQPGYfIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAkZhhnypkwGABADGViXDFXQPGYfIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAkZhhnypkwGABADGViXDFXQPGYfIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEpmKZH8qZMBgDqAQsIraC/zQYQwN/4exIAKhhsTkhQeVArREhYTVAxVVc5cUJ5cTRBPT1IAxLDAQgCEr4BChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EmZaOkFEcXRBWndFMlJtWDVIR1dvdWxVS0t6Qlh6VVNiVWhMNmJ1RFBtTm12TkQ4Rm9uQmlSclVYQzdOWkFiWld5RzJ3TXczTDFWd3dxSmo4cm9kNkdRR0xmdWNzZ1NEYnQvMGJRPT0YACAAKAAwmYzmkO+UkwM4AEAAShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABLvAQgTEuoBChxLQkdhQUl0VTE0SUl6YTZIMyt6ckZlMEVZMVU9EmZaOkFEcXRBWnlpTlVidTJUcGRLRTRpNVdjYnQwRWFIT0hlUThFT2piRGJsSjI5am1rTEdaOGVndTNVVkZ1TDlYZWtES09vUGM0cS9POE1SS3A1R2ZDQjU1OXpFbXQ5eG1Iam9RPT0YACAAKAAw3Y26wo6FkwM4rPyDtMszQKz8g7TLM0occm4xMTVkYlFMMjBXd0xlMFJKOENLRVBzbkFzPVoiIiD////RcXpmR20rU1E3STVPTm5jWVlxVGJVdzRSdFRJPWV6ErDOEu4BCBAS6QEKHGJOZXN3aXphSG5SR3ZFL0JScXYweG9QNXdDYz0SZlo6QURxdEFaeWlOVWJ1MlRwZEtFNGk1V2NidDBFYUpkR25nZUhibWFCQ20xTExOQ1lpRGF2ZTFPNGZ1SGh6cy9VcldldG9IYm1lQ1lETG5pekhYSjd1aGdoNlh5cmZBV1BRMWc9PRgAIAAoADC60vmh6d+RAzia0+/rrzNAmtPv668zShxRNnFTRk5yOVppSHJsMEM2dGJZbkF6WFlqOUU9WiEiH////m9TbWFrU1dUMEVvelMxZy9iZDkyWmM4RmxWVT1lXiEyCRLuAQgOEukBChwrYlVBYkk5OTMwdVBiUmF5V0ZUdnJ5ajloVlU9EmZaOkFEcXRBWnlpTlVidTJUcGRLRTRpNVdjYnQwRWFFem11aGhhTnFESWNTTHB0aEZ6cEtGbTFOaEZEdEYyVHpNaldxRUlHVEpsbTFlOUtielo1NFRmWmN1L09HSkZYQWQ0UERnPT0YACAAKAAwzvmS0snLkAM4roODo6MzQK6Dg6OjM0ocTEVOUnU5YXpaZnNEODJ6YXpBSEYzMGNzaDRFPVohIh////tUdDZZQzBBQ2tEK3QydUZVRGowVEZ2NDVKNms9ZRZpEa4SwwEIAxK+AQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRJmWjpBRHF0QVp6cExoWjZRNVNBd2V2emxMOEQ4dXBTOG83dGtWRHRlTEEwdEEwa2VRNE5TczBVakVlWkxtOHJlNUxIYjd1RG1TWEhRZmFEOWhHZzhzMU1ISmwrTlBYWXhEcDVudz09GAAgACgAMJmM5pDvlJMDOABAAEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAAS7gEIDRLpAQocUHBvTzRYU1hPMGRrWHBVTSs1NExTTjlkMElJPRJmWjpBRHF0QVp5aU5VYnUyVHBkS0U0aTVXY2J0MEVhWWNmM2ppS1YyR3U4cUdxUnBLcGRTSVpiOWhhUC9sM3pRRitLTWM0a0FvRGc4UjdsWkpzQmg0NEVtWXR4NXVRYlRoYUNHQT09GAAgACgAMM72wvLKoo8DOJDmpNKNM0CQ5qTSjTNKHGxFbE5LUkFzYStNRmFGRXlBdHNJdEt2RElvUT1aISIf///3eXBxSnB0dTZrTnpNOVBSZmVyMjNwd0c4L01VPWUst1AYEu4BCA8S6QEKHEQxK1Z0SjNXVk9BNUVFRVE1STRKWG4vcVcyOD0SZlo6QURxdEFaeWlOVWJ1MlRwZEtFNGk1V2NidDBFYVN6RllWdGFzS2NRa1ZxeWptRFY0Y0RoUHA5M2pmWldOYlA3akZsWllRaHVUL0RTcHhiWEZkb3dLRGVpWkQxM0FPV1NTbmc9PRgAIAAoADDuk7+gj4yRAzjvscHEqzNA77HBxKszShxwOGNoV2g0RkE1WVcrYkhMbXY4bGhOT1BFalE9WiEiH////VpRU0YxM24ydlpqM1FoVHd0eFRyaDFYNTZUaz1lNttlkRLuAQgMEukBChxCME5YNXI1YVlBN210NmJORG81TG5RTFhJT1k9EmZaOkFEcXRBWnlpTlVidTJUcGRLRTRpNVdjYnQwRWFqczZwVkJkZXdKODFRaDJaME9HSzRnUXAwK2hueHVIVThvbTJrazlGb21tVEF3VDNEZzVRRTg4V3BUVmlQT0lNRERjMm93PT0YACAAKAAwjaCqzqCFjwM424/ghIMzQNuP4ISDM0ocRGFQS01XY3U2MmF2ZENxWWhyRzFWTERqanFBPVohIh///+4zVGdZRjdhR2o1aEtlT0tPQ0p4bmUvUTVhNVE9ZZTJfzAS7gEICxLpAQocbXYzWXcwMCthZy9WTXA0SVN3RjRrdnVtTmlvPRJmWjpBRHF0QVp5aU5VYnUyVHBkS0U0aTVXY2J0MEVhdElyUVR6V3VyN2c4dkk0WjRma0tQQnJJWUNTSTZvUzhsY2hROXc0TVJkQ3Z6UkVEYW1oaWFOaHZGNjZVOXJpMVBFMzVrUT09GAAgACgAMPqSn+Hh8JADONjrv4SDM0DY67+EgzNKHHdLRU9wZzVxckJvakZEbmJqZ0YrZ0VQaWtoRT1aISIf///ddkVheitGakFOTUlYajFmT1JyZG5tdGVoRnFrPWWUyX8wEu4BCAoS6QEKHFgrZ3lUVDQ1T0duZ2ZYWGtleGd0WXVGNnR4WT0SZlo6QURxdEFaeWlOVWJ1MlRwZEtFNGk1V2NidDBFYU92bU5OMEY0Sm1ReGJoclA4QzJTREcvMDJnZlBZV1hYWHRuVmpCekppNTZsakhPU3JKVm9kandyY0JzMllDRUR2VVR2Y3c9PRgAIAAoADCv4aDGuo+QAzjHkM+R/jJAx5DPkf4yShwvMHZhRHhRc2hYY1psWG9IYXhidy9La2Rncm89WiEiH///ukhkOElMTHA1Uk5DUDh2dVBYTWFDTVBWYkk4Zz1lZhuQUhLtAQgIEugBChxERHJWbEpUTlFjbG1TVTYyakJnc05WM1VPbmc9EmZaOkFEcXRBWnlpTlVidTJUcGRLRTRpNVdjYnQwRWFnbGszalh5YnkyUWxlT2xhdU9iUEg5bGVjR09vSk5CTTlmQjRrRTdjUmZMSTRWakJZbkRmK0wzZ0gyNktVeWdIOWp1RnRnPT0YACAAKAAwoZOK1uKKjwM4s8fFyMYvQLPHxcjGL0ocRjBGYlpzQ1N5RVhvNktrWjJRd1hDWVV5eHhFPVogIh7/1DFkaWRUdTh6N2JObWhoWmZTWnRudEhDb1Ircz1lQLgnAhLsAQgHEucBChxBRjFuMm91eEVPeGxwc3F6cWFHZFlJQWNJUzg9EmZaOkFEcXRBWnlpTlVidTJUcGRLRTRpNVdjYnQwRWFSZDFxaERodFM0NjlxbDk4ZTFBcjFJcDFkcW42UzJxSWh6UGxDWnZhOSs4dE5ibmlZTy80OTk1NU5nYVdGNEhJNUs0ekZBPT0YACAAKAAw0K3FlPugjwM4rsbZt40zQK7G2beNM0ocam5SZnU3aTlDS0owekVxUzhrZ2tnNTF2VHQ4PVofIh2yY2kzRnFkTURabjJsb1gvd0l3YjZSR1N3Z2d3PWX4kgPVEu8BCBIS6gEKHGpITk1SeDVpcUdCbEEzRlljejBNSFk0cjNRWT0SZlo6QURxdEFaeWlOVWJ1MlRwZEtFNGk1V2NidDBFYWFRM0NZU0c3cDZVOUpSMGxkS0VacDFVbktQYWpQYWVDbnNUam5hRjVTUzlmeEtJU1lTS0VSdjdCRnVYbkQxMDZETjRReEE9PRgAIAAoADCa0uCNroCTAziFiJTmyjNAhYiU5sozShxqZzdjd1F2cnlvZ0hyUzIyODk3aTNyNFVUYWs9WiIiIP///6MxUEZ1R3RnSU4xWldqZzI5RXkzV1RmSmZweDg9ZX/ig8sS7gEIERLpAQocV2ltSnpZeHBjd3FWWjJRSEpTSG1KUzdyNGRnPRJmWjpBRHF0QVp5aU5VYnUyVHBkS0U0aTVXY2J0MEVhSmlVbERpTDRna2xiWFQ0WWRyUWJoLzhieWoxc0NLYURoQ0xRbHpZL2luVGZabXpyR3ZSWWd5bll2L0VuWDN2NTdocXRxdz09GAAgACgAMPmi4Kf64ZIDOJzrgPTGM0Cc64D0xjNKHGNKYXhQUEoyZ0duejlSa1pkbDdhMVJ2WUU4VT1aISIf////RkhEbTRmSnM3d01Kb0ZhR01vVENYa0dZc3NzPWV6ErDOEusBCAYS5gEKHDNmREdFV2o1d1Z3TktLRHJKcno5aHJ6RmJ5cz0SZlo6QURxdEFaeWlOVWJ1MlRwZEtFNGk1V2NidDBFYXU4M2hLalFuZXBwcHpaSUt3K2tPVG1EKzhMUGk3THdsd1pCZ0h4REEvdFB6OHZyL0h0ajVCaFo2dUZJa1lMa1ROQlVTN2c9PRgAIAAoADD31szP8dqOAzjhyMy7hDNA4cjMu4QzShxqM216Uko5WVdhdFcxK0ljVHViTHJaZ0IxU2M9Wh4iHGVxRkJyaGd5a0toZG9ZZStXSi8xMjhZOHAwVT1lBDRfzBKrAQgBEqYBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9Ek5aOkFEcXRBWnlMTEExM3dGWUlSK05BVXpKQ2Y4anJUZlJycWVsVWh2dHdZakUxeHJjdDlhT1VrMmVzL1A0YnZLOTRZK0FZcXNCREZ0WDUYACAAKAAwmYzmkO+UkwM4AEAAShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABLtAQgJEugBChxuWVlKbEFZVTNVL3Jhd0grMHdHRGRXSnlISk09EmZaOkFEcXRBWnlpTlVidTJUcGRLRTRpNVdjYnQwRWFGK3NPb2ZScWNSMWlBTVovb3paTUUyMy9yY1pKK0hPYnFWWms3UEU2UllBRmllQ1h6cFV5L1QxZ0VWWVV5OStZRjNDWUF3PT0YACAAKAAw4Y+Q7JiUjwM44Nms5MsvQODZrOTLL0ocd01FM1V1bXYrYlltKzlZRHkvQWVRMC9OaW00PVogIh7//mI3V3V0WWN1RDVmRkZzUVJZWCtIcVdIUDA1ND1lIjmYNhLrAQgFEuYBChwyUVIrZU5pYm1TSjByTEtEVC9OQmV5aXpJLzA9EmZaOkFEcXRBWnlpTlVidTJUcGRLRTRpNVdjYnQwRWFvdzRUT1Z6YVJ0b3pOdUxvMUNpbVlIQUlPR0U2QmpvR1Y0R3Bzb1M4SXBnU29rMnJOTVF4TkFjcnAxUUxTVEhsc0VDSjVnPT0YACAAKAAw4aHR5MLQjgM41NrhkYMzQNTa4ZGDM0ocZmZXN09tbjRVS0pRNzdsS0RkNGl4d2gxUERNPVoeIhxIU0JjaHJDSnNWb3JGQm91V2RMbVY1Z1I3SzA9ZQAAAAAwATgA",
+   "version": 1
+}

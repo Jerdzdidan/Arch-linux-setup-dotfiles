@@ -1,0 +1,35 @@
+2026-03-10 22:14:13.449 [info] Extension host with pid 199540 started
+2026-03-10 22:14:13.462 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: google.antigravity
+2026-03-10 22:14:13.470 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: google.antigravity
+2026-03-10 22:14:13.518 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-03-10 22:14:13.580 [info] ExtensionService#_doActivateExtension google.antigravity, startup: true, activationEvent: '*'
+2026-03-10 22:14:14.547 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2026-03-10 22:14:15.875 [info] ExtensionService#_doActivateExtension google.chrome-devtools-mcp, startup: false, activationEvent: 'onCommand:antigravity.getChromeDevtoolsMcpUrl'
+2026-03-10 22:14:19.951 [info] Eager extensions activated
+2026-03-10 22:14:19.954 [info] ExtensionService#_doActivateExtension google.antigravity-browser-launcher, startup: false, activationEvent: 'onStartupFinished'
+2026-03-10 22:14:19.965 [info] ExtensionService#_doActivateExtension google.antigravity-dev-containers, startup: false, activationEvent: 'onStartupFinished'
+2026-03-10 22:14:19.969 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-03-10 22:14:19.971 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-03-10 22:14:51.157 [info] Extension host terminating: renderer closed the MessagePort
+2026-03-10 22:14:51.184 [info] Extension host with pid 199540 exiting with code 0
+2026-03-10 22:14:53.900 [info] Extension host with pid 204763 started
+2026-03-10 22:14:53.900 [info] Skipping acquiring lock for /home/jerdan/.config/Antigravity/User/workspaceStorage/4b5abf9919d54b00c3e237b645b79c74.
+2026-03-10 22:14:53.928 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: google.antigravity
+2026-03-10 22:14:53.936 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2026-03-10 22:14:53.986 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: google.antigravity
+2026-03-10 22:14:54.068 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-03-10 22:14:54.159 [info] ExtensionService#_doActivateExtension google.antigravity, startup: true, activationEvent: '*'
+2026-03-10 22:14:54.659 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-03-10 22:14:54.890 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-03-10 22:14:55.141 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2026-03-10 22:14:56.546 [info] ExtensionService#_doActivateExtension google.chrome-devtools-mcp, startup: false, activationEvent: 'onCommand:antigravity.getChromeDevtoolsMcpUrl'
+2026-03-10 22:14:59.110 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2026-03-10 22:14:59.118 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2026-03-10 22:14:59.128 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2026-03-10 22:15:00.616 [info] Eager extensions activated
+2026-03-10 22:15:00.618 [info] ExtensionService#_doActivateExtension google.antigravity-browser-launcher, startup: false, activationEvent: 'onStartupFinished'
+2026-03-10 22:15:00.620 [info] ExtensionService#_doActivateExtension google.antigravity-dev-containers, startup: false, activationEvent: 'onStartupFinished'
+2026-03-10 22:15:00.624 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-03-10 22:15:00.626 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-03-10 22:29:24.232 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2026-03-10 22:30:24.636 [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'

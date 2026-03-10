@@ -1,0 +1,21 @@
+2026/03/10-20:21:18.645 b83 Reusing MANIFEST /home/jerdan/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
+2026/03/10-20:21:18.646 b83 Recovering log #10
+2026/03/10-20:21:18.647 b83 Reusing old log /home/jerdan/.config/chromium/Default/Sync Data/LevelDB/000010.log 
+2026/03/10-22:08:29.147 b76 Level-0 table #14: started
+2026/03/10-22:08:29.154 b76 Level-0 table #14: 94194 bytes OK
+2026/03/10-22:08:29.156 b76 Delete type=0 #10
+2026/03/10-22:40:03.936 b76 Level-0 table #16: started
+2026/03/10-22:40:03.958 b76 Level-0 table #16: 84110 bytes OK
+2026/03/10-22:40:03.974 b76 Delete type=0 #13
+2026/03/10-23:02:50.269 b73 Level-0 table #18: started
+2026/03/10-23:02:50.277 b73 Level-0 table #18: 91402 bytes OK
+2026/03/10-23:02:50.279 b73 Delete type=0 #15
+2026/03/10-23:02:50.279 b73 Compacting 4@0 + 1@1 files
+2026/03/10-23:02:50.283 b73 Generated table #19@0: 67 keys, 13828 bytes
+2026/03/10-23:02:50.283 b73 Compacted 4@0 + 1@1 files => 13828 bytes
+2026/03/10-23:02:50.284 b73 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/03/10-23:02:50.284 b73 Delete type=2 #8
+2026/03/10-23:02:50.284 b73 Delete type=2 #11
+2026/03/10-23:02:50.284 b73 Delete type=2 #14
+2026/03/10-23:02:50.284 b73 Delete type=2 #16
+2026/03/10-23:02:50.284 b73 Delete type=2 #18

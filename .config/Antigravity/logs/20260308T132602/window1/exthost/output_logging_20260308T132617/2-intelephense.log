@@ -1,0 +1,12 @@
+[Info  - 1:26:21 PM] Initialising intelephense 1.16.5
+[Info  - 1:26:21 PM] Reading state from /home/jerdan/.config/Antigravity/User/workspaceStorage/c621ff3c9a0c9e400aede9ddc986e73e/bmewburn.vscode-intelephense-client/4a0c9180.
+[Info  - 1:26:23 PM] Initialised in 2915 ms
+[Info  - 1:26:24 PM] Searching file:///home/jerdan/.antigravity/extensions/bmewburn.vscode-intelephense-client-1.16.5-universal/node_modules/intelephense/lib/stub for files to index.
+[Info  - 1:26:25 PM] Searching file:///opt/lampp/htdocs/PhishGuard for files to index.
+[Warn  - 1:26:29 PM] file:///opt/lampp/htdocs/PhishGuard/vendor/composer/autoload_classmap.php is over the maximum file size of 1000000 bytes.
+[Warn  - 1:26:29 PM] file:///opt/lampp/htdocs/PhishGuard/vendor/composer/autoload_static.php is over the maximum file size of 1000000 bytes.
+[Warn  - 1:26:29 PM] file:///opt/lampp/htdocs/PhishGuard/vendor/fakerphp/faker/src/Faker/Provider/nl_BE/Text.php is over the maximum file size of 1000000 bytes.
+[Info  - 1:26:29 PM] Indexing started.
+[Info  - 1:26:29 PM] Indexing ended. 1 files indexed in 0s.
+[Info  - 1:26:29 PM] Writing state to /home/jerdan/.config/Antigravity/User/workspaceStorage/c621ff3c9a0c9e400aede9ddc986e73e/bmewburn.vscode-intelephense-client/4a0c9180.
+[Info  - 1:26:31 PM] Wrote state in 1.8s.

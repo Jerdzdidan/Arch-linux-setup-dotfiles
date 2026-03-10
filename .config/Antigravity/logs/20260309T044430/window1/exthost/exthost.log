@@ -1,0 +1,62 @@
+2026-03-09 04:44:33.740 [info] Extension host with pid 21762 started
+2026-03-09 04:44:33.740 [info] Skipping acquiring lock for /home/jerdan/.config/Antigravity/User/workspaceStorage/18ca98f7de3627148ed6c211a2a63793.
+2026-03-09 04:44:33.904 [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv, startup: false, activationEvent: 'onLanguage:plaintext'
+2026-03-09 04:44:33.912 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-03-09 04:44:33.935 [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+2026-03-09 04:44:33.946 [info] ExtensionService#_doActivateExtension bmewburn.vscode-intelephense-client, startup: false, activationEvent: 'onLanguage:php'
+2026-03-09 04:44:34.817 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: google.antigravity
+2026-03-09 04:44:34.831 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2026-03-09 04:44:34.882 [info] ExtensionService#_doActivateExtension DEVSENSE.composer-php-vscode, startup: true, activationEvent: 'workspaceContains:composer.json'
+2026-03-09 04:44:34.971 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: google.antigravity
+2026-03-09 04:44:35.057 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-03-09 04:44:35.205 [info] ExtensionService#_doActivateExtension google.antigravity, startup: true, activationEvent: '*'
+2026-03-09 04:44:35.821 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-03-09 04:44:36.621 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2026-03-09 04:44:37.987 [info] ExtensionService#_doActivateExtension google.chrome-devtools-mcp, startup: false, activationEvent: 'onCommand:antigravity.getChromeDevtoolsMcpUrl'
+2026-03-09 04:44:40.054 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2026-03-09 04:44:40.066 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2026-03-09 04:44:40.086 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2026-03-09 04:44:42.103 [info] Eager extensions activated
+2026-03-09 04:44:42.190 [info] ExtensionService#_doActivateExtension google.antigravity-browser-launcher, startup: false, activationEvent: 'onStartupFinished'
+2026-03-09 04:44:42.200 [info] ExtensionService#_doActivateExtension google.antigravity-dev-containers, startup: false, activationEvent: 'onStartupFinished'
+2026-03-09 04:44:42.214 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-03-09 04:44:42.215 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-03-09 04:44:42.232 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2026-03-09 05:08:40.300 [info] Extension host terminating: renderer closed the MessagePort
+2026-03-09 05:08:40.389 [error] An error occurred when disposing the subscriptions for extension 'bmewburn.vscode-intelephense-client':
+2026-03-09 05:08:40.391 [error] TypeError: Cannot read private member #e from an object whose class did not declare it
+	at Object.dispose (file:///usr/lib/antigravity/out/vs/workbench/api/node/extensionHostProcess.js:113:29038)
+	at Xn (file:///usr/lib/antigravity/out/vs/workbench/api/node/extensionHostProcess.js:25:748)
+	at WK.b (file:///usr/lib/antigravity/out/vs/workbench/api/node/extensionHostProcess.js:122:16518)
+	at WK.dispose (file:///usr/lib/antigravity/out/vs/workbench/api/node/extensionHostProcess.js:25:1229)
+	at W0e.eb (file:///usr/lib/antigravity/out/vs/workbench/api/node/extensionHostProcess.js:122:13292)
+	at file:///usr/lib/antigravity/out/vs/workbench/api/node/extensionHostProcess.js:122:11245
+	at Array.map (<anonymous>)
+	at W0e.$ (file:///usr/lib/antigravity/out/vs/workbench/api/node/extensionHostProcess.js:122:11233)
+	at W0e.terminate (file:///usr/lib/antigravity/out/vs/workbench/api/node/extensionHostProcess.js:122:11476)
+	at R8.terminate (file:///usr/lib/antigravity/out/vs/workbench/api/node/extensionHostProcess.js:124:921)
+	at Gr (file:///usr/lib/antigravity/out/vs/workbench/api/node/extensionHostProcess.js:406:11403)
+	at MessagePortMain.<anonymous> (file:///usr/lib/antigravity/out/vs/workbench/api/node/extensionHostProcess.js:406:7614)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain.emit (node:domain:489:12)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2959)
+2026-03-09 05:08:40.395 [error] TypeError: Cannot read properties of undefined (reading 'trackEvent')
+	at ES (/home/jerdan/.antigravity/extensions/devsense.composer-php-vscode-1.67.18520-universal/out/src/extension.js:43:6195)
+	at Object.<anonymous> (/home/jerdan/.antigravity/extensions/devsense.composer-php-vscode-1.67.18520-universal/out/src/extension.js:43:6391)
+	at Generator.next (<anonymous>)
+	at /home/jerdan/.antigravity/extensions/devsense.composer-php-vscode-1.67.18520-universal/out/src/extension.js:1:832
+	at new Promise (<anonymous>)
+	at w (/home/jerdan/.antigravity/extensions/devsense.composer-php-vscode-1.67.18520-universal/out/src/extension.js:1:652)
+	at Object.pF (/home/jerdan/.antigravity/extensions/devsense.composer-php-vscode-1.67.18520-universal/out/src/extension.js:43:6367)
+	at W0e.eb (file:///usr/lib/antigravity/out/vs/workbench/api/node/extensionHostProcess.js:122:13097)
+	at file:///usr/lib/antigravity/out/vs/workbench/api/node/extensionHostProcess.js:122:11245
+	at Array.map (<anonymous>)
+	at W0e.$ (file:///usr/lib/antigravity/out/vs/workbench/api/node/extensionHostProcess.js:122:11233)
+	at W0e.terminate (file:///usr/lib/antigravity/out/vs/workbench/api/node/extensionHostProcess.js:122:11476)
+	at R8.terminate (file:///usr/lib/antigravity/out/vs/workbench/api/node/extensionHostProcess.js:124:921)
+	at Gr (file:///usr/lib/antigravity/out/vs/workbench/api/node/extensionHostProcess.js:406:11403)
+	at MessagePortMain.<anonymous> (file:///usr/lib/antigravity/out/vs/workbench/api/node/extensionHostProcess.js:406:7614)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain.emit (node:domain:489:12)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2959)
+2026-03-09 05:08:40.400 [info] Extension host with pid 21762 exiting with code 0

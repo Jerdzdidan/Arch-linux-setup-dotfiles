@@ -1,0 +1,15 @@
+2026-03-08 13:26:23.760 [info] I0308 13:26:23.759284 40007 server.go:1154] Starting language server process with pid 40007
+2026-03-08 13:26:23.760 [info] I0308 13:26:23.759498 40007 server.go:269] Setting GOMAXPROCS to 4
+2026-03-08 13:26:23.763 [info] I0308 13:26:23.763328 40007 server.go:422] Language server will attempt to listen on host 127.0.0.1
+2026-03-08 13:26:23.764 [info] I0308 13:26:23.764537 40007 server.go:437] Language server listening on random port at 37605 for HTTPS
+2026-03-08 13:26:23.764 [info] I0308 13:26:23.764617 40007 server.go:444] Language server listening on random port at 34907 for HTTP
+2026-03-08 13:26:24.942 [info] I0308 13:26:24.427719 40007 server.go:414] Created extension server client at port 34853
+2026-03-08 13:26:24.943 [info] I0308 13:26:24.479558 40007 server.go:553] Using ApiServerClientV2
+2026-03-08 13:26:24.943 [info] I0308 13:26:24.498215 40007 cascade_manager.go:842] Reactive state is disabled
+2026-03-08 13:26:25.052 [info] (Antigravity) 2026-03-08 13:26:25.046 [INFO]: Language server started
+2026-03-08 13:26:25.183 [info] I0308 13:26:25.118837 40007 server.go:1538] initialized server successfully in 1.359276507s
+2026-03-08 13:26:25.362 [info] 2026/03/08 13:26:25 http: TLS handshake error from 127.0.0.1:37350: EOF
+2026-03-08 13:26:25.362 [info] 2026/03/08 13:26:25 http: TLS handshake error from 127.0.0.1:37376: remote error: tls: unknown certificate
+2026-03-08 13:26:25.753 [info] (Antigravity) 2026-03-08 13:26:25.752 [INFO]: LS lspClient started successfully
+2026-03-08 13:26:27.875 [info] (Antigravity) 2026-03-08 13:26:27.874 [INFO]: [Terminal] Command completed:  exit code 0
+2026-03-08 13:26:28.935 [info] I0308 13:26:28.933921 40007 system_mcps.go:80] Chrome DevTools MCP URL discovered at http://127.0.0.1:38911/mcp, stopping watcher

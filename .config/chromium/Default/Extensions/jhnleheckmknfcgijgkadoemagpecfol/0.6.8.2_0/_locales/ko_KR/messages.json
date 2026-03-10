@@ -1,0 +1,302 @@
+{
+   "app_description": {
+      "description": "",
+      "message": "기본 내장된 네이티브 탭 정리 함수를 이용해서 비활성화된 탭의 메모리 사용량을 자동으로 줄여줍니다"
+   },
+   "bg_no_active_tab": {
+      "description": "",
+      "message": "활성화된 탭이 없음"
+   },
+   "cmd_close": {
+      "description": "",
+      "message": "탭 닫기"
+   },
+   "cmd_discard_other_windows": {
+      "description": "",
+      "message": "다른 창의 탭 정리"
+   },
+   "cmd_discard_tab": {
+      "description": "",
+      "message": "탭 정리"
+   },
+   "cmd_discard_tabs": {
+      "description": "",
+      "message": "다른 모든 탭 정리"
+   },
+   "cmd_discard_window": {
+      "description": "",
+      "message": "이 창의 다른 탭 정리"
+   },
+   "cmd_move_next": {
+      "description": "",
+      "message": "다음 탭으로 이동"
+   },
+   "cmd_move_previous": {
+      "description": "",
+      "message": "이전 탭으로 이동"
+   },
+   "cmd_whitelist_domain": {
+      "description": "",
+      "message": "이 사이트는 항상 탭 유지"
+   },
+   "menu_close": {
+      "description": "",
+      "message": "탭 닫기"
+   },
+   "menu_discard_other_windows": {
+      "description": "",
+      "message": "다른 창의 탭 정리"
+   },
+   "menu_discard_tab": {
+      "description": "",
+      "message": "탭 정리"
+   },
+   "menu_discard_tabs": {
+      "description": "",
+      "message": "다른 모든 탭 정리"
+   },
+   "menu_discard_tree": {
+      "description": "",
+      "message": "탭 그룹 정리"
+   },
+   "menu_discard_window": {
+      "description": "",
+      "message": "이 창의 다른 탭 정리"
+   },
+   "menu_move_next": {
+      "description": "",
+      "message": "다음 탭으로 이동"
+   },
+   "menu_move_previous": {
+      "description": "",
+      "message": "이전 탭으로 이동"
+   },
+   "menu_msg1": {
+      "description": "",
+      "message": "화이트 리스트에 추가됨"
+   },
+   "menu_msg2": {
+      "description": "",
+      "message": "프로토콜 지원되지 않음"
+   },
+   "menu_msg3": {
+      "description": "",
+      "message": "탭이 활성화되어 있으면 정리할 수 없음"
+   },
+   "menu_open_tab_then_discard": {
+      "description": "",
+      "message": "링크를 정리된 상태로 새 탭에 열기"
+   },
+   "menu_whitelist_domain": {
+      "description": "",
+      "message": "이 사이트는 항상 탭 유지"
+   },
+   "options_audio": {
+      "description": "",
+      "message": "미디어를 재생 중이면 탭을 정리하지 않음"
+   },
+   "options_battery": {
+      "description": "",
+      "message": "컴퓨터가 전원에 연결되어 있다면 탭을 정리하지 않음"
+   },
+   "options_check_delay": {
+      "description": "",
+      "message": "순차 정리 확인 작업 사이의 최소 대기 시간 (초 단위)"
+   },
+   "options_click_discard_other_windows": {
+      "description": "",
+      "message": "다른 창의 탭 정리"
+   },
+   "options_click_discard_tab": {
+      "description": "",
+      "message": "탭 정리"
+   },
+   "options_click_discard_tabs": {
+      "description": "",
+      "message": "다른 모든 탭 정리"
+   },
+   "options_click_discard_window": {
+      "description": "",
+      "message": "이 창의 다른 탭 정리"
+   },
+   "options_click_popup": {
+      "description": "",
+      "message": "팝업 열기"
+   },
+   "options_discarding_conditions": {
+      "description": "",
+      "message": "정리 조건"
+   },
+   "options_discarding_options": {
+      "description": "",
+      "message": "정리 옵션"
+   },
+   "options_exceptions": {
+      "description": "",
+      "message": "예외"
+   },
+   "options_export": {
+      "description": "",
+      "message": "설정 내보내기"
+   },
+   "options_faqs": {
+      "description": "",
+      "message": "업데이트시 FAQ 페이지 열기"
+   },
+   "options_favicon": {
+      "description": "",
+      "message": "정리된 탭의 파비콘 변경 (가능한 경우)"
+   },
+   "options_favicon_delay": {
+      "description": "",
+      "message": "정리된 파비콘을 그리기까지의 대기 시간 (밀리초 단위)"
+   },
+   "options_footnote_1": {
+      "description": "",
+      "message": "\"re:\" 키워드를 이용해 정규 표현식 사용이 가능합니다. 예를 들어, \"google\" 키워드가 포함된 모든 URL이라면 \"re:google\"을 입력하면 됩니다."
+   },
+   "options_footnote_2": {
+      "description": "",
+      "message": "최상위 document의 totalJSHeapSize를 확인하여 메모리가 유저가 설정한 값(최소값은 10MB)을 넘어가면 탭을 정리합니다. 참고로 이 옵션은 브라우저가 'window.performance.memory'를 지원해야 사용 가능합니다."
+   },
+   "options_footnote_3": {
+      "description": "",
+      "message": "정리 조건에 도달했거나 새 탭이 추가될 때 브라우저의 모든 탭을 정리할 필요가 있는지 확인하게 됩니다. 이 옵션은 이러한 확인 작업을 제한합니다. 최소값은 1초이며, 권장값은 30초입니다."
+   },
+   "options_form": {
+      "description": "",
+      "message": "입력 폼이 변경되었으나 보내지 않았다면 탭을 정리하지 않음"
+   },
+   "options_go_hidden": {
+      "description": "",
+      "message": "탭을 숨기면 정리"
+   },
+   "options_idle": {
+      "description": "",
+      "message": "컴퓨터가 '유휴' 상태가 아니라면 탭을 정리하지 않음"
+   },
+   "options_idle_timeout": {
+      "description": "",
+      "message": "컴퓨터가 유휴 상태라고 판단하는데 필요한 컴퓨터 미사용 시간 (분 단위)"
+   },
+   "options_import": {
+      "description": "",
+      "message": "설정 불러오기"
+   },
+   "options_left_click": {
+      "description": "",
+      "message": "툴바 아이콘 좌클릭 동작"
+   },
+   "options_link_context": {
+      "description": "",
+      "message": "링크 우클릭 메뉴에 \"링크를 정리된 상태로 새 탭에 열기\" 메뉴 표시"
+   },
+   "options_log": {
+      "description": "",
+      "message": "로그 표시 (디버깅 목적으로만 이용)"
+   },
+   "options_memory": {
+      "description": "",
+      "message": "백그라운드 탭의 메모리 사용량(totalJSHeapSize)이 다음의 값을 넘어가면 정리 (MB 단위)"
+   },
+   "options_misc": {
+      "description": "",
+      "message": "기타"
+   },
+   "options_notification_permission": {
+      "description": "",
+      "message": "탭이 데스크톱 알림을 표시할 수 있다면 탭을 정리하지 않음"
+   },
+   "options_online": {
+      "description": "",
+      "message": "인터넷에 연결되어 있지 않고 탭이 캐시되어 있지 않다면 탭을 정리하지 않음"
+   },
+   "options_page_context": {
+      "description": "",
+      "message": "페이지 우클릭 메뉴에 정리 메뉴 표시"
+   },
+   "options_period01": {
+      "description": "",
+      "message": "다음의 시간이 지나면 비활성화된 탭을 정리 (초 단위) (자동 탭 정리를 끄려면 0초로 설정)"
+   },
+   "options_period02": {
+      "description": "",
+      "message": "비활성화된 탭의 수가 다음의 값을 넘어가면 탭 정리 기능이 작동"
+   },
+   "options_pinned": {
+      "description": "",
+      "message": "탭이 고정되어 있으면 탭을 정리하지 않음"
+   },
+   "options_reset": {
+      "description": "",
+      "message": "설정 초기화"
+   },
+   "options_save": {
+      "description": "",
+      "message": "설정 저장"
+   },
+   "options_simultaneous_jobs": {
+      "description": "",
+      "message": "허용된 동시 정리 작업 수"
+   },
+   "options_support": {
+      "description": "",
+      "message": "개발 지원하기"
+   },
+   "options_tab_context": {
+      "description": "",
+      "message": "탭 우클릭 메뉴에 정리 메뉴 표시 (지원하는 경우)"
+   },
+   "options_url_based": {
+      "description": "",
+      "message": "다음의 호스트명들에 포함된 경우에만 정리"
+   },
+   "options_use_cache": {
+      "description": "",
+      "message": "캐시 사용: 이 옵션 활성화시, 탭이 고정되었거나 배터리 전원에 연결되어 있는지 한 번 만 확인"
+   },
+   "options_whitelist": {
+      "description": "",
+      "message": "다음의 호스트명들에 포함된 경우에는 정리하지 않음"
+   },
+   "popup_allowed": {
+      "description": "",
+      "message": "이번 세션만 이 탭 유지"
+   },
+   "popup_close": {
+      "description": "",
+      "message": "탭 닫기"
+   },
+   "popup_discard_other_windows": {
+      "description": "",
+      "message": "다른 창의 탭 정리"
+   },
+   "popup_discard_tab": {
+      "description": "",
+      "message": "탭 정리"
+   },
+   "popup_discard_tabs": {
+      "description": "",
+      "message": "다른 모든 탭 정리"
+   },
+   "popup_discard_window": {
+      "description": "",
+      "message": "이 창의 다른 탭 정리"
+   },
+   "popup_move_next": {
+      "description": "",
+      "message": "다음 탭"
+   },
+   "popup_move_previous": {
+      "description": "",
+      "message": "이전 탭"
+   },
+   "popup_open_options": {
+      "description": "",
+      "message": "설정"
+   },
+   "popup_whitelist_domain": {
+      "description": "",
+      "message": "이 사이트는 항상 탭 유지"
+   }
+}

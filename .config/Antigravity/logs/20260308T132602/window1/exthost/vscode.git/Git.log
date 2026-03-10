@@ -1,0 +1,43 @@
+2026-03-08 13:26:21.347 [info] [main] Log level: Info
+2026-03-08 13:26:21.347 [info] [main] Validating found git in: "git"
+2026-03-08 13:26:21.347 [info] [main] Using git "2.53.0" from "git"
+2026-03-08 13:26:21.347 [info] [Model][doInitialScan] Initial repository scan started
+2026-03-08 13:26:21.347 [info] > git rev-parse --show-toplevel [107ms]
+2026-03-08 13:26:21.347 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [214ms]
+2026-03-08 13:26:21.347 [info] [Model][openRepository] Opened repository (path): /opt/lampp/htdocs/PhishGuard
+2026-03-08 13:26:21.347 [info] [Model][openRepository] Opened repository (real path): /opt/lampp/htdocs/PhishGuard
+2026-03-08 13:26:21.347 [info] [Model][openRepository] Opened repository (kind): repository
+2026-03-08 13:26:21.351 [info] > git rev-parse --show-toplevel [10ms]
+2026-03-08 13:26:21.353 [info] > git config --get commit.template [19ms]
+2026-03-08 13:26:21.426 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [8ms]
+2026-03-08 13:26:21.460 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/opt/lampp/htdocs/PhishGuard/.git/refs/remotes/origin/main'
+2026-03-08 13:26:21.479 [info] > git rev-parse refs/remotes/origin/main [20ms]
+2026-03-08 13:26:21.523 [info] > git status -z -uall [27ms]
+2026-03-08 13:26:21.528 [info] > git rev-parse --show-toplevel [51ms]
+2026-03-08 13:26:21.545 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [30ms]
+2026-03-08 13:26:21.681 [info] > git rev-parse --show-toplevel [138ms]
+2026-03-08 13:26:21.731 [info] > git config --get commit.template [63ms]
+2026-03-08 13:26:21.731 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [114ms]
+2026-03-08 13:26:21.753 [info] > git rev-parse --show-toplevel [28ms]
+2026-03-08 13:26:21.989 [info] > git config --get --local branch.main.vscode-merge-base [240ms]
+2026-03-08 13:26:22.070 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [51ms]
+2026-03-08 13:26:22.141 [info] > git rev-parse --show-toplevel [177ms]
+2026-03-08 13:26:22.142 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [220ms]
+2026-03-08 13:26:22.221 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/opt/lampp/htdocs/PhishGuard/.git/refs/remotes/origin/main'
+2026-03-08 13:26:22.222 [info] > git merge-base refs/heads/main refs/remotes/origin/main [90ms]
+2026-03-08 13:26:22.296 [info] > git diff --name-status -z --diff-filter=ADMR --find-renames=50% b87bd24be1defb5087f2a9c673a0ae1b6403f933...refs/remotes/origin/main -- [41ms]
+2026-03-08 13:26:22.306 [info] > git rev-parse refs/remotes/origin/main [86ms]
+2026-03-08 13:26:22.387 [info] > git rev-parse --show-toplevel [196ms]
+2026-03-08 13:26:22.535 [info] > git check-ignore -v -z --stdin [247ms]
+2026-03-08 13:26:22.537 [info] > git status -z -uall [208ms]
+2026-03-08 13:26:22.537 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [153ms]
+2026-03-08 13:26:22.618 [info] > git rev-parse --show-toplevel [86ms]
+2026-03-08 13:26:22.664 [info] > git rev-parse --show-toplevel [31ms]
+2026-03-08 13:26:22.764 [info] > git rev-parse --show-toplevel [58ms]
+2026-03-08 13:26:22.782 [info] > git rev-parse --show-toplevel [2ms]
+2026-03-08 13:26:22.798 [info] > git rev-parse --show-toplevel [8ms]
+2026-03-08 13:26:22.816 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2026-03-08 13:26:22.880 [info] > git show --textconv :resources/views/admin/layout/navbar.blade.php [43ms]
+2026-03-08 13:26:22.894 [info] > git ls-files --stage -- resources/views/admin/layout/navbar.blade.php [25ms]
+2026-03-08 13:26:22.946 [info] > git cat-file -s 7d3c8d386f6aebd63f85d7e3a8fcb0d9f93e758a [19ms]
+2026-03-08 13:26:30.468 [info] > git check-ignore -v -z --stdin [28ms]

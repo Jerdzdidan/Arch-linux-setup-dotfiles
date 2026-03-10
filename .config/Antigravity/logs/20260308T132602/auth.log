@@ -1,0 +1,9 @@
+2026-03-08 13:26:05.318 [info] [Auth] AntigravityAuthMainService initialized
+2026-03-08 14:16:03.337 [info] OAuth token changed, executing antigravity.handleAuthRefresh
+2026-03-08 14:16:04.734 [info] OAuth token changed, executing antigravity.handleAuthRefresh
+2026-03-08 21:09:02.205 [info] OAuth token changed, executing antigravity.handleAuthRefresh
+2026-03-08 21:09:03.344 [info] OAuth token changed, executing antigravity.handleAuthRefresh
+2026-03-08 21:10:03.556 [error] [Auth] Error refreshing user status: The service is currently unavailable.
+2026-03-08 22:04:02.412 [info] OAuth token changed, executing antigravity.handleAuthRefresh
+2026-03-08 22:04:04.962 [info] OAuth token changed, executing antigravity.handleAuthRefresh
+2026-03-08 23:01:01.068 [info] OAuth token changed, executing antigravity.handleAuthRefresh

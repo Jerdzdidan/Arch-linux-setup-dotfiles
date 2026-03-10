@@ -1,0 +1,29 @@
+2026-03-08 22:21:52.720 [info] [Manager] [DEBUG bootstrap-window] cssModules: undefined (/usr/lib/antigravity/out/vs/code/electron-browser/workbench/jetskiAgent.js:3)
+2026-03-08 22:21:52.721 [info] [Manager] [DEBUG bootstrap-window] esModule: jetskiAgent/main (/usr/lib/antigravity/out/vs/code/electron-browser/workbench/jetskiAgent.js:3)
+2026-03-08 22:21:52.721 [info] [Manager] [DEBUG bootstrap-window] baseUrl: [object URL] (/usr/lib/antigravity/out/vs/code/electron-browser/workbench/jetskiAgent.js:3)
+2026-03-08 22:21:52.721 [info] [Manager] [DEBUG bootstrap-window] new URL: vscode-file://vscode-app/usr/lib/antigravity/out/jetskiAgent/main.js (/usr/lib/antigravity/out/vs/code/electron-browser/workbench/jetskiAgent.js:3)
+2026-03-08 22:21:52.726 [info] [Manager] %cElectron Security Warning (Disabled webSecurity) font-weight: bold; This renderer process has "webSecurity" disabled. This
+  exposes users of this app to severe security risks.
+
+For more information and help, consult
+https://electronjs.org/docs/tutorial/security.
+This warning will not show up
+once the app is packaged. (electron/js2c/sandbox_bundle:2)
+2026-03-08 22:21:52.728 [info] [Manager] %cElectron Security Warning (allowRunningInsecureContent) font-weight: bold; This renderer process has "allowRunningInsecureContent"
+  enabled. This exposes users of this app to severe security risks.
+
+  
+For more information and help, consult
+https://electronjs.org/docs/tutorial/security.
+This warning will not show up
+once the app is packaged. (electron/js2c/sandbox_bundle:2)
+2026-03-08 22:21:52.729 [info] [Manager] %cElectron Security Warning (enableBlinkFeatures) font-weight: bold; This renderer process has additional "enableBlinkFeatures"
+  enabled. This exposes users of this app to some security risk. If you do not
+  need this feature, you should disable it.
+
+For more information and help, consult
+https://electronjs.org/docs/tutorial/security.
+This warning will not show up
+once the app is packaged. (electron/js2c/sandbox_bundle:2)
+2026-03-08 22:21:53.276 [info] [Manager] This document requires 'TrustedScript' assignment. The action has been blocked. (/usr/lib/antigravity/out/jetskiAgent/main.js:4229)
+2026-03-08 22:21:53.277 [info] [Manager] The JavaScript Function constructor does not accept TrustedString arguments. See https://github.com/w3c/webappsec-trusted-types/wiki/Trusted-Types-for-function-constructor for more information. (/usr/lib/antigravity/out/jetskiAgent/main.js:4229)

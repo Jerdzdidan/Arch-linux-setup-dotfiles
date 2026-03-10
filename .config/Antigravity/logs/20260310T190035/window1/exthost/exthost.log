@@ -1,0 +1,9 @@
+2026-03-10 19:00:37.919 [info] Extension host with pid 18208 started
+2026-03-10 19:00:37.943 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: google.antigravity
+2026-03-10 19:00:37.959 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: google.antigravity
+2026-03-10 19:00:38.002 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-03-10 19:00:38.061 [info] ExtensionService#_doActivateExtension google.antigravity, startup: true, activationEvent: '*'
+2026-03-10 19:00:38.968 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2026-03-10 19:00:40.218 [info] ExtensionService#_doActivateExtension google.chrome-devtools-mcp, startup: false, activationEvent: 'onCommand:antigravity.getChromeDevtoolsMcpUrl'
+2026-03-10 19:00:42.582 [info] Extension host terminating: renderer closed the MessagePort
+2026-03-10 19:00:42.594 [info] Extension host with pid 18208 exiting with code 0

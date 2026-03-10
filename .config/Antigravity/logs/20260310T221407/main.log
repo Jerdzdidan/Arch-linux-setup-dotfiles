@@ -1,0 +1,6 @@
+2026-03-10 22:14:07.397 [info] [BrowserOnboardingClientMainService] Starting browser onboarding server
+2026-03-10 22:14:07.397 [info] update#setState idle
+2026-03-10 22:14:07.397 [info] [BrowserOnboardingClientServer] Browser onboarding server started on http://localhost:41665
+2026-03-10 22:14:07.499 [info] Started initializing default profile extensions in extensions installation folder. file:///home/jerdan/.antigravity/extensions
+2026-03-10 22:14:07.553 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/jerdan/.antigravity/extensions
+2026-03-10 22:14:09.632 [info] Extension host with pid 199294 exited with code: 0, signal: unknown.

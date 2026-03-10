@@ -1,0 +1,14 @@
+2026-03-09 16:23:02.018 [info] [main] Log level: Info
+2026-03-09 16:23:02.018 [info] [main] Validating found git in: "git"
+2026-03-09 16:23:02.018 [info] [main] Using git "2.53.0" from "git"
+2026-03-09 16:23:02.018 [info] [Model][doInitialScan] Initial repository scan started
+2026-03-09 16:23:02.018 [info] > git rev-parse --show-toplevel [4ms]
+2026-03-09 16:23:02.018 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [3ms]
+2026-03-09 16:23:02.018 [info] [Model][openRepository] Opened repository (path): /opt/lampp/htdocs/AU-AIS
+2026-03-09 16:23:02.018 [info] [Model][openRepository] Opened repository (real path): /opt/lampp/htdocs/AU-AIS
+2026-03-09 16:23:02.018 [info] [Model][openRepository] Opened repository (kind): repository
+2026-03-09 16:23:02.018 [info] > git config --get commit.template [9ms]
+2026-03-09 16:23:02.018 [info] > git rev-parse --show-toplevel [8ms]
+2026-03-09 16:23:02.018 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [8ms]
+2026-03-09 16:23:02.018 [info] > git rev-parse --show-toplevel [3ms]
+2026-03-09 16:23:02.018 [info] > git rev-parse --show-toplevel [67ms]

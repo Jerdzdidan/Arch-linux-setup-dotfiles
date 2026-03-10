@@ -1,0 +1,5 @@
+2026-03-10 19:00:35.658 [info] [BrowserOnboardingClientMainService] Starting browser onboarding server
+2026-03-10 19:00:35.658 [info] [BrowserOnboardingClientServer] Browser onboarding server started on http://localhost:44411
+2026-03-10 19:00:35.658 [error] Invalid path provided: /opt/lampp/htdocs/AU-AIS, ENOENT: no such file or directory, stat '/opt/lampp/htdocs/AU-AIS'
+2026-03-10 19:00:35.658 [info] update#setState idle
+2026-03-10 19:00:42.594 [info] Extension host with pid 18208 exited with code: 0, signal: unknown.

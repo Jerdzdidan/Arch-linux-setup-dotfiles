@@ -1,0 +1,14 @@
+2026-03-10 22:14:10.991 [info] [BrowserOnboardingClientMainService] Starting browser onboarding server
+2026-03-10 22:14:10.991 [info] update#setState idle
+2026-03-10 22:14:10.991 [info] [BrowserOnboardingClientServer] Browser onboarding server started on http://localhost:37491
+2026-03-10 22:14:40.972 [info] update#setState checking for updates
+2026-03-10 22:14:41.168 [info] update#setState idle
+2026-03-10 22:14:51.184 [info] Extension host with pid 199540 exited with code: 0, signal: unknown.
+2026-03-10 22:34:47.625 [warning] [perf] profiling STARTED ec2cc205-9a29-47b3-ba94-a3749c904a7d
+2026-03-10 22:34:52.649 [warning] [perf] profiling DONE ec2cc205-9a29-47b3-ba94-a3749c904a7d
+2026-03-10 22:35:07.966 [warning] [perf] profiling STARTED ec2cc205-9a29-47b3-ba94-a3749c904a7d
+2026-03-10 22:35:13.034 [warning] [perf] profiling DONE ec2cc205-9a29-47b3-ba94-a3749c904a7d
+2026-03-10 22:35:28.337 [warning] [perf] profiling STARTED ec2cc205-9a29-47b3-ba94-a3749c904a7d
+2026-03-10 22:35:33.376 [warning] [perf] profiling DONE ec2cc205-9a29-47b3-ba94-a3749c904a7d
+2026-03-10 23:14:40.977 [info] update#setState checking for updates
+2026-03-10 23:14:41.284 [info] update#setState idle

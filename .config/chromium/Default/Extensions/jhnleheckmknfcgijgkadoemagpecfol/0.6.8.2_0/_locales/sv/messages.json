@@ -1,0 +1,542 @@
+{
+   "app_description": {
+      "description": "",
+      "message": "Öka webbläsarens hastighet och reducera minnesbelastningen när du har många öppnade flikar."
+   },
+   "bg_msg_1": {
+      "description": "",
+      "message": "Automatisk slängt tillstånd har inaktiverats för denna flik"
+   },
+   "bg_msg_2": {
+      "description": "",
+      "message": "Automatisk slängt tillstånd har inaktiverats tills vidare"
+   },
+   "bg_no_active_tab": {
+      "description": "",
+      "message": "Det finns inga aktiva flikar"
+   },
+   "blank_header": {
+      "description": "",
+      "message": "(Slängt fönster)"
+   },
+   "blank_msg": {
+      "description": "",
+      "message": "Alla flikar i detta fönster har slängts! Klicka var som helst för att stänga denna flik och byta tillbaka till den senast aktiva fliken."
+   },
+   "cmd_close": {
+      "description": "",
+      "message": "Stäng flik"
+   },
+   "cmd_discard_lefts": {
+      "description": "",
+      "message": "Discard Tabs to the Left"
+   },
+   "cmd_discard_other_windows": {
+      "description": "",
+      "message": "Släng flikar i andra fönster"
+   },
+   "cmd_discard_rights": {
+      "description": "",
+      "message": "Discard Tabs to the Right"
+   },
+   "cmd_discard_tab": {
+      "description": "",
+      "message": "Släng flik"
+   },
+   "cmd_discard_tabs": {
+      "description": "",
+      "message": "Släng alla andra flikar"
+   },
+   "cmd_discard_tree": {
+      "description": "",
+      "message": "Släng flikgrupp"
+   },
+   "cmd_discard_window": {
+      "description": "",
+      "message": "Släng andra flikar i detta fönster"
+   },
+   "cmd_move_next": {
+      "description": "",
+      "message": "Gå till fliken åt höger"
+   },
+   "cmd_move_previous": {
+      "description": "",
+      "message": "Gå till fliken åt vänster"
+   },
+   "cmd_whitelist_domain": {
+      "description": "",
+      "message": "Behåll alltid flikar för denna webbplats"
+   },
+   "menu_close": {
+      "description": "",
+      "message": "Stäng flik"
+   },
+   "menu_discard_lefts": {
+      "description": "",
+      "message": "Släng flikar till vänster"
+   },
+   "menu_discard_menu": {
+      "description": "",
+      "message": "Släng flikar i detta fönster"
+   },
+   "menu_discard_other_windows": {
+      "description": "",
+      "message": "Släng flikar i andra fönster"
+   },
+   "menu_discard_rights": {
+      "description": "",
+      "message": "Släng flikar till höger"
+   },
+   "menu_discard_tab": {
+      "description": "",
+      "message": "Släng flik"
+   },
+   "menu_discard_tabs": {
+      "description": "",
+      "message": "Släng alla andra flikar"
+   },
+   "menu_discard_tree": {
+      "description": "",
+      "message": "Släng flikgrupp"
+   },
+   "menu_discard_window": {
+      "description": "",
+      "message": "Släng andra flikar"
+   },
+   "menu_extra": {
+      "description": "",
+      "message": "Behåll flikar"
+   },
+   "menu_move_next": {
+      "description": "",
+      "message": "Gå till fliken åt höger"
+   },
+   "menu_move_previous": {
+      "description": "",
+      "message": "Gå till fliken åt vänster"
+   },
+   "menu_msg1": {
+      "description": "",
+      "message": "lades till i den permanenta vitlistan"
+   },
+   "menu_msg2": {
+      "description": "",
+      "message": "protokollet saknar stöd"
+   },
+   "menu_msg3": {
+      "description": "",
+      "message": "Kan inte slänga den enda fliken som inte har slängts i detta fönster"
+   },
+   "menu_msg4": {
+      "description": "",
+      "message": "lades till i sessionens vitlista"
+   },
+   "menu_msg5": {
+      "description": "",
+      "message": "togs bort från i den permanenta vitlistan"
+   },
+   "menu_msg6": {
+      "description": "",
+      "message": "togs bort från sessionens vitlista"
+   },
+   "menu_open_tab_then_discard": {
+      "description": "",
+      "message": "Öppna i ny slängd flik"
+   },
+   "menu_whitelist_domain": {
+      "description": "",
+      "message": "Behåll alltid flikar för denna webbplats"
+   },
+   "options_audio": {
+      "description": "",
+      "message": "Släng inte en flik när media spelas upp"
+   },
+   "options_battery": {
+      "description": "",
+      "message": "Släng inte flikar när datorn är ansluten till en strömkälla"
+   },
+   "options_click_discard_other_windows": {
+      "description": "",
+      "message": "Släng flikar i andra fönster"
+   },
+   "options_click_discard_tab": {
+      "description": "",
+      "message": "Släng flik"
+   },
+   "options_click_discard_tabs": {
+      "description": "",
+      "message": "Släng alla andra flikar"
+   },
+   "options_click_discard_window": {
+      "description": "",
+      "message": "Släng andra flikar i detta fönster"
+   },
+   "options_click_popup": {
+      "description": "",
+      "message": "Öppna popup"
+   },
+   "options_click_release_other_windows": {
+      "description": "",
+      "message": "Frigör flikar i andra fönster"
+   },
+   "options_click_release_tabs": {
+      "description": "",
+      "message": "Frigör alla andra flikar"
+   },
+   "options_click_release_window": {
+      "description": "",
+      "message": "Frigör andra flikar i detta fönster"
+   },
+   "options_click_toggle_allowed": {
+      "description": "",
+      "message": "Aktivera/inaktivera alternativet \"Behåll denna flik för denna session\""
+   },
+   "options_discarding_conditions": {
+      "description": "",
+      "message": "Villkor för att kunna slängas"
+   },
+   "options_discarding_options": {
+      "description": "",
+      "message": "Alternativ för att slänga"
+   },
+   "options_exceptions": {
+      "description": "",
+      "message": "Undantag"
+   },
+   "options_export": {
+      "description": "",
+      "message": "Importera inställningar"
+   },
+   "options_faqs": {
+      "description": "",
+      "message": "Öppna sidan med frågor och svar vid uppdateringar"
+   },
+   "options_favicon": {
+      "description": "",
+      "message": "Ändra favicon på slängda flikar (om det är möjligt)"
+   },
+   "options_favicon_delay": {
+      "description": "",
+      "message": "Fördröjning för att måla favicon på slängda flikar (i millisekunder)"
+   },
+   "options_form": {
+      "description": "",
+      "message": "Släng inte en flik när formulärändringar inte ännu har skickats"
+   },
+   "options_go_hidden": {
+      "description": "",
+      "message": "Släng en flik om den är dold"
+   },
+   "options_idle": {
+      "description": "",
+      "message": "Släng endast flikar om datorn är inaktiv"
+   },
+   "options_idle_timeout": {
+      "description": "",
+      "message": "Inaktivitetsintervall för att avgöra om datorn är inaktiv eller inte (i minuter)"
+   },
+   "options_import": {
+      "description": "",
+      "message": "Importera inställningar"
+   },
+   "options_left_click": {
+      "description": "",
+      "message": "Vänsterklicksåtgärd för verktygsfältet"
+   },
+   "options_link_context": {
+      "description": "",
+      "message": "Visa alternativet \"Öppna i ny slängd flik\" i högerklicksmenyn för länkar"
+   },
+   "options_list": {
+      "description": "",
+      "message": "Kommaseparerad lista över värdnamn"
+   },
+   "options_list_trash": {
+      "description": "",
+      "message": "Kommaseparerad lista över värdnamn, lämna tomt för alla"
+   },
+   "options_log": {
+      "description": "",
+      "message": "Visa loggar (endast i syfte att felsöka)"
+   },
+   "options_managed_1": {
+      "description": "",
+      "message": "Detta tillägg kan använda hanterad lagring, som låter domänadministratörer förkonfigurera inställningar."
+   },
+   "options_managed_2": {
+      "description": "",
+      "message": "Läs mer här."
+   },
+   "options_memory": {
+      "description": "",
+      "message": "Släng en bakgrundsflik om dess minnesanvändning (totalJSHeapSize) överskrider (i MB)"
+   },
+   "options_misc": {
+      "description": "",
+      "message": "Övrigt"
+   },
+   "options_notification_permission": {
+      "description": "",
+      "message": "Släng inte en flik om den kan visa skrivbordsaviseringar"
+   },
+   "options_online": {
+      "description": "",
+      "message": "Släng inte flikar när en internetanslutning saknas och flikarna inte har cachelagrats"
+   },
+   "options_page_context": {
+      "description": "",
+      "message": "Visa slängda objekt i sidans högerklicksmeny"
+   },
+   "options_paused": {
+      "description": "",
+      "message": "Släng inte en flik med en pausad mediaspelare"
+   },
+   "options_period01_a": {
+      "description": "",
+      "message": "Släng inaktiva flikar efter "
+   },
+   "options_period02": {
+      "description": "",
+      "message": "minuter (noll för att inaktivera) när antalet inaktiva flikar överskrider "
+   },
+   "options_period04": {
+      "description": "",
+      "message": "Maximalt antal flikar att kontrollera för varje begäran om att slänga automatiskt"
+   },
+   "options_pinned": {
+      "description": "",
+      "message": "Släng inte en flik när den har fästs"
+   },
+   "options_plugin_blank": {
+      "description": "",
+      "message": "Öppnar en temporär tom sida när alla flikar i ett inaktivt fönster har slängts (för att kunna slänga den aktiva fliken i detta fönster)"
+   },
+   "options_plugin_dummy": {
+      "description": "",
+      "message": "Ersätt sidan med ett lokalt dummy-alternativ när en flik slängs (beta)"
+   },
+   "options_plugin_focus": {
+      "description": "",
+      "message": "Frigör slängt tillstånd för alla flikar i det aktiva fönstret. Om detta aktiveras kommer ingen flik i det aktiva fönstret att slängas."
+   },
+   "options_plugin_force": {
+      "description": "",
+      "message": "Släng följande värdnamn omedelbart följande värdnamn när deras flikar är inaktiva"
+   },
+   "options_plugin_new": {
+      "description": "",
+      "message": "Släng alla nyöppnade inaktiva flikar efter de har lästs in"
+   },
+   "options_plugin_trash01": {
+      "description": "",
+      "message": "Radera gamla slängda flikar permanent om de är inaktiva i"
+   },
+   "options_plugin_trash02": {
+      "description": "",
+      "message": "timmar"
+   },
+   "options_plugin_trash_unloaded": {
+      "description": "",
+      "message": "Överväg även gamla oinlästa flikar"
+   },
+   "options_plugin_trash_whitelist": {
+      "description": "",
+      "message": "Radera endast flikar som matchar följande webbadressmönster"
+   },
+   "options_plugin_unloaded": {
+      "description": "",
+      "message": "Släng alla oinlästa flikar när webbläsaren startar. Denna metod slänger nästan alla inaktiva flikar."
+   },
+   "options_plugin_youtube": {
+      "description": "",
+      "message": "Lagra tidsstämplar på YouTube innan en flik slängs"
+   },
+   "options_plugins": {
+      "description": "",
+      "message": "Insticksprogram"
+   },
+   "options_prepends": {
+      "description": "",
+      "message": "Lägg till en symbol i början på slängda flikar (t.ex. 💤 eller ⏻︎) (om det är möjligt)"
+   },
+   "options_rate_btn": {
+      "description": "",
+      "message": "Betygsätt"
+   },
+   "options_rate_desc": {
+      "description": "",
+      "message": "Om du vill betygsätta tillägget kan du klicka på"
+   },
+   "options_read_more": {
+      "description": "",
+      "message": "(Läs mer här)"
+   },
+   "options_release_next_tab": {
+      "description": "",
+      "message": "Frigör slängt tillstånd för nästa flik (fliken till höger om den aktiva fliken)"
+   },
+   "options_release_previous_tab": {
+      "description": "",
+      "message": "Frigör slängt tillstånd för föregående flik (fliken till vänster om den aktiva fliken)"
+   },
+   "options_reset": {
+      "description": "",
+      "message": "Fabriksåterställning"
+   },
+   "options_save": {
+      "description": "",
+      "message": "Spara alternativ"
+   },
+   "options_save_msg": {
+      "description": "",
+      "message": "Alternativ sparades"
+   },
+   "options_save_notice": {
+      "description": "",
+      "message": "Var god se till att klicka på knappen \"Spara alternativ\" längst ned på denna sida när är klar med dina ändringar."
+   },
+   "options_simultaneous_jobs": {
+      "description": "",
+      "message": "Antal tillåtna samtidiga flikslängningsjobb"
+   },
+   "options_startup_pinned": {
+      "description": "",
+      "message": "Släng alla fästa flikar vid uppstart av webbläsaren eller tillägget"
+   },
+   "options_startup_release_pinned": {
+      "description": "",
+      "message": "Frigör det slängda tillståndet för alla fästa flikar vid uppstart av webbläsaren eller tillägget"
+   },
+   "options_startup_unpinned": {
+      "description": "",
+      "message": "Släng alla icke-fästa flikar vid uppstart av webbläsaren eller tillägget"
+   },
+   "options_support": {
+      "description": "",
+      "message": "Stöd utvecklingen"
+   },
+   "options_tab_context": {
+      "description": "",
+      "message": "Visa slängda objekt i högerklicksmenyn för flikar (stöds för tillfället i Firefox)"
+   },
+   "options_title": {
+      "description": "",
+      "message": "Alternativ :: Auto Tab Discard"
+   },
+   "options_url_based": {
+      "description": "",
+      "message": "Släng endast följande inaktiva värdnamn eller regler med reguljära uttryck"
+   },
+   "options_whitelist": {
+      "description": "",
+      "message": "Flikar med följande värdnamn eller regler med reguljära uttryck slängs inte. Det rekommenderas att använda popupgränssnittet för att modifiera denna lista. Använd Shift-tangenten när du lägger till en regel från popupgränssnittet för att generera en regel med reguljärt uttryck."
+   },
+   "popup_allowed": {
+      "description": "",
+      "message": "Keep Selected Tabs for This Session"
+   },
+   "popup_close": {
+      "description": "",
+      "message": "Stäng flik"
+   },
+   "popup_close_title": {
+      "description": "",
+      "message": "Stäng nuvarande flik och byt till föregående aktiva flik"
+   },
+   "popup_discard_lefts": {
+      "description": "",
+      "message": "Släng flikar till vänster"
+   },
+   "popup_discard_other_windows": {
+      "description": "",
+      "message": "Släng flikar i andra fönster"
+   },
+   "popup_discard_rights": {
+      "description": "",
+      "message": "Släng flikar till höger"
+   },
+   "popup_discard_tab": {
+      "description": "",
+      "message": "Släng flik"
+   },
+   "popup_discard_tabs": {
+      "description": "",
+      "message": "Släng alla andra flikar"
+   },
+   "popup_discard_tree": {
+      "description": "",
+      "message": "Släng flikgrupp"
+   },
+   "popup_discard_window": {
+      "description": "",
+      "message": "Släng andra flikar i detta fönster"
+   },
+   "popup_move_next": {
+      "description": "",
+      "message": "Höger flik"
+   },
+   "popup_move_next_title": {
+      "description": "",
+      "message": "Gå till nästa aktiva flik"
+   },
+   "popup_move_previous": {
+      "description": "",
+      "message": "Vänster flik"
+   },
+   "popup_move_previous_title": {
+      "description": "",
+      "message": "Gå till föregående aktiva flik"
+   },
+   "popup_open_options": {
+      "description": "",
+      "message": "Alternativ"
+   },
+   "popup_release": {
+      "description": "",
+      "message": "Frigör slängt tillstånd. Shift-klicka för att kringgå cachelagrat innehåll."
+   },
+   "popup_shift_hint": {
+      "description": "",
+      "message": "Använd Shift-tangenten för att ignorera undantagsreglerna till att automatiskt slänga."
+   },
+   "popup_tmp_0": {
+      "description": "",
+      "message": "Av"
+   },
+   "popup_tmp_1": {
+      "description": "",
+      "message": "1 timme"
+   },
+   "popup_tmp_12": {
+      "description": "",
+      "message": "12 timmar"
+   },
+   "popup_tmp_24": {
+      "description": "",
+      "message": "1 dag"
+   },
+   "popup_tmp_6": {
+      "description": "",
+      "message": "6 timmar"
+   },
+   "popup_tmp_disable": {
+      "description": "",
+      "message": "Inaktivera att flikar slängs automatiskt globalt för "
+   },
+   "popup_whitelist_always": {
+      "description": "",
+      "message": "Alltid"
+   },
+   "popup_whitelist_always_title": {
+      "description": "",
+      "message": "Klicka för att lägga till värdnamnet i undantagslistan. Shift-klicka för att lägga till den exakta webbadressen i undantagslistan."
+   },
+   "popup_whitelist_desc": {
+      "description": "",
+      "message": "Behåll flikar för denna webbplats"
+   },
+   "popup_whitelist_session": {
+      "description": "",
+      "message": "Session"
+   }
+}
