@@ -7,11 +7,17 @@
         "folders": [
             {
                 "folderUri": "file:///opt/lampp/htdocs/AU-AIS"
+            },
+            {
+                "folderUri": "file:///home/jerdan/.config/neofetch"
             }
         ],
         "emptyWindows": [
             {
                 "backupFolder": "1773140436398"
+            },
+            {
+                "backupFolder": "1773157477269"
             }
         ]
     },
@@ -30,10 +36,12 @@
             "file:///home/jerdan/.gemini/antigravity/playground/spinning-asteroid": "__default__profile__",
             "file:///opt/lampp/htdocs/PhishGuard": "__default__profile__",
             "file:///home/jerdan/.gemini/antigravity/playground/crimson-planetarium": "__default__profile__",
-            "file:///home/jerdan/.gemini/antigravity/playground/glowing-prominence": "__default__profile__"
+            "file:///home/jerdan/.gemini/antigravity/playground/glowing-prominence": "__default__profile__",
+            "file:///home/jerdan/.config/neofetch": "__default__profile__"
         },
         "emptyWindows": {
-            "1773140436398": "__default__profile__"
+            "1773140436398": "__default__profile__",
+            "1773157477269": "__default__profile__"
         }
     },
     "antigravityUnifiedStateSync.oauthToken.hasLegacyMigrated": true,
@@ -45,8 +53,8 @@
     "unifiedStateSync.hasUserStatusMigrated": true,
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///opt/lampp/htdocs/AU-AIS",
-            "backupPath": "/home/jerdan/.config/Antigravity/Backups/a9ef4e7bb02fb9f3da859fa73a33c8c0",
+            "folder": "file:///home/jerdan/.config/neofetch",
+            "backupPath": "/home/jerdan/.config/Antigravity/Backups/f77889ee8b81589efdc727a0e0cf359e",
             "uiState": {
                 "mode": 0,
                 "x": 0,
@@ -55,7 +63,30 @@
                 "height": 1200
             }
         },
-        "openedWindows": []
+        "openedWindows": [
+            {
+                "folder": "file:///opt/lampp/htdocs/AU-AIS",
+                "backupPath": "/home/jerdan/.config/Antigravity/Backups/a9ef4e7bb02fb9f3da859fa73a33c8c0",
+                "uiState": {
+                    "mode": 0,
+                    "x": 0,
+                    "y": 0,
+                    "width": 1920,
+                    "height": 1200
+                }
+            },
+            {
+                "folder": "file:///home/jerdan/.config/neofetch",
+                "backupPath": "/home/jerdan/.config/Antigravity/Backups/f77889ee8b81589efdc727a0e0cf359e",
+                "uiState": {
+                    "mode": 0,
+                    "x": 0,
+                    "y": 0,
+                    "width": 1920,
+                    "height": 1200
+                }
+            }
+        ]
     },
     "sidebarWorkspaces.migratedFromInitState": true,
     "scratchWorkspaces.migratedFromInitState": true,
@@ -138,6 +169,10 @@
                     "auxiliaryBarVisible": true
                 },
                 "4b5abf9919d54b00c3e237b645b79c74": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "a282f7fdb9850a9a318c3589114d7020": {
                     "sideBarVisible": true,
                     "auxiliaryBarVisible": true
                 }

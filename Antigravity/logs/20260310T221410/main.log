@@ -12,3 +12,30 @@
 2026-03-10 22:35:33.376 [warning] [perf] profiling DONE ec2cc205-9a29-47b3-ba94-a3749c904a7d
 2026-03-10 23:14:40.977 [info] update#setState checking for updates
 2026-03-10 23:14:41.284 [info] update#setState idle
+2026-03-10 23:50:28.640 [warning] [perf] profiling STARTED e66392d1-971e-495a-97c5-ab021e86dbbd
+2026-03-10 23:50:28.869 [warning] [perf] profiling STARTED fb1484fa-98b1-4036-9d80-791652abd8ab
+2026-03-10 23:50:33.670 [warning] [perf] profiling DONE e66392d1-971e-495a-97c5-ab021e86dbbd
+2026-03-10 23:50:33.923 [warning] [perf] profiling DONE fb1484fa-98b1-4036-9d80-791652abd8ab
+2026-03-10 23:50:48.934 [warning] [perf] profiling STARTED e66392d1-971e-495a-97c5-ab021e86dbbd
+2026-03-10 23:50:49.529 [warning] [perf] profiling STARTED fb1484fa-98b1-4036-9d80-791652abd8ab
+2026-03-10 23:50:53.970 [warning] [perf] profiling DONE e66392d1-971e-495a-97c5-ab021e86dbbd
+2026-03-10 23:50:54.566 [warning] [perf] profiling DONE fb1484fa-98b1-4036-9d80-791652abd8ab
+2026-03-10 23:51:09.336 [warning] [perf] profiling STARTED e66392d1-971e-495a-97c5-ab021e86dbbd
+2026-03-10 23:51:09.965 [warning] [perf] profiling STARTED fb1484fa-98b1-4036-9d80-791652abd8ab
+2026-03-10 23:51:14.367 [warning] [perf] profiling DONE e66392d1-971e-495a-97c5-ab021e86dbbd
+2026-03-10 23:51:15.001 [warning] [perf] profiling DONE fb1484fa-98b1-4036-9d80-791652abd8ab
+2026-03-11 00:09:55.323 [info] Extension host with pid 375619 exited with code: 0, signal: unknown.
+2026-03-11 00:10:01.381 [info] Extension host with pid 429901 exited with code: 0, signal: unknown.
+2026-03-11 00:12:54.834 [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?) ON CONFLICT (key) DO UPDATE SET value = excluded.value WHERE value != excluded.value). Details: Keys: antigravityAuthStatus Length: 4554
+2026-03-11 00:12:56.662 [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?) ON CONFLICT (key) DO UPDATE SET value = excluded.value WHERE value != excluded.value). Details: Keys: extensionsAssistant/recommendations Length: 397
+2026-03-11 00:12:57.065 [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?),(?,?),(?,?),(?,?) ON CONFLICT (key) DO UPDATE SET value = excluded.value WHERE value != excluded.value). Details: Keys: __$__targetStorageMarker, memento/workbench.parts.editor, history.entries, memento/antigravity.jetskiArtifactsEditor Length: 2888
+2026-03-11 00:13:02.919 [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?) ON CONFLICT (key) DO UPDATE SET value = excluded.value WHERE value != excluded.value). Details: Keys: antigravityAuthStatus Length: 4554
+2026-03-11 00:13:05.044 [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?) ON CONFLICT (key) DO UPDATE SET value = excluded.value WHERE value != excluded.value). Details: Keys: antigravity.notification.432d98d7-e9ed-4bcd-b371-3c46c44d2152-47 Length: 4
+2026-03-11 00:13:08.042 [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?),(?,?),(?,?) ON CONFLICT (key) DO UPDATE SET value = excluded.value WHERE value != excluded.value). Details: Keys: memento/workbench.parts.editor, history.entries, memento/antigravity.jetskiArtifactsEditor Length: 1842
+2026-03-11 00:13:54.815 [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?) ON CONFLICT (key) DO UPDATE SET value = excluded.value WHERE value != excluded.value). Details: Keys: antigravityAuthStatus Length: 4554
+2026-03-11 00:14:02.919 [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?) ON CONFLICT (key) DO UPDATE SET value = excluded.value WHERE value != excluded.value). Details: Keys: antigravityAuthStatus Length: 4554
+2026-03-11 00:14:40.979 [info] update#setState checking for updates
+2026-03-11 00:14:41.222 [info] update#setState idle
+2026-03-11 00:14:54.816 [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?) ON CONFLICT (key) DO UPDATE SET value = excluded.value WHERE value != excluded.value). Details: Keys: antigravityAuthStatus Length: 4554
+2026-03-11 00:15:02.919 [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?) ON CONFLICT (key) DO UPDATE SET value = excluded.value WHERE value != excluded.value). Details: Keys: antigravityAuthStatus Length: 4554
+2026-03-11 00:15:54.816 [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?) ON CONFLICT (key) DO UPDATE SET value = excluded.value WHERE value != excluded.value). Details: Keys: antigravityAuthStatus Length: 4554

@@ -1,0 +1,69 @@
+2026-03-10 23:44:41.331 [info] I0310 23:44:41.330665 376043 server.go:1154] Starting language server process with pid 376043
+2026-03-10 23:44:41.331 [info] I0310 23:44:41.330783 376043 server.go:269] Setting GOMAXPROCS to 4
+2026-03-10 23:44:41.335 [info] I0310 23:44:41.333857 376043 server.go:422] Language server will attempt to listen on host 127.0.0.1
+2026-03-10 23:44:41.336 [info] I0310 23:44:41.335484 376043 server.go:437] Language server listening on random port at 41081 for HTTPS
+2026-03-10 23:44:41.336 [info] I0310 23:44:41.335680 376043 server.go:444] Language server listening on random port at 33761 for HTTP
+2026-03-10 23:44:41.790 [info] I0310 23:44:41.790590 376043 server.go:414] Created extension server client at port 43697
+2026-03-10 23:44:41.795 [info] I0310 23:44:41.795811 376043 server.go:553] Using ApiServerClientV2
+2026-03-10 23:44:41.799 [info] I0310 23:44:41.799347 376043 cascade_manager.go:842] Reactive state is disabled
+2026-03-10 23:44:41.837 [info] (Antigravity) 2026-03-10 23:44:41.827 [INFO]: Language server started
+2026-03-10 23:44:41.940 [info] I0310 23:44:41.905010 376043 server.go:1538] initialized server successfully in 574.201498ms
+2026-03-10 23:44:41.940 [info] 2026/03/10 23:44:41 http: TLS handshake error from 127.0.0.1:53952: EOF
+2026-03-10 23:44:42.073 [info] (Antigravity) 2026-03-10 23:44:42.072 [INFO]: LS lspClient started successfully
+2026-03-10 23:44:43.540 [info] I0310 23:44:43.540343 376043 system_mcps.go:80] Chrome DevTools MCP URL discovered at http://127.0.0.1:42817/mcp, stopping watcher
+2026-03-11 00:10:05.375 [info] I0311 00:10:05.374896 430212 server.go:1154] Starting language server process with pid 430212
+2026-03-11 00:10:05.375 [info] I0311 00:10:05.374954 430212 server.go:269] Setting GOMAXPROCS to 4
+2026-03-11 00:10:05.375 [info] I0311 00:10:05.375659 430212 server.go:422] Language server will attempt to listen on host 127.0.0.1
+2026-03-11 00:10:05.375 [info] I0311 00:10:05.375818 430212 server.go:437] Language server listening on random port at 42727 for HTTPS
+2026-03-11 00:10:05.375 [info] I0311 00:10:05.375837 430212 server.go:444] Language server listening on random port at 42489 for HTTP
+2026-03-11 00:10:05.919 [info] I0311 00:10:05.917465 430212 server.go:414] Created extension server client at port 43185
+2026-03-11 00:10:05.922 [info] I0311 00:10:05.922502 430212 server.go:553] Using ApiServerClientV2
+2026-03-11 00:10:05.924 [info] I0311 00:10:05.924520 430212 cascade_manager.go:842] Reactive state is disabled
+2026-03-11 00:10:05.951 [info] (Antigravity) 2026-03-11 00:10:05.948 [INFO]: Language server started
+2026-03-11 00:10:05.986 [info] I0311 00:10:05.973026 430212 server.go:1538] initialized server successfully in 598.046963ms
+2026-03-11 00:10:05.986 [info] 2026/03/11 00:10:05 http: TLS handshake error from 127.0.0.1:58448: EOF
+2026-03-11 00:10:06.056 [info] (Antigravity) 2026-03-11 00:10:06.056 [INFO]: LS lspClient started successfully
+2026-03-11 00:10:07.288 [info] I0311 00:10:07.288566 430212 system_mcps.go:80] Chrome DevTools MCP URL discovered at http://127.0.0.1:39509/mcp, stopping watcher
+2026-03-11 00:11:02.366 [info] I0311 00:11:02.365785 430212 planner_generator.go:285] Requesting planner with 7 chat messages at model retry attempt 1 and API retry attempt 1
+2026-03-11 00:11:04.594 [info] I0311 00:11:04.594488 430212 http_helpers.go:123] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse Trace: 0x328c4c535d80e996
+2026-03-11 00:11:06.855 [info] I0311 00:11:06.855612 430212 planner_generator.go:285] Requesting planner with 8 chat messages at model retry attempt 1 and API retry attempt 1
+2026-03-11 00:11:07.561 [info] I0311 00:11:07.560825 430212 http_helpers.go:123] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse Trace: 0xe284675d31970fc3
+2026-03-11 00:11:08.669 [info] I0311 00:11:08.669444 430212 http_helpers.go:123] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse Trace: 0x7be549fc9f0ed051
+2026-03-11 00:11:10.862 [info] I0311 00:11:10.861730 430212 planner_generator.go:285] Requesting planner with 14 chat messages at model retry attempt 1 and API retry attempt 1
+2026-03-11 00:11:13.505 [info] I0311 00:11:13.505239 430212 http_helpers.go:123] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse Trace: 0xf912b7a173116c26
+2026-03-11 00:11:20.730 [info] I0311 00:11:20.726157 430212 planner_generator.go:285] Requesting planner with 19 chat messages at model retry attempt 1 and API retry attempt 1
+2026-03-11 00:11:21.577 [info] I0311 00:11:21.577306 430212 planner_generator.go:320] Encountered retryable api error. retrying in 5s. Error (The model is currently unreachable.): UNAVAILABLE (code 503): No capacity available for model claude-opus-4-6-thinking on the server: UNAVAILABLE (code 503): No capacity available for model claude-opus-4-6-thinking on the server
+2026-03-11 00:11:26.579 [info] E0311 00:11:26.578761 430212 log.go:398] UNAVAILABLE (code 503): No capacity available for model claude-opus-4-6-thinking on the server: UNAVAILABLE (code 503): No capacity available for model claude-opus-4-6-thinking on the server
+2026-03-11 00:11:26.581 [info] I0311 00:11:26.581544 430212 planner_generator.go:285] Requesting planner with 20 chat messages at model retry attempt 1 and API retry attempt 2
+2026-03-11 00:11:27.303 [info] I0311 00:11:27.302878 430212 planner_generator.go:320] Encountered retryable api error. retrying in 8.02484511s. Error (The model is currently unreachable.): UNAVAILABLE (code 503): No capacity available for model claude-opus-4-6-thinking on the server: UNAVAILABLE (code 503): No capacity available for model claude-opus-4-6-thinking on the server
+2026-03-11 00:11:35.329 [info] E0311 00:11:35.328900 430212 log.go:398] UNAVAILABLE (code 503): No capacity available for model claude-opus-4-6-thinking on the server: UNAVAILABLE (code 503): No capacity available for model claude-opus-4-6-thinking on the server
+2026-03-11 00:11:35.331 [info] I0311 00:11:35.331511 430212 planner_generator.go:285] Requesting planner with 21 chat messages at model retry attempt 1 and API retry attempt 3
+2026-03-11 00:11:37.052 [info] I0311 00:11:37.052364 430212 http_helpers.go:123] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse Trace: 0xe450a081011bbc6
+2026-03-11 00:11:45.398 [info] I0311 00:11:45.395956 430212 planner_generator.go:285] Requesting planner with 25 chat messages at model retry attempt 1 and API retry attempt 1
+2026-03-11 00:11:47.925 [info] I0311 00:11:47.925136 430212 http_helpers.go:123] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse Trace: 0x5b0e9d4caff1ce3f
+2026-03-11 00:11:53.376 [info] I0311 00:11:53.376532 430212 planner_generator.go:285] Requesting planner with 27 chat messages at model retry attempt 1 and API retry attempt 1
+2026-03-11 00:11:55.689 [info] I0311 00:11:55.689024 430212 http_helpers.go:123] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse Trace: 0x4085afa3a647f5c3
+2026-03-11 00:12:08.413 [info] I0311 00:12:08.413620 430212 planner_generator.go:285] Requesting planner with 29 chat messages at model retry attempt 1 and API retry attempt 1
+2026-03-11 00:12:10.651 [info] I0311 00:12:10.651510 430212 http_helpers.go:123] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse Trace: 0x95db0f17576568cd
+2026-03-11 00:12:22.752 [info] I0311 00:12:22.752635 430212 planner_generator.go:285] Requesting planner with 32 chat messages at model retry attempt 1 and API retry attempt 1
+2026-03-11 00:12:24.035 [info] I0311 00:12:24.035223 430212 planner_generator.go:320] Encountered retryable api error. retrying in 5s. Error (The model is currently unreachable.): UNAVAILABLE (code 503): No capacity available for model claude-opus-4-6-thinking on the server: UNAVAILABLE (code 503): No capacity available for model claude-opus-4-6-thinking on the server
+2026-03-11 00:12:29.036 [info] E0311 00:12:29.036241 430212 log.go:398] UNAVAILABLE (code 503): No capacity available for model claude-opus-4-6-thinking on the server: UNAVAILABLE (code 503): No capacity available for model claude-opus-4-6-thinking on the server
+2026-03-11 00:12:29.041 [info] I0311 00:12:29.041394 430212 planner_generator.go:285] Requesting planner with 33 chat messages at model retry attempt 1 and API retry attempt 2
+2026-03-11 00:12:31.446 [info] I0311 00:12:31.445671 430212 http_helpers.go:123] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse Trace: 0xc47db13ed9e1933e
+2026-03-11 00:12:56.040 [info] E0311 00:12:56.040588 430212 log.go:398] internal: internal error
+2026-03-11 00:12:56.074 [info] E0311 00:12:56.074387 430212 log.go:398] internal: internal error
+2026-03-11 00:12:56.107 [info] I0311 00:12:56.107677 430212 planner_generator.go:285] Requesting planner with 36 chat messages at model retry attempt 1 and API retry attempt 1
+2026-03-11 00:12:58.830 [info] I0311 00:12:58.829655 430212 http_helpers.go:123] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse Trace: 0xa1275ac1fd085905
+2026-03-11 00:20:53.513 [info] I0311 00:20:53.513422 430212 planner_generator.go:285] Requesting planner with 40 chat messages at model retry attempt 1 and API retry attempt 1
+2026-03-11 00:20:57.003 [info] I0311 00:20:57.002622 430212 http_helpers.go:123] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse Trace: 0xabb82f7c0ab1cc24
+2026-03-11 00:20:59.855 [info] I0311 00:20:59.855438 430212 planner_generator.go:285] Requesting planner with 41 chat messages at model retry attempt 1 and API retry attempt 1
+2026-03-11 00:21:02.199 [info] I0311 00:21:02.198847 430212 http_helpers.go:123] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse Trace: 0xa3bd1bac544af429
+2026-03-11 00:21:05.010 [info] I0311 00:21:05.010090 430212 planner_generator.go:285] Requesting planner with 43 chat messages at model retry attempt 1 and API retry attempt 1
+2026-03-11 00:21:07.626 [info] I0311 00:21:07.626067 430212 http_helpers.go:123] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse Trace: 0x513a42b2c4ce9577
+2026-03-11 00:21:11.042 [info] I0311 00:21:11.042153 430212 planner_generator.go:285] Requesting planner with 45 chat messages at model retry attempt 1 and API retry attempt 1
+2026-03-11 00:21:13.872 [info] I0311 00:21:13.872415 430212 http_helpers.go:123] URL: https://daily-cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse Trace: 0xa3551e436fcbcd0d
+2026-03-11 00:21:22.204 [info] I0311 00:21:22.204227 430212 planner_generator.go:285] Requesting planner with 48 chat messages at model retry attempt 1 and API retry attempt 1
+2026-03-11 00:21:23.191 [info] I0311 00:21:23.191457 430212 planner_generator.go:320] Encountered retryable api error. retrying in 5s. Error (The model is currently unreachable.): UNAVAILABLE (code 503): No capacity available for model claude-opus-4-6-thinking on the server: UNAVAILABLE (code 503): No capacity available for model claude-opus-4-6-thinking on the server
+2026-03-11 00:21:28.193 [info] E0311 00:21:28.193134 430212 log.go:398] UNAVAILABLE (code 503): No capacity available for model claude-opus-4-6-thinking on the server: UNAVAILABLE (code 503): No capacity available for model claude-opus-4-6-thinking on the server
+2026-03-11 00:21:28.197 [info] I0311 00:21:28.196832 430212 planner_generator.go:285] Requesting planner with 49 chat messages at model retry attempt 1 and API retry attempt 2
+2026-03-11 00:21:29.337 [info] E0311 00:21:29.337006 430212 log.go:398] agent executor error: RESOURCE_EXHAUSTED (code 429): You have exhausted your capacity on this model. Your quota will reset after 3h6m14s.: RESOURCE_EXHAUSTED (code 429): You have exhausted your capacity on this model. Your quota will reset after 3h6m14s.
